@@ -1,0 +1,550 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/ad1482a0.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Home_page_banner_mobile_wo_text.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Home_page_banner_mobile_wo_text.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_Home%20page%20banner_desktop_wo%20text.webp","alt":""}]]
+e:T3f8b,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="7172">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><div id="fireworks" align="center"></div>
+
+<section class="section spotlight-home-wrap m-0 p-0">
+	<div class="beam-slider main-slider loading1">
+		<div class="swiper-wrapper">
+
+			<div class="swiper-slide nogradient">
+				<div class="slide-bgimg">
+					<picture>
+						<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Home_page_banner_mobile_wo_text.webp">
+						<img loading="lazy" src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_Home%20page%20banner_desktop_wo%20text.webp" alt="Purpose-Led Banner">
+					</picture>
+				</div>
+				<div class="mob-content-home-spotlight">
+					<div class="content text-center text-lg-start">
+
+						<h2 class="heading font-medium font-size-tb">Shikha Sharma</h2>
+	
+					</div>
+				</div>
+			</div>
+
+			
+
+		
+
+		
+
+		<div class="swiper-pagination bullet-bottom"></div>
+	</div>
+
+	
+</div></section>
+
+<style>
+.banner-heading, .banner-small {
+color: black;
+}
+	.spotlight-home-wrap .main-slider .swiper-slide .slide-bgimg.full-height-banner {
+		height: calc(100svh - 110px);
+	}
+
+	.spotlight-home-wrap .main-slider .swiper-slide .slide-bgimg.full-height-banner video {
+		width: 100%;
+
+		height: 100%;
+
+		object-fit: cover;
+	}
+</style>
+</div>
+			
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			<h1 class="heading font-medium" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">THE FIRST PRINT AD OF 1945</h1>
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80" style="height: 100%;">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide dark-content first-print-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Print_Ad_mobile_wo%20text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_Print%20Ad_desktop_wo%20text.webp" class="img-fluid" alt="First Ad" title="Mahindra Group - Pininfarina Battista" loading="lazy">
+					</picture>
+					<div class="content print-ad-content regular-content content-black active bottom-content">
+						<h2 class="heading font-medium">BUILT ON<br>VALUES</h2>
+<p class="text-bold">Not just on product and services</p>
+						<a href="/mahindra-nextjs/about-us/our-story" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+
+				
+
+
+		</div>
+	</div>
+</div></section>
+
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+.beam-slider .swiper-slide:after {
+			 background: none !important;
+}
+.content-black{
+color: black !important;
+}
+.swiper-slide.dark-content.first-print-img img{
+	object-fit: contain;
+	height: 100%;
+}
+.text-bold{
+font-weight: 500 !important;
+}
+@media screen and (max-width: 835px) {
+	.swiper-slide.dark-content.first-print-img img {
+object-fit: cover !important;
+height: calc(100dvh - 54px) !important;
+}
+}
+@media screen and (max-width: 576px) {
+.beam-slider .swiper-slide .content.print-ad-content {
+top: 20%;
+}
+.bottom-content {
+  top: 70% !important;
+}
+}
+section:first-child .beam-slider .swiper-slide .slide-bgimg img {
+    height: 100% !important;
+}
+
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Nanhi%20Kali-Mobile.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Nanhi%20Kali%20banner%2001.webp" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content text-content-center">
+						<h2 class="heading font-medium">1,94,392 GIRLS</h2>
+            <p>Supported in FY '26</p>
+						<a href="https://www.nanhikali.org/" class="btn btn-primary mt-1" target="_blank" rel="noopener">Know More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+  .content-black {
+    color: black !important;
+  }
+
+.beam-slider .swiper-slide .content.text-content-center {
+    width: 87%;
+    text-align: center;
+    top: 65%;
+}
+.beam-slider .swiper-slide .content.text-content-center p{
+    max-width: 100%;
+} 
+@media screen and (max-width: 834px) {
+.beam-slider .swiper-slide .content.text-content-center {
+left: 7%;
+}
+}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_kaabil_mobile_wo_text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_kaabil_desktop_REWQ.webp" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content text-content-center">
+						<h2 class="heading font-medium">4,62,704 WOMEN</h2>
+            <p>Empowered in FY '26</p>
+						<a href="https://kaabilprogram.org/" class="btn btn-primary mt-1" target="_blank" rel="noopener">Know More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+  .content-black {
+    color: black !important;
+  }
+
+.beam-slider .swiper-slide .content.text-content-center {
+    width: 87%;
+    text-align: center;
+    top: 65%;
+}
+.beam-slider .swiper-slide .content.text-content-center p{
+    max-width: 100%;
+} 
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			<h2 class="heading font-medium" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">OUR KEY PLANET POSITIVE<br>INITIATIVES</h2>
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80" style="height: 100%;">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide our-key-planet-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_greening_mobile_wo_text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_greening_desktop_wo%20text.webp" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content">
+						<h2 class="heading font-medium">GREENING <br>OURSELVES</h2>
+						<a href="/mahindra-nextjs/rise/sustainability" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+
+				<div class="swiper-slide our-key-planet-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com//sites/default/files/2026-11/Mahindra_Purpose_Led_rejuvenating_mobile_wo%20text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com//sites/default/files/2026-11/Mahindra%20Purpose%20Led_rejuvenating_desktop_wo%20text.webp" class="img-fluid" alt="Mahindra Purpose Led rejuvenating desktop" title="Planet Positive (Rejuvenating nature)" loading="lazy">
+					</picture>
+					<div class="content regular-conten t">
+						<h2 class="heading font-medium">REJUVENATING <br>NATURE</h2>
+						<a href="/mahindra-nextjs/rise/sustainability" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+
+				<div class="swiper-slide our-key-planet-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_decarbonising_mobile_wo_text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_decarbonising_desktop_wo%20text.webp" class="img-fluid" alt="Planet Positive (Decarbonising industries)" title="Planet Positive (Decarbonising industries)" loading="lazy">
+					</picture>
+					<div class="content regular-content content-black">
+						<h2 class="heading font-medium">DECARBONISING <br>OUR INDUSTRIES</h2>
+						<a href="/mahindra-nextjs/rise/sustainability" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+  .content-black {
+    color: black !important;
+  }
+  .swiper-slide.our-key-planet-img img {
+    object-fit: contain !important;
+    height: 100% !important;
+  }
+  @media screen and (max-width: 835px) {
+    .swiper-slide.our-key-planet-img img {
+   // object-fit: cover !important;
+  //  height: calc(100dvh - 54px) !important;
+  }
+  }
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-94 mob-height-full-box">
+			<div class="swiper-wrapper">
+        <h2 class="heading font-medium culture-heading" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">CULTURAL OUTREACH</h2>
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_cultureoutreach_mobile_wo%20text.gif" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_cultureoutreach_desktop_wo%20text.gif" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content text-content-center">
+						<h2 class="heading font-semibold">MAHINDRA SEASON<br>OF FESTIVALS</h2>
+            <p>Supporting diverse forms of art for over 20 years</p>
+						<a href="/mahindra-nextjs/about-us/cultural-outreach" class="btn btn-primary mt-1">Know More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+  .culture-heading {
+    position: absolute !important;
+    z-index: 2;
+    color: #fff;
+    left: 50%;
+    top: 56px;
+    transform: translateX(-50%) !important;
+text-align: center;
+  }
+  .content-black {
+    color: black !important;
+  }
+
+.beam-slider .swiper-slide .content.text-content-center {
+    width: 87%;
+    text-align: center;
+    top: 63%;
+}
+.beam-slider .swiper-slide .content.text-content-center p{
+    max-width: 100%;
+} 
+
+@media screen and (max-width: 998px) {
+  .mob-height-full-box {
+    height: 100vh;
+  }
+}
+</style>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0">
+  <div class="container">
+		<div class="section-header text-center pb-0">
+			<h2 class="heading font-medium" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">THE MAHINDRA MUSEUM</h2>
+		</div>
+	</div>
+  <div class="container">
+    <div class="position-relative aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <div class="beam-slider main-slider height-60 the-mahindra-museum-section beam-slider-one swiper-container-horizontal">
+        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+          <div class="swiper-slide swiper-slide-active" style="width: 100%; border-radius: 16px;">
+            <picture class="slide-bgimg the-mahindra-museum" style="transform: translateX(0px);">
+              <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_PurposeLed_Museum%20page_mobile_wo%20text.webp" loading="lazy">
+              <img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_PurposeLed_Museum%20page_desktopwo%20text.webp" class="img-fluid mob-height-full-box" alt="Mahindra Museum" title="Mahindra Museum" loading="lazy">
+            </picture>
+            <div class="content active regular-content">
+              <h2 class="heading font-semibold">A MUSEUM OF<br>LIVING HISTORY</h2>
+              <p>Where purpose meets design</p>
+              <a href="/mahindra-nextjs/museum" class="btn btn-primary mt-1">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+  .beam-slider .swiper-slide .slide-bgimg.the-mahindra-museum img {
+    height: auto !important;
+    border-radius: 16px !important;
+  } 
+
+.beam-slider.main-slider.height-60.the-mahindra-museum-section {
+height: 500px !important;
+}
+ .beam-slider .swiper-slide .slide-bgimg.the-mahindra-museum img {
+      height: 100% !important;
+      border-radius: 16px !important;
+    } 
+@media screen and (max-width: 1200px) {
+.beam-slider.main-slider.height-60.the-mahindra-museum-section {
+        height: 330px !important;
+}
+  }
+@media screen and (max-width: 598px) {
+    .beam-slider .swiper-slide .slide-bgimg.the-mahindra-museum img {
+      height: 100% !important;
+      border-radius: 16px !important;
+    } 
+.beam-slider.main-slider.height-60.the-mahindra-museum-section {
+        height: 330px !important;
+}
+  }
+
+</style></div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/ad1482a0.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/ad1482a0.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/ad1482a0.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"purpose-led","data-path":"/shikha-sharma","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"shikha-sharma","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shikha Sharma | Mahindra"}],["$","meta","1",{"name":"description","content":"At Mahindra Purpose-Led, experience art, heritage, and social change — through CSR activities, cultural events, and our museum that tells our story."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

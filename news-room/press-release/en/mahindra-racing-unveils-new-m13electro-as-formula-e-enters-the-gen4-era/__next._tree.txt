@@ -1,0 +1,8 @@
+:HL["/mahindra-nextjs/_next/static/chunks/1ka61tajhxdk0.css","style"]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Medium.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/mahindra-nextjs/css/0f8f81a3.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era","s":[]},"h":64,"c":"$Q2"}]]
+0:{"b":"Wa_sGT5j9mMKtyIHh49yf","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

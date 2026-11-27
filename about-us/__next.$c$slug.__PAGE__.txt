@@ -1,0 +1,1323 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/ad1482a0.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2023-10/Mobile-Innerpage.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2023-10/Mobile-Innerpage.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2023-10/Desktop-Innerpage.webp","alt":""}]]
+e:T1453c,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="6071">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+    <div class="beam-slider main-slider">
+      <div class="swiper-wrapper">
+    
+      <div class="swiper-slide nogradient">
+        <div class="slide-bgimg ">
+          <picture>
+            
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2023-10/Mobile-Innerpage.webp" alt="Jagdish Chandra &amp; Kailash Chandra Mahindra Mobile View Photo" title="Jagdish Chandra &amp; Kailash Chandra Mahindra Mobile View Photo Image">
+            
+            <img src="https://www.mahindra.com/sites/default/files/2023-10/Desktop-Innerpage.webp" alt="Jagdish Chandra &amp; Kailash Chandra Mahindra Desktop View Photo" title="Jagdish Chandra &amp; Kailash Chandra Mahindra Desktop View Photo Image" loading="lazy">
+          </picture>
+        </div>
+        <div class="play-button"><a href="https://youtu.be/uJRn17pqkg8" data-lity="" target="_blank" rel="noopener"><img src="https://www.mahindra.com/themes/custom/mahindra/img/play-icon-big.svg" alt="" loading="lazy"></a></div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="color: white;">Paying Tribute to Our</small>
+            <h2 class="heading font-medium font-size-tb" style="color: white;">Visionary<br>Founders</h2>
+           <p style="color: white;">J. C. Mahindra &amp; K. C. Mahindra <br> On our 78th Founders' Day</p>   
+            
+          </div>
+        </div>
+      </div>
+    
+      <div class="swiper-slide nogradient dark-content">
+    
+        <div class="slide-bgimg ">
+        <picture>
+          <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-09/Corporate%20Film-Mobile_home_Page.webp" alt="Mahindra About us" title="Mahindra About Us Mobile Image" loading="lazy">
+          <img src="https://www.mahindra.com/sites/default/files/2025-09/Corporate%20Film-Homepage%20Banner-V2.webp" alt="Mahindra About us" title="Mahindra About Us Image" loading="lazy">
+        </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+        <div class="content text-center text-lg-start">
+          <small>Our Group</small>
+			  <h2 class="heading font-medium font-size-tb">Corporate<br>Film</h2>
+			  <p>The numbers we are most proud of <br> are the number of lives we've touched</p>
+        <a href="https://www.youtube.com/watch?v=WhetjxhW4qk" class="btn btn-primary" target="_blank" rel="noopener">Watch Now</a>
+        </div>
+        </div>
+      </div>
+    
+      </div>
+    
+      <div class="swiper-button-prev slide-home-btn swiper-button-white"></div>
+      <div class="swiper-button-next slide-home-btn swiper-button-white"></div>
+      <div class="swiper-pagination bullet-bottom"></div>
+    
+    </div>
+    </section></div>
+			
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section text-center key-facts">
+  <div class="container">
+    <div class="row">
+      <div class="breadcumb aos-init" data-aos-easing="ease-in-out" data-aos="fade-up"><a href="/mahindra-nextjs/">Home</a><span>About Us</span>
+      </div>
+    </div>
+  </div>
+  <div class="section-header text-center">
+      <h1 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Key Facts</h1>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+  </p></div>
+  <div class="image" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <picture>
+          
+          <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/keyfacts-mob.webp" alt="Mahindra Car Production Assembly Mobile View" title="Mahindra Car Production Assembly Mobile View Image">
+          
+          <img src="https://www.mahindra.com/sites/default/files/img/keyfacts.webp" alt="Mahindra Car Production Assembly Desktop View" title="Mahindra Car Production Assembly Desktop View Image" class="img-fluid" loading="lazy">
+      </picture>
+  </div>
+  <ul>
+      <li>
+          <div class="wrap" data-aos="fade-up" data-aos-delay="100">
+              <h4>$29 B+</h4>
+              <p>Group Turnover</p>
+          </div>
+      </li>
+      <li>
+          <div class="wrap" data-aos="fade-up" data-aos-delay="400">
+              <h4>327K+ </h4>
+              <p>People</p>
+          </div>
+      </li>
+      <li>
+          <div class="wrap" data-aos="fade-up" data-aos-delay="700">
+              <h4>81</h4>
+              <p>Years</p>
+          </div>
+      </li>
+  </ul>
+</section>
+<section class="section discoverSection meet-leaders grey-bg">
+  <div class="container">
+      <div class="section-header text-center">
+          <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Meet our Leaders</h2>
+      </div>
+      <div class="tab-nav">
+          <ul class="nav">
+              <li class="nav-item" data-aos="fade-up" data-aos-delay="100">
+                  <a class="nav-link active" href="#bod">Board of Directors</a>
+              </li>
+              <li class="nav-item" data-aos="fade-up" data-aos-delay="200">
+                  <a class="nav-link " href="#ge">Group Executive Board</a>
+              </li>
+          </ul>
+      </div>
+      <div class="tab-content">
+          <div class="tab-pane fade show active" id="bod">
+              <div class="flickity-slider-wrap three-column-slider arrow-position-bottom dark-arrow hide-arrow-in-mobile" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: true, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;, &quot;lazyLoad&quot;: 4, &quot;groupCells&quot;: true, &quot;contain&quot;: true }">
+          
+
+
+
+
+
+
+
+
+
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/mr-anand-mahindra"><img src="https://www.mahindra.com/sites/default/files/2022-10/Anand%20Mahindra%20desktop.jpg" class="img-fluid" alt="Mr. Anand Mahindra, Chairman of Mahindra Group " title="Portrait of Mr. Anand Mahindra, Chairman of Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Anand Mahindra</h4>
+                            <p>Chairman, Mahindra Group</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://twitter.com/anandmahindra" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/dr-anish-shah"><img src="https://www.mahindra.com/sites/default/files/2025-05/Dr%20Anish%20Shah_Thumbmail.webp" class="img-fluid" alt="Dr. Anish Shah, Group CEO and MD of Mahindra Group " title="Portrait of Dr. Anish Shah, Group CEO and MD of Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Dr. Anish Shah</h4>
+                            <p>Group CEO and MD</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://twitter.com/anishshah21?lang=en" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/anishdshah/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/mr-rajesh-jejurikar"><img src="https://www.mahindra.com/sites/default/files/2025-12/Mahindra%20Rise%20Rajesh%20Image%20413%20%C3%97%20430%20px.webp" class="img-fluid" alt="Mr. Rajesh Jejurikar, Executive Director and CEO of Auto and Farm Sectors at Mahindra Group " title="Portrait of Mr. Rajesh Jejurikar, Executive Director and CEO of Auto and Farm Sectors at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Rajesh Jejurikar</h4>
+                            <p>ED &amp; CEO, Auto &amp; Farm Sectors</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://twitter.com/rajesh664" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/rajesh-jejurikar-03aa64124/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/shikha-sharma"><img src="https://www.mahindra.com/sites/default/files/2022-10/shikha-sharma%20desktop.jpg" class="img-fluid" alt="Ms. Shikha Sharma, Independent Director at Mahindra Group " title="Portrait of Ms. Shikha Sharma, Independent Director at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Ms. Shikha Sharma</h4>
+                            <p>Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/nisaba-godrej"><img src="https://www.mahindra.com/sites/default/files/2022-10/Nisaba-Godrej%20desktop.jpg" class="img-fluid" alt="Ms. Nisaba Godrej, Independent Director at Mahindra Group " title="Portrait of Ms. Nisaba Godrej, Independent Director at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Ms. Nisaba Godrej</h4>
+                            <p>Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://in.linkedin.com/in/nisaba-godrej-08507a79" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/muthiah-murugappan"><img src="https://www.mahindra.com/sites/default/files/2022-10/MUTHIAH-413-X-430.jpg" class="img-fluid" alt="Mr. Muthiah Murugappan, Independent Director at Mahindra Group " title="Portrait of Mr. Muthiah Murugappan, Independent Director at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Muthiah Murugappan</h4>
+                            <p>Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://in.linkedin.com/in/muthumurugappan" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/padmasree-warrior"><img src="https://www.mahindra.com/sites/default/files/2024-09/Ms-Padmashree-Warrior-Thumbnail.webp" class="img-fluid" alt="Ms. Padmasree Warrior, Independent Director at Mahindra Group " title="Portrait of Ms. Padmasree Warrior, Independent Director at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Ms. Padmasree Warrior</h4>
+                            <p>Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/ranjan-pant"><img src="https://www.mahindra.com/sites/default/files/2024-05/Pant-413-x-430_0.jpg" class="img-fluid" alt="Mr. Ranjan Pant, Non-Executive and Non-Independent Director at Mahindra Group " title="Portrait of Mr. Ranjan Pant, Non-Executive and Non-Independent Director at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Ranjan Pant</h4>
+                            <p>Non-Executive and Non-Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/sat-pal-bhanoo"><img src="https://www.mahindra.com/sites/default/files/2024-05/Banoo-413-x-430_0.jpg" class="img-fluid" alt="Mr. Sat Pal Bhanoo, Non-Executive and Non-Independent Director at Mahindra Group " title="Portrait of Mr. Sat Pal Bhanoo, Non-Executive and Non-Independent Director at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Sat Pal Bhanoo</h4>
+                            <p>Non-Executive and Non-Independent Director (Nominee of LIC)</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/Mr-MP-Vijay-Kumar"><img src="https://www.mahindra.com/sites/default/files/2025-10/MPV-PP-2019%20413%20%C3%97%20430%20px_0.webp" class="img-fluid" alt="Mr. M.P. Vijay Kumar Independent Director at Mahindra Group " title="Mr. M.P. Vijay Kumar" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. M.P. Vijay Kumar</h4>
+                            <p>Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/Ms-Samina-Hamied"><img src="https://www.mahindra.com/sites/default/files/2025-10/Image%20SH-1Y5A7190%20413%20%C3%97%20430%20px.webp" class="img-fluid" alt="Ms. Samina Hamied Independent Director at Mahindra Group " title="Ms. Samina Hamied" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Ms. Samina Hamied</h4>
+                            <p>Independent Director</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+
+
+
+
+
+
+
+
+
+
+              </div>
+              
+          </div>
+    <div class="tab-pane fade" id="ge">
+              <div class="flickity-slider-wrap three-column-slider arrow-position-bottom dark-arrow hide-arrow-in-mobile" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: true, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;, &quot;lazyLoad&quot;: 4, &quot;groupCells&quot;: true, &quot;contain&quot;: true }">
+          
+
+
+
+
+
+
+
+
+
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/mr-anand-mahindra"><img src="https://www.mahindra.com/sites/default/files/2022-10/Anand%20Mahindra%20desktop.jpg" class="img-fluid" alt="Mr. Anand Mahindra, Chairman of Mahindra Group" title="Portrait of Mr. Anand Mahindra, Chairman of Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Anand Mahindra</h4>
+                            <p>Chairman, Mahindra Group</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://twitter.com/anandmahindra" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/dr-anish-shah"><img src="https://www.mahindra.com/sites/default/files/2025-05/Dr%20Anish%20Shah_Thumbmail.webp" class="img-fluid" alt="Dr. Anish Shah, Group CEO and MD of Mahindra Group" title="Portrait of Dr. Anish Shah, Group CEO and MD of Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Dr. Anish Shah</h4>
+                            <p>Group CEO and MD</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://twitter.com/anishshah21?lang=en" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/anishdshah/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/mr-rajesh-jejurikar"><img src="https://www.mahindra.com/sites/default/files/2025-12/Mahindra%20Rise%20Rajesh%20Image%20413%20%C3%97%20430%20px.webp" class="img-fluid" alt="Mr. Rajesh Jejurikar, Executive Director and CEO of Auto and Farm Sectors at Mahindra Group" title="Portrait of Mr. Rajesh Jejurikar, Executive Director and CEO of Auto and Farm Sectors at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Rajesh Jejurikar</h4>
+                            <p>ED &amp; CEO, Auto &amp; Farm Sectors</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://twitter.com/rajesh664" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/rajesh-jejurikar-03aa64124/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/abanti-sankaranarayanan"><img src="https://www.mahindra.com/sites/default/files/2024-08/Abanti_Thumbnail_0.webp" class="img-fluid" alt="Ms. Abanti Sankaranarayanan, EVP - Group Public Affairs at Mahindra Group" title="Portrait of Ms. Abanti Sankaranarayanan, EVP - Group Public Affairs at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Ms. Abanti Sankaranarayanan</h4>
+                            <p>EVP - Group Public Affairs</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/AbantiSankaran1" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/abanti-sankaranarayanan-41979213b/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/amarjyoti-barua"><img src="https://www.mahindra.com/sites/default/files/2025-03/Amarjyoti-Barua_413x430_0.webp" class="img-fluid" alt="Mr. Amarjyoti Barua, Group Chief Financial Officer at Mahindra Group" title="Portrait of Mr. Amarjyoti Barua, Group Chief Financial Officer at Mahindra Group." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Amarjyoti Barua</h4>
+                            <p>Group Chief Financial Officer</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/amarjyoti-barua-9b22222/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/amit-kumar-sinha"><img src="https://www.mahindra.com/sites/default/files/2022-10/AMIT-SINHA-413-X-430.jpg" class="img-fluid" alt="Mr. Amit Kumar Sinha, MD &amp; CEO - Mahindra Lifespaces and Group Executive Board Member" title="Portrait of Mr. Amit Kumar Sinha, MD &amp; CEO - Mahindra Lifespaces and Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Amit Kumar Sinha</h4>
+                            <p>MD &amp; CEO - Mahindra Lifespaces</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/amitsinha73" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://in.linkedin.com/in/amitsinha3" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/hemant-sikka"><img src="https://www.mahindra.com/sites/default/files/2022-10/HEMANT-SIKKA-413-X-430.jpg" class="img-fluid" alt="Mr. Hemant Sikka, President - Mahindra Farm Equipment Sector, Group Executive Board Member" title="Portrait of Mr. Hemant Sikka, President - Mahindra Farm Equipment Sector, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Hemant Sikka</h4>
+                            <p>MD &amp; CEO - Mahindra Logistics</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/hsikka1" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/lakshmanan-chidambaram"><img src="https://www.mahindra.com/sites/default/files/2024-10/CTL_Thumbmail.webp" class="img-fluid" alt="Mr. Lakshmanan Chidambaram, MD &amp; CEO - Bristlecone" title="Portrait of Mr. Lakshmanan Chidambaram, MD &amp; CEO - Bristlecone." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Lakshmanan Chidambaram</h4>
+                            <p>MD &amp; CEO - Bristlecone</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://www.twitter.com/C_T_Lakshmanan" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/lakshmanan-chidambaram-1810181/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/manoj-bhat"><img src="https://www.mahindra.com/sites/default/files/2025-06/Manoj%20Bhat__413%20x%20430.webp" class="img-fluid" alt="Mr. Manoj Bhat, MD &amp; CEO - Mahindra Holidays &amp; Resorts Limited, Group Executive Board Member" title="Portrait of Mr. Manoj Bhat, MD &amp; CEO - Mahindra Holidays &amp; Resorts Limited, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Manoj Bhat</h4>
+                            <p>MD &amp; CEO - Mahindra Holidays &amp; Resorts Limited</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/manoj-bhat-b612a11/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/mohit-joshi"><img src="https://www.mahindra.com/sites/default/files/2024-04/Thumbnail_413x430_Mohit-Joshi.jpg" class="img-fluid" alt="Mr. Mohit Joshi, MD &amp; CEO - Tech Mahindra, Group Executive Board Member" title="Portrait of Mr. Mohit Joshi, MD &amp; CEO - Tech Mahindra, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Mohit Joshi</h4>
+                            <p>MD &amp; CEO - Tech Mahindra</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/mohitjoshi74" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="http://linkedin.com/in/themohitjoshipage" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/mohit-kapoor"><img src="https://www.mahindra.com/sites/default/files/2024-08/Thumbnail_413x430_mohit-kapoor_1.webp" class="img-fluid" alt="Mr. Mohit Kapoor, Group Chief Technology Officer, Mahindra Group, Group Executive Board Member" title="Portrait of Mr. Mohit Kapoor, Group Chief Technology Officer, Mahindra Group, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Mohit Kapoor</h4>
+                            <p>Group Chief Technology Officer</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/MoKa_poor" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/moka2020/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/naveen-raju"><img src="https://www.mahindra.com/sites/default/files/2025-03/Naveen-Raju_413x430_0.webp" class="img-fluid" alt="Mr. Naveen Raju, General Counsel &amp; EVP - Group Legal, Mahindra Group, Group Executive Board Member" title="Portrait of Mr. Naveen Raju, General Counsel &amp; EVP - Group Legal, Mahindra Group, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Naveen Raju</h4>
+                            <p>General Counsel &amp; EVP - Group Legal</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/rajunaveenk" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/naveen-raju-481bb18" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/puneet-renjhen"><img src="https://www.mahindra.com/sites/default/files/2025-09/GEB%20413%20%C3%97%20430%20px%202.webp" class="img-fluid" alt="Mr. Puneet Renjhen, EVP - Group Partnerships &amp; Alliances, Mahindra Group, Group Executive Board Member" title="Portrait of Mr. Puneet Renjhen, EVP - Group Partnerships &amp; Alliances, Mahindra Group, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Puneet Renjhen</h4>
+                            <p>EVP - Group Partnerships &amp; Alliances</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/puneet-renjhen-1b12481" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/r-velusamy"><img src="https://www.mahindra.com/sites/default/files/2025-09/Velu%20413%20%C3%97%20430%20px%201.webp" class="img-fluid" alt="Mr. Velusamy R, President - Automotive Technology &amp; Product Development, Mahindra Group, Group Executive Board Member, Joint Managing Director, Mahindra Electric Automobile Limited" title="Portrait of Mr. Velusamy R, President - Automotive Technology &amp; Product Development, Mahindra Group, Group Executive Board Member, and Joint MD, Mahindra Electric." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Velusamy R</h4>
+                            <p>President - Automotive Business, M&amp;M<br>Managing Director - Mahindra Electric Automobile Limited.<br>Chairman of the Board - Mahindra Racing UK &amp; Board of Director at PF Holdings B.V.</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/Velu_Mahindra" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/r-velusamy-70998742/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/raul-rebello"><img src="https://www.mahindra.com/sites/default/files/2025-03/Raul-Rebello_413x430.webp" class="img-fluid" alt="Mr. Raul Rebello, MD &amp; CEO - Mahindra Finance, Group Executive Board Member" title="Portrait of Mr. Raul Rebello, MD &amp; CEO - Mahindra Finance, Group Executive Board Member." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Raul Rebello</h4>
+                            <p>MD &amp; CEO - Mahindra Finance</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/RebelloRaul" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/raul-rebello-6446535/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/veejay-ram-nakra"><img src="https://www.mahindra.com/sites/default/files/2025-03/Veejay-Ram-Nakra_413x430_0.webp" class="img-fluid" alt="Veejay Ram Nakra, President of Mahindra &amp; Mahindra’s Farm Equipment Business." title="Portrait of Mr. Veejay Ram Nakra, President of Mahindra &amp; Mahindra’s Farm Equipment Business." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Veejay Ram Nakra</h4>
+                            <p>President - Farm Equipment Business</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/vijaynakra" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/veejay-nakra-2982837b/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/vinod-sahay"><img src="https://www.mahindra.com/sites/default/files/2025-03/Vinod%20Sahay_thumbail.jpg" class="img-fluid" alt="Vinod Sahay, President of Mahindra Group’s Aerospace and Defence, Trucks, Buses, and Construction Equipment Sectors" title="Portrait of Mr. Vinod Sahay, President of Mahindra Group’s Aerospace and Defence, Trucks, Buses, and Construction Equipment Sectors." loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Vinod Sahay</h4>
+                            <p>President – Mahindra Aerospace, Advanced Technologies and Trucks &amp; Buses</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/vinod_sahay" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/vinod-sahay-82131633/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/harish-chavan"><img src="https://www.mahindra.com/sites/default/files/2025-09/Harish%20Chavan%20Image%20413%20%C3%97%20430%20px.webp" class="img-fluid" alt="Mahindra Group - Mahindra Future Group of Leaders" title="Mahindra Group - Mahindra Future Group of Leaders" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Harish Chavan</h4>
+                            <p>Chief Purchase Officer - Auto &amp; Farm Sector</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  <li>
+                                      <a href="https://x.com/chavan_harish" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/twitter.svg">
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/harish-chavan-749873135/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/parag-rao"><img src="https://www.mahindra.com/sites/default/files/2025-12/Parag-Rao-thumbnail.webp" class="img-fluid" alt="" title="" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Parag Rao</h4>
+                            <p>Growth Leader - Financial Services</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/rohit-thakur"><img src="https://www.mahindra.com/sites/default/files/2026-05/Mahindra_Rohit%20413%20x%20430.jpg.webp" class="img-fluid" alt="" title="" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Rohit Thakur</h4>
+                            <p>Group Chief Human Resources Officer</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/rohit-thakur-479947/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/rajeev-goyal"><img src="https://www.mahindra.com/sites/default/files/2026-06/Rajeev%20Goyal%20-%20Profile%20Photoshoot%20Images%20413%20%C3%97%20430%20px.jpg.webp" class="img-fluid" alt="Rajeev Goyal, CEO of Agri and New Energy (including Powerol) Businesses at Mahindra Group" title="Rajeev Goyal, CEO of Agri and New Energy (including Powerol) Businesses at Mahindra Group" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Mr. Rajeev Goyal</h4>
+                            <p>CEO of Agri and New Energy (including Powerol) Businesses</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/rajeev-goyal-56062516/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+    <div class="col-lg-4 col mb-3 discover-block"><div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+                          <div class="discoverImg">
+                            <a href="/mahindra-nextjs/shveta-arya"><img src="https://www.mahindra.com/sites/default/files/2026-10/413%20%C3%97%20430%20px.jpg.webp" class="img-fluid" alt="" title="" loading="lazy"></a>
+                          </div>
+                          <div class="discoverContent">
+                            <h4>Ms. Shveta Arya</h4>
+                            <p>Group Chief Strategy Officer</p>
+                            <div class="bottom-link">
+                              <ul class="socialLinks">
+                                  
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/shveta-arya-741aa76/" target="_blank" rel="noopener">
+                                          <img src="https://www.mahindra.com/themes/custom/mahindra/img/linkedin.svg">
+                                      </a>
+                                  </li>
+                              </ul>
+                              
+                            </div>
+                          </div>
+                        </div></div>
+
+
+
+
+
+
+
+
+
+
+              </div>
+              
+          </div>
+          
+</div></div></section>
+<section class="section text-center mb-0">
+  <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Our Story</h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">What began as
+          a steel trading business seven decades ago, has grown into a global brand that traverses nations and sectors.
+      </p>
+      <div class="container mt-2">
+          <div class="extButton text-center" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out"><a href="/mahindra-nextjs/about-us/our-story">Explore Timeline<img src="https://www.mahindra.com/themes/custom/mahindra/img/tilt-arrow.svg" loading="lazy"></a></div>
+      </div>
+  </div>
+  <div class="container">
+      <div class="row">
+          <div class="col-12">
+              <div class="image-overlay" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+                  <picture>
+                      
+                      <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/about-our-story-mob.webp" loading="lazy" alt="Mahindra Jeep Train Mobile View" title="Mahindra Jeep Train Mobile View Image">
+                      
+                      <img src="https://www.mahindra.com/sites/default/files/img/about-our-story.webp" class="img-fluid" alt="Jeep Train Photo" title="Jeep Train Image" loading="lazy">
+                  </picture>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+<section class="section mt-0 mb-0 pb-0 grey-bg">
+  <div class="container">
+      <div class="section-header text-center">
+          <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Our ESG focus</h2>
+          <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Rooted in
+              ethics. Growing with trust.</p>
+      </div>
+  </div>
+  <div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <div class="beam-slider main-slider loading height-80" style="padding-top: 0;">
+          <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                  <picture class="slide-bgimg">
+                      
+                      <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/our-esg-focus-1-mob.webp" alt="Project Nanhi Kali Empowering Girl Child" title="Project Nanhi Kali Empowering Girl Child Image" loading="lazy">
+                      
+                      <img src="https://www.mahindra.com/sites/default/files/img/our-esg-focus-1.webp" class="img-fluid" alt="Project Nanhi Kali for Girls Photo" title="Project Nanhi Kali for Girls Image" loading="lazy">
+                  </picture>
+                  <div class="content regular-content">
+                      <h2 class="heading font-medium">940K+ girls educated</h2>
+                      <p>Project Nanhi Kali. Where girls learn they matter. </p>
+                  </div>
+              </div>
+              <div class="swiper-slide">
+                  <picture class="slide-bgimg">
+                      
+                      <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/our-esg-focus-2-mob.webp" loading="lazy" alt="Long Green Trees Photo" title="Long Green Trees Images">
+                      
+                      <img src="https://www.mahindra.com/sites/default/files/img/our-esg-focus-2.webp" class="img-fluid" alt="Looking up green forest Photo" title="Looking up green forest Image" loading="lazy">
+                  </picture>
+                  <div class="content regular-content">
+                      <h2 class="heading font-medium">Carbon Neutral by 2040</h2>
+                      <p>Our commitment to the planet.</p>
+                  </div>
+              </div>
+              <div class="swiper-slide">
+                  <picture class="slide-bgimg">
+                      
+                      <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/our-esg-focus-3-mob.webp" alt="Mahindra History Photo Wall" title="Mahindra History Photo Wall Image" loading="lazy">
+                      
+                      <img src="https://www.mahindra.com/sites/default/files/img/our-esg-focus-3.webp" class="img-fluid" alt="Mahindra History Photo Wall" title="Mahindra History Photo Wall Image" loading="lazy">
+                  </picture>
+                  <div class="content regular-content">
+                      <h2 class="heading font-medium">Gold Standards in Governance</h2>
+                      <p>Ethics guide everything we do.</p>
+                  </div>
+              </div>
+          </div>
+          
+          <div class="swiper-button-prev swiper-button-white"></div>
+          <div class="swiper-button-next swiper-button-white"></div>
+          <div class="swiper-pagination"></div>
+      </div>
+  </div>
+</section>
+<section class="section mb-0">
+  <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Cultural Connect</h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Moving people
+          to Rise together.</p>
+      <div class="container mt-2">
+          <div class="extButton text-center" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out"><a href="/mahindra-nextjs/cultural-outreach" target="">Explore Events<img src="https://www.mahindra.com/themes/custom/mahindra/img/tilt-arrow.svg" loading="lazy"></a></div>
+      </div>
+  </div>
+  <div class="container-md">
+      <div class="image-overlay" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+          <picture>
+              
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/about-cultural-mob.webp" loading="lazy" alt="Robert Randolph Cultural Connect Performance" title="Robert Randolph Cultural Connect Performance Image">
+              
+              <img src="https://www.mahindra.com/sites/default/files/img/about-cultural.webp" class="img-fluid" alt="Robert Randolph &amp; The Family Band Photo" title="Robert Randolph &amp; The Family Band Image" loading="lazy">
+          </picture>
+      </div>
+  </div>
+</section>
+
+<section class="section mb-0 about-museum pb-0">
+  <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Museum of Living History</h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Connecting
+          Mahindra Group’s historic richness to its evolving present and undiscovered future. </p>
+      <div class="container mt-2">
+          <div class="extButton text-center" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out"><a href="/mahindra-nextjs/museum">Explore<img src="https://www.mahindra.com/themes/custom/mahindra/img/msg.svg" loading="lazy"></a></div>
+      </div>
+  </div>
+  <div class="image-overlay" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <picture>
+          
+          <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2023-07/Museum_about%20us_updated%20image_mobile_0.webp" alt="Mahindra Museum of Living History Mobile View" title="Mahindra Museum of Living History Mobile Image" loading="lazy">
+          
+          <img src="https://www.mahindra.com/sites/default/files/2023-07/Museum_about%20us_updated%20image_desktop_0.webp" class="img-fluid" alt="Mahindra Museum of Living History" title="Mahindra Museum of Living History Image" loading="lazy">
+      </picture>
+  </div>
+</section>
+<section class="section grey-bg intitute-sec ">
+  <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Education Institutes</h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Supporting
+          education to build the next generation of leaders.</p>
+  </div>
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-3 col-12">
+              <ul class="institute-list vertical-tab">
+                  <li data-aos="fade-up" data-aos-delay="100">
+                      <a href="#institute1" class="active">mahindra university</a>
+                  </li>
+                  <li data-aos="fade-up" data-aos-delay="200">
+                      <a href="#institute2">Muwci</a>
+                  </li>
+                  <li data-aos="fade-up" data-aos-delay="300">
+                      <a href="#institute3">mahindra international school, pune</a>
+                  </li>
+                  <li data-aos="fade-up" data-aos-delay="400">
+                      <a href="#institute4">mahindra academy, mumbai</a>
+                  </li>
+                  <li data-aos="fade-up" data-aos-delay="500">
+                      <a href="#institute5">JC Mahindra Memorial School, Khopoli</a>
+                  </li>
+                  <li data-aos="fade-up" data-aos-delay="600">
+                      <a href="#institute6">Mahindra Academy, Zaheerabad</a>
+                  </li>
+                  <li data-aos="fade-up" data-aos-delay="700">
+                      <a href="#institute7">Mahindra World School, Chennai</a>
+                  </li>
+              </ul>
+          </div>
+          <div class="col-lg-9 col-12" data-aos="fade-up" data-aos-delay="400">
+              <div class="tab-content">
+                  <div class="tab-pane active" id="institute1">
+                      <h5 class="hide-dektop active">mahindra university</h5>
+                      <div class="tab-pane-content" style="display: block">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/indtitute1-mob.webp" loading="lazy" alt="Mahindra University" title="Mahindra University Image">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/indtitute1.webp" alt="Mahindra University Photo" title="Mahindra University Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content active">
+                              <h3>Mahindra University</h3>
+                              <p>An Interdisciplinary Global Education</p>
+                              <a href="https://www.mahindrauniversity.edu.in/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="institute2">
+                      <h5 class="hide-dektop">Muwci</h5>
+                      <div class="tab-pane-content">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/muwci-mob.webp" alt="MUWCI - Children Playing Together Mobile Image" title="MUWCI - Children Playing Together Image Mobile" loading="lazy">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/muwci.webp" alt="MUWCI - Children Playing Together" title="MUWCI - Children Playing Together Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content">
+                              <h3>Mahindra United World Colleges India (MUWCI)</h3>
+                              <p>A whole new learning experience designed to build community, inspire, and challenge.
+                              </p>
+                              <a href="https://uwcmahindracollege.org/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="institute3">
+                      <h5 class="hide-dektop">mahindra international school, pune</h5>
+                      <div class="tab-pane-content">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/mis-pune-mob.webp" loading="lazy">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/mis-pune.webp" alt="Mahindra International School Pune Photo" title="Mahindra International School Pune Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content">
+                              <h3>Mahindra International School, Pune</h3>
+                              <p>The first school in India to offer three International Baccalaureate (IB) programs
+                                  over twenty years ago. </p>
+                              <a href="https://misp.org/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="institute4">
+                      <h5 class="hide-dektop">Mahindra Academy, Mumbai</h5>
+                      <div class="tab-pane-content">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/mahindra-academy-mum-mob.webp" loading="lazy">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/mahindra-academy-mum.webp" alt="Mahindra Academy Mumbai Photo" title="Mahindra Academy Mumbai Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content">
+                              <h3>Mahindra Academy, Mumbai</h3>
+                              <p>Value-based and formal education work together to build a well-integrated
+                                  personality.</p>
+                              <a href="http://www.mahindraacademy.org/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="institute5">
+                      <h5 class="hide-dektop">Mahindra Memorial School, Khopoli</h5>
+                      <div class="tab-pane-content">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/jc-memorial-mob.webp" loading="lazy">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/jc-memorial.webp" alt="JC Mahindra Memorial School Khopoli Photo" title="JC Mahindra Memorial School Khopoli Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content">
+                              <h3>JC Mahindra Memorial School, Khopoli</h3>
+                              <p>Empowering students to find their voice and unleash their full potential. </p>
+                              <a href="http://www.mahindraacademy.org/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="institute6">
+                      <h5 class="hide-dektop">Mahindra Academy, Zaheerabad</h5>
+                      <div class="tab-pane-content">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/mahindra-academy-zaherabad-mob.webp" loading="lazy">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/mahindra-academy-zaherabad.webp" alt="Mahindra Academy Zaheerabad Photo" title="Mahindra Academy Zaheerabad Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content">
+                              <h3>Mahindra Academy, Zaheerabad</h3>
+                              <p>A well-researched curriculum based on learning through play. </p>
+                              <a href="http://www.mahindraacademy.org/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="institute7">
+                      <h5 class="hide-dektop">Mahindra World School, Chennai</h5>
+                      <div class="tab-pane-content">
+                          <div class="image">
+                              <picture>
+                                  
+                                  <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/mws-chennai-mob.webp" loading="lazy">
+                                  
+                                  <img src="https://www.mahindra.com/sites/default/files/img/mws-chennai.webp" alt="Mahindra World School Chennai Photo" title="Mahindra World School Chennai Image" loading="lazy">
+                              </picture>
+                          </div>
+                          <div class="content">
+                              <h3>Mahindra World School, Chennai</h3>
+                              <p>A 25:1 student:teacher ratio with an emphasis on higher order thinking skills
+                                  against rote learning. </p>
+                              <a href="https://www.mahindraworldschool.com/" target="_blank" rel="noopener">Learn more <svg width="13" height="12" viewBox="0 0 13 12" fill="none">
+                                      <g clip-path="url(#clip0_1003_3417)">
+                                          <path d="M4.0957 0V1H10.3907L0.0957031 11.295L0.800703 12L11.0957 1.705V8H12.0957V0H4.0957Z" fill="#fff"></path>
+                                      </g>
+                                      <defs>
+                                          <clipPath id="clip0_1003_3417">
+                                              <rect width="12" height="12" fill="white" transform="translate(0.0957031)"></rect>
+                                          </clipPath>
+                                      </defs>
+                                  </svg>
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section contact-us">
+    <div class="container-1280">
+        <div class="row">
+        <div class="col-12">
+            <div class="section-header text-center">
+            <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">get in touch</h2>
+            </div>
+        </div>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        <div class="col-md-7 col-12 pe-md-0">
+            <div class="image" data-scroll="">
+            <picture>
+                
+                <source media="(max-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/img/TechM-Pune-Office-1-mob.webp">
+                
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/img/TechM-Pune-Office-1.webp" alt="">
+            </picture>
+            </div>
+        </div>
+        <div class="col-md-5 col-12 ps-md-0">
+            <div class="inquiry-text">
+            <h5 class="text-white mb-4 text-uppercase">For all media queries mail us at</h5>
+            <h5><a class="text-white text-break" href="/mahindra-nextjs/cdn-cgi/l/email-protection#c7acafa6a9a3a2abb0a6abe9b4b0a6b3ae87aaa6afaea9a3b5a6e9a4a8aa" style="font-family: georama, sans-serif;" tabindex="-1"><span class="__cf_email__" data-cfemail="117a79707f75747d66707d3f6266706578517c7079787f7563703f727e7c">[email&nbsp;protected]</span></a></h5>
+            
+            </div>
+        </div>
+        </div>
+    </div>
+    </section></div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/ad1482a0.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/ad1482a0.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/ad1482a0.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"about-us","data-path":"/about-us","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"about-us","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About Mahindra – History, Leadership, and CSR Commitment"}],["$","meta","1",{"name":"description","content":"Learn about Mahindra: our history, leadership and board of directors, and how we drive CSR activities and purpose-led value across global operations."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

@@ -1,0 +1,274 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/ad1482a0.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner-2.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner-2.webp"}],["$","source","https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner%281%29.webp",{"media":"(min-width: 800px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner%281%29.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner%281%29.webp","alt":""}]]
+e:T1df4,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="6954">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+    <div class="beam-slider main-slider">
+      <div class="swiper-wrapper">        
+        
+
+
+
+
+
+
+
+
+
+
+
+				
+				
+				
+	<div class="swiper-slide nogradient dark-content ">
+		<div class="slide-bgimg">
+			<picture>
+				<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner-2.webp">
+				<source media="(min-width: 800px)" srcset="https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner%281%29.webp">
+				<img src="https://www.mahindra.com/sites/default/files/2025-06/MLP%20Page%20Banner%281%29.webp" alt="" title="">
+			</picture>
+		</div>
+		<div class="mob-content-home-spotlight">
+			<div class="content text-center text-lg-start">
+									<small>MLP</small>
+																			<h1 class="heading font-medium font-size-tb">Mahindra Leaders<br>Program</h1>
+																		<p><strong>Attracting and developing top leadership talent from premier B-schools</strong></p>
+											</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      <div class="swiper-button-prev swiper-button-white"></div>
+      <div class="swiper-button-next swiper-button-white"></div>
+      <div class="swiper-pagination"></div>
+    </div>  
+  </section>
+<style>
+@media screen and (max-width: 834px){
+.spotlight-home-wrap .main-slider .swiper-slide:before {
+  background: none;
+}}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section carrerOverviewSection ">
+	<div class="container">
+		<div class="section-header text-center">
+		  <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">MLP OVERVIEW</h2>
+		  <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Mahindra Leaders Program focuses on attracting top leadership talent at the entry level from premier B-Schools across the country. It aims to strengthen Mahindra's position as an 'Employer of Choice' on these campuses, building a robust talent pool to drive Mahindra's future growth.</p>
+		</div>
+	  </div>
+	<div class="container mt-4">
+		<div class="row">
+		<div class="col-md mb-lg-2 mb-5 pos-r" data-aos="fade-up" data-aos-delay="100">
+		  <div class="overviewImg">
+			<picture>
+			  <img src="https://www.mahindra.com/sites/default/files/2025-01/Exposure-to-diverse-businesses-at-various-growth-stages.webp" width="auto" height="auto" alt="Exposure to diverse businesses at various growth stages, Mahindra Leaders Program" loading="lazy">
+			</picture>
+		  </div>
+		  <div class="overviewContent mt-3 text-lg-start text-center">
+			<p class="clrRed">Exposure to diverse businesses at various growth stages</p>
+			<p></p>
+		  </div>
+		</div>
+  
+		<div class="col-md mb-lg-2 mb-5 pos-r" data-aos="fade-up" data-aos-delay="400">
+			<div class="overviewImg">
+			  <picture>
+				<img src="https://www.mahindra.com/sites/default/files/2025-01/First-Hand-Real-world-experience-and-leadership-exposure.webp" width="auto" height="auto" alt="" loading="lazy">
+			  </picture>
+			</div>
+			<div class="overviewContent mt-3 text-lg-start text-center">
+				<p class="clrRed">First-Hand Real-world experience and leadership exposure</p>
+				<p></p>
+			  </div>
+		  </div>
+		  
+		  <div class="col-md mb-lg-2 mb-5 pos-r text-lg-start text-center" data-aos="fade-up" data-aos-delay="700">
+			<div class="overviewImg">
+			  <picture>
+				<img src="https://www.mahindra.com/sites/default/files/2025-01/Curation-of-individual-careers-and-capability-building.webp" width="auto" height="auto" alt="" loading="lazy">
+			  </picture>
+			</div>
+			<div class="overviewContent mt-3">
+				<p class="clrRed">Curation of individual careers and capability building</p>
+				<p></p>
+			  </div>
+		  </div>
+  
+	  </div>
+	</div>
+  </section>
+  </div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section what-we-do-wrap people-exp mt-0 pt-0">
+	<div class="container">
+		<div class="section-header text-center">
+			<h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">people experience</h2>
+		</div>
+	</div>
+	<div class="swiper global-swiper-slider video-slider" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide">
+				<div class="d-flex">
+					<div class="exp-img">
+						<picture>
+							<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-01/youtube-video-thumbnail.webp">
+							<img src="https://www.mahindra.com/sites/default/files/2025-01/youtube-video-thumbnail.webp" alt="">
+						</picture>
+						<div class="play-button">
+							<a href="https://www.youtube.com/watch?v=HpgwX9TTArU" data-lity="" target="_blank" rel="noopener">
+								<img src="https://www.mahindra.com/themes/custom/mahindra/img/play-icon-big.svg" width="auto" height="auto" alt="" loading="lazy">
+							</a>
+						</div>
+					</div>
+				</div>
+				</div>
+		</div>
+	</div>
+</section>
+
+<style>
+	.video-slider .d-flex {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    background: none;
+	}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section discoverSection media-resources with-img-grd">
+	<div class="container">
+	  <div class="section-header text-center">
+		<h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">we have more to offer</h2>
+	  </div>
+	  <div class="row">
+		<div class="col-lg-4 col-12 mb-lg-0 mb-3 discover-block">
+		  <div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+			<div class="discoverImg">
+			  <picture>
+				
+				<img src="https://www.mahindra.com/sites/default/files/img/malt-discover-img1.webp" width="auto" height="auto" alt="" loading="lazy">
+			  </picture>
+			</div>
+			<div class="discoverLink text-lg-start text-center"><span>Mahindra Future Shapers</span></div>
+			<a href="/mahindra-nextjs/mahindra-future-shaper" class="stretched-link"></a>
+		  </div>
+		</div>
+  
+		<div class="col-lg-4 col-12 mb-lg-0 mb-3 discover-block">
+		  <div class="positin-relative" data-aos="fade-up" data-aos-delay="400">
+			<div class="discoverImg">
+			  <picture>
+				
+				<img src="https://www.mahindra.com/sites/default/files/2024-05/414x550_1.webp" width="auto" height="auto" alt="" loading="lazy">
+			  </picture>
+			</div>
+			<div class="discoverLink text-lg-start text-center"><span>Mahindra Leadership University</span></div>
+			<a href="/mahindra-nextjs/mahindra-leadership-university" class="stretched-link"></a>
+		  </div>
+		</div>
+  
+		<div class="col-lg-4 col-12 discover-block">
+		  <div class="positin-relative" data-aos="fade-up" data-aos-delay="700">
+			<div class="discoverImg">
+			  <picture>
+				
+				<img src="https://www.mahindra.com/sites/default/files/2025-01/Mahindra_MALT-Inner-Banner-bottom.webp" width="auto" height="auto" alt="" loading="lazy">
+			  </picture>
+			</div>
+			<div class="discoverLink text-lg-start text-center"><span>Mahindra Accelerated Leadership Track</span></div>
+			<a href="/mahindra-nextjs/careers-mde" class="stretched-link"></a>
+		  </div>
+		</div>
+  
+	  </div>
+	</div>
+  </section></div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/ad1482a0.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/ad1482a0.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/ad1482a0.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"mahindra-leaders-program","data-path":"/mahindra-leaders-program","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"mahindra-leaders-program","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mahindra Leadership Development Program – Cultivating Future Leaders from Premier B-Schools"}],["$","meta","1",{"name":"description","content":"Discover Mahindra's Leaders Program, designed to develop top leadership talent from premier B-Schools through diverse business exposure and hands-on experience."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

@@ -1,0 +1,7 @@
+:HL["/mahindra-nextjs/_next/static/chunks/1ka61tajhxdk0.css","style"]
+:HL["/mahindra-nextjs/css/e2443d11.css","style"]
+:HL["/mahindra-nextjs/css/98a26959.css","style"]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Medium.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"Wa_sGT5j9mMKtyIHh49yf","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

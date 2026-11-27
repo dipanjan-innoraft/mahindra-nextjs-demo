@@ -1,0 +1,665 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/ad1482a0.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2025-01/Mahindra_Soar-Banner-Mob.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-01/Mahindra_Soar-Banner-Mob.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2025-01/Mahindra_Soar-Banner-With-Text-copy.webp","alt":""}]]
+e:T6f0e,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="7465">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+  <div class="beam-slider main-slider">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide nogradient dark-content">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-01/Mahindra_Soar-Banner-Mob.webp">
+            <img class="object-position-top-img kla-banner" loading="lazy" src="https://www.mahindra.com/sites/default/files/2025-01/Mahindra_Soar-Banner-With-Text-copy.webp" alt="">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <h1 class="heading font-medium font-size-tb">Mahindra Future Shapers</h1>
+            
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="swiper-pagination bullet-bottom"></div>
+  </div>
+</section>
+<style>
+  @media (max-width: 835px) {
+    .beam-slider .swiper-slide .slide-bgimg img.object-position-top-img {
+      object-position: top;
+    }
+    .beam-slider
+      .swiper-slide
+      .slide-bgimg
+      img.object-position-top-img.kla-banner {
+      object-position: center 50px;
+    }
+  }
+  /* @media screen and (min-width: 1378px) and (max-width: 1500px) {
+    .beam-slider .swiper-slide .slide-bgimg img {
+      height: auto !important;
+    }
+  } */
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0">
+  <div class="section-header text-center" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <h2 class="heading font-regular">A Second Chance to Soar</h2>
+      <p>At Mahindra Group, we believe that taking a break doesn’t mean pressing
+pause on your potential. SOAR (Seamless Opportunity for Amazing Returnships) is our
+initiative to help women professionals step back into the workforce with confidence and
+purpose.</p>
+  </div>
+</section>
+<section class="section grey-bg mt-0 key-feature-soar">
+  <div class="section-header text-center" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <h2 class="heading font-regular">Path to a Confident Comeback</h2>
+  </div>
+  <div class="carrer-main-section">
+      <div class="container">
+          <div class="grid-layout my-0">
+              <div class="flickity-slider-wrap grey-dots dark-arrow" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: true, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;}">
+                  <div class="slides">
+                      <div class="wrap">
+                          <div class="image-wrap">
+                              <picture>
+                                <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Full%20Time%20Opportunity%20Mobile%20321x223.webp">
+                                  <img src="https://www.mahindra.com/sites/default/files/2025-11/Full%20Time%20Opportunity%20Desktop%20630%20x%20425.webp" class="img-fluid" alt="">
+                              </picture>
+                          </div>
+                          <div class="content-wrap">
+                              <div class="section-header text-center text-md-start">
+                                  <h3>Full-Time Opportunities ​</h3>
+                                  <p class="m-0">SOAR offers mainstream full-time roles that align with
+participants’ previous experience, enabling you to contribute effectively from day one.</p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="slides">
+                      <div class="wrap">
+                          <div class="image-wrap">
+                              <picture>
+                                <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Flexible%20Working%20Mobile%20321x223.webp">
+                                  <img src="https://www.mahindra.com/sites/default/files/2025-11/Flexible%20Working%20Desktop%20630%20x%20425.webp" class="img-fluid" alt="">
+                              </picture>
+                          </div>
+                          <div class="content-wrap">
+                              <div class="section-header text-center text-md-start">
+                                  <h3>Job Sharing or Part-Time Opportunities </h3>
+                                  <p class="m-0">For roles that allow flexibility, SOAR
+provides part-time or job-sharing options. Participants can work half-days with
+prorated compensation, offering a balanced transition back into professional life.</p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="slides">
+                      <div class="wrap">
+                          <div class="image-wrap">
+                              <picture>
+                                <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Induction%20Experience%20Mobile%20321x223.webp">
+                                  <img src="https://www.mahindra.com/sites/default/files/2025-11/Induction%20Experience%20Desktop_%20630%20x%20425%20px.webp" class="img-fluid" alt="">
+                              </picture>
+                          </div>
+                          <div class="content-wrap">
+                              <div class="section-header text-center text-md-start">
+                                  <h3>Your Journey Begins with a Tailored Induction</h3>
+                                  <p class="m-0">We understand that returning to
+work is a significant transition. That is why we have designed a customised induction
+experience to support you every step of the way. From personalised guidance to
+targeted upskilling, our program is built to help you rebuild confidence, refresh your
+skills, and stay aligned with the latest industry trends.</p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="slides">
+                      <div class="wrap">
+                          <div class="image-wrap">
+                              <picture>
+                                <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Mentor%20System%20Mobile%20321x223.webp">
+                                  <img src="https://www.mahindra.com/sites/default/files/2025-11/Mentor%20System%20Desktop_%20630%20x%20425%20px.webp" class="img-fluid" alt="">
+                              </picture>
+                          </div>
+                          <div class="content-wrap">
+                              <div class="section-header text-center text-md-start">
+                                  <h3>Your Circle of Support: Buddy &amp; Mentor</h3>
+                                  <p class="m-0">We believe that meaningful connections
+accelerate growth. Each participant is paired with a dedicated buddy for six months
+of on-ground support. In addition, a senior mentor outside the reporting line offers
+guidance and perspective.</p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="slides">
+                      <div class="wrap">
+                          <div class="image-wrap">
+                              <picture>
+                                <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Feedback%20%26%20leadership%20Support%20Mobile%20321x223.webp">
+                                  <img src="https://www.mahindra.com/sites/default/files/2025-11/Feedback%20and%20leadership%20Support%20Desktop%20630%20x%20425.webp" class="img-fluid" alt="">
+                              </picture>
+                          </div>
+                          <div class="content-wrap">
+                              <div class="section-header text-center text-md-start">
+                                  <h3>Ongoing Feedback &amp; Leadership Support</h3>
+                                  <p class="m-0">To ensure the right support ecosystem
+is created, participants receive regular check-ins throughout the initial six months to
+share experiences, track progress, and ensure a smooth transition. Senior leaders
+and HR teams remain closely involved, offering guidance and support to help
+participants thrive and build lasting connections.</p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  
+  
+</section>
+<style>
+  .key-feature-soar .flickity-page-dots {
+    display: none !important;
+  }
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section what-we-do-wrap people-exp py-5">
+  <div class="container">
+    <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        Stories That Inspire
+      </h2>
+    </div>
+  </div>
+
+  <div class="beam-slider swiper global-swiper-slider video-slider soar-testinomials" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <div class="d-flex grey-bg">
+          <div class="exp-img slide-bgimg" style="width:50% !important;">
+            <picture>
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Vaishali.webp" alt="Vaishali Wadekar" title="Vaishali Wadekar">
+              <img src="https://www.mahindra.com/sites/default/files/2025-11/Vaishali.webp" alt="Vaishali Wadekar" title="Vaishali Wadekar" style="height:100% !important;">
+            </picture>
+          </div>
+          <div class="exp-content">
+            <img src="https://www.mahindra.com/themes/custom/mahindra/img/quote.svg" width="auto" height="auto" alt="Quote Icon" title="Quote Icon">
+            <p class="mt-3">
+              Looking back at your SOAR Journey, what has been the most
+              meaningful change or takeaway for you? (Eg: Mahindra Soar has been
+              a turning point in my journey. It helped me rediscover my
+              confidence, … This program has been a transformative journey. It
+              helped me rediscover my potential and reconnect with a deeper
+              sense of purpose. I now see myself not just in terms of roles or
+              titles, but through the value I bring, the resilience I carry, and
+              the clarity I've gained.
+            </p>
+            <h3>Wadekar Vaishali Sachin</h3>
+            <p>Deputy Manager - Manufacturing, Auto &amp; Farm</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide">
+        <div class="d-flex grey-bg">
+          <div class="exp-img slide-bgimg" style="width:50% !important;">
+            <picture>
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Apurva.webp" alt="Apurva Narute" title="Apurva Narute">
+              <img src="https://www.mahindra.com/sites/default/files/2025-11/Apurva.webp" alt="Apurva Narute" title="Apurva Narute" style="height:100% !important;">
+            </picture>
+          </div>
+          <div class="exp-content">
+            <img src="https://www.mahindra.com/themes/custom/mahindra/img/quote.svg" width="auto" height="auto" alt="Quote Icon" title="Quote Icon">
+            <p class="mt-3">
+              Mahindra SOAR has been a transformative chapter in my life—one
+              that redefined my personal and professional identity. Over six
+              enriching months, I engaged in diverse sessions that nurtured both
+              personal growth and professional development. Through immersive
+              activities and reflective learning, I discovered my leadership
+              voice, deepened my relational intelligence, and embraced evolving
+              definitions of success. SOAR didn’t just build skills—it reshaped
+              how I see myself and the impact I want to create.
+            </p>
+            <h3>Narute Apurva Namadeo</h3>
+            <p>Senior Engineer - Product Development, Auto &amp; Farm</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide">
+        <div class="d-flex grey-bg">
+          <div class="exp-img slide-bgimg" style="width:50% !important;">
+            <picture>
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Prajakta.webp" alt="Prajakta Rodrigues" title="Prajakta Rodrigues">
+              <img src="https://www.mahindra.com/sites/default/files/2025-11/Prajakta.webp" alt="Prajakta Rodrigues" title="Prajakta Rodrigues" style="height:100% !important;">
+            </picture>
+          </div>
+          <div class="exp-content">
+            <img src="https://www.mahindra.com/themes/custom/mahindra/img/quote.svg" width="auto" height="auto" alt="Quote Icon" title="Quote Icon">
+            <p class="mt-3">
+              The most meaningful change has been reconnecting with my inner
+              strength and purpose. Mahindra SOAR has been a transformative
+              experience, empowering me to reframe my narrative and embrace my
+              capabilities with renewed confidence. This journey has not just
+              been about personal growth; it's about finding one's voice and
+              stepping into one's potential with courage and conviction.
+            </p>
+            <h3>Prajakta Rodrigues</h3>
+            <p>Senior Manager - Leasing, Financial Services</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide">
+        <div class="d-flex grey-bg">
+          <div class="exp-img slide-bgimg" style="width:50% !important;">
+            <picture>
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Soumiya.webp" alt="Mahindra Group - Vimalendra Singh" title="Mahindra - Vimalendra Singh">
+              <img src="https://www.mahindra.com/sites/default/files/2025-11/Soumiya.webp" alt="Vimalendra Singh - Chief Sales &amp; Service Officer" title="Mahindra Group - Vimalendra Singh CSO" style="height:100% !important;">
+            </picture>
+          </div>
+          <div class="exp-content">
+            <img src="https://www.mahindra.com/themes/custom/mahindra/img/quote.svg" width="auto" height="auto" alt="Quote Icon" title="Quote Icon">
+            <p class="mt-3">
+              This program has helped me reconnect with myself and emerge
+              stronger with each interaction with my peer SOAR members,
+              leadership and the thoughtfully curated training programs. I feel
+              more confident to take up new roles and challenges.
+            </p>
+            <h3>Srinivasan Soumiya</h3>
+            <p>Manager - Product Development, Auto &amp; Farm</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide">
+        <div class="d-flex grey-bg">
+          <div class="exp-img slide-bgimg" style="width:50% !important;">
+            <picture>
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Hari%20Priya.webp" alt="HARI PRIYA BESETTY" title="HARI PRIYA BESETTY">
+              <img src="https://www.mahindra.com/sites/default/files/2025-11/Hari%20Priya.webp" alt="HARI PRIYA BESETTY" title="HARI PRIYA BESETTY" style="height:100% !important;">
+            </picture>
+          </div>
+          <div class="exp-content">
+            <img src="https://www.mahindra.com/themes/custom/mahindra/img/quote.svg" width="auto" height="auto" alt="Quote Icon" title="Quote Icon">
+            <p class="mt-3">
+              Mahindra SOAR has truly been a turning point for me. The training
+              was practical, energizing, and helped me grow both personally and
+              professionally. This program stands out for its positive vibe and
+              real impact ,it made me feel confident, strong, and ready to rise.
+              I hope this inspiring approach continues!
+            </p>
+            <h3>Hari Priya Besetty</h3>
+            <p>DGM - Finance &amp; Accounts, Auto &amp; Farm</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide">
+        <div class="d-flex grey-bg">
+          <div class="exp-img slide-bgimg" style="width:50% !important;">
+            <picture>
+              <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Sneha.webp" alt="Mahindra Group - Vimalendra Singh" title="Mahindra - Vimalendra Singh">
+              <img src="https://www.mahindra.com/sites/default/files/2025-11/Sneha.webp" alt="Vimalendra Singh - Chief Sales &amp; Service Officer" title="Mahindra Group - Vimalendra Singh CSO" style="height:100% !important;">
+            </picture>
+          </div>
+          <div class="exp-content">
+            <img src="https://www.mahindra.com/themes/custom/mahindra/img/quote.svg" width="auto" height="auto" alt="Quote Icon" title="Quote Icon">
+            <p class="mt-3">
+              The Journey helped me to discover myself. It helped me to identify
+              my strength and weaknesses and taught me how to overcome difficult
+              situation
+            </p>
+            <h3>T.J Sneha</h3>
+            <p>Lead Engineer - Product Development, Auto &amp; Farm</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="swiper-button-prev slide-home-btn swiper-button-white"></div>
+    <div class="swiper-button-next slide-home-btn swiper-button-white"></div>
+  </div>
+</section>
+
+<style>
+  .people-exp .swiper-slide .exp-img {
+    width: 50% !important;
+    position: relative !important;
+  }
+  @media screen and (max-width: 992px) {
+    .people-exp .swiper-slide .exp-img {
+      width: 100% !important;
+      position: relative !important;
+    }
+  }
+</style>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section faqs-section" id="faq">
+    <div class="container">
+        <div class="section-header text-center">
+            <h2 class="heading font-regular aos-init aos-animate" data-aos="fade-up">Faqs</h2>
+        </div>
+        <div class="acco-div">
+            <ul>
+                <li class="active" data-aos="fade-up">
+                    <h2>How can I explore opportunities available through SOAR?</h2>
+                    <div class="acco-content-div show">
+                        <p>All open positions across Mahindra Group companies are now accessible to SOAR
+participants. You can explore and apply for these roles directly through the Mahindra Group
+Careers website or the individual company career pages listed on the SOAR portal.</p>                        
+                    </div>
+                </li>
+                <li data-aos="fade-up">
+                    <h2>What kind of roles are available under SOAR?</h2>
+                    <div class="acco-content-div">
+                        <p>SOAR offers roles across Mahindra Group companies in diverse areas such as
+technology, manufacturing, marketing, human resources, finance, and more. This
+program offers mainstream full-time roles that could align with your previous experience, enabling you to contribute effectively from day one.
+To make your transition smoother, SOAR also provides flexible options, such as
+part-time roles and job-sharing options, where possible so that you can balance your
+professional comeback with personal priorities.</p>
+                    </div>
+                </li>
+                <li data-aos="fade-up">
+                    <h2>Who can apply for SOAR?</h2>
+                    <div class="acco-content-div">
+                        <p>SOAR is designed for women professionals returning to the workforce after a career
+break. Applicants should have prior work experience and a strong desire to resume
+their professional journey. Opportunities span across various roles and industries
+within the Mahindra Group, including automotive, sustainability, finance, technology,
+and more.</p>
+                    </div>
+                </li>
+                <li data-aos="fade-up">
+                    <h2>What makes SOAR the perfect platform to return to work?</h2>
+                    <div class="acco-content-div">
+                        <p>SOAR is designed to be more than just a returnship. It’s a launchpad for long-term
+career success. It offers mainstream, full-time roles across the Mahindra Group,
+ensuring that returning professionals are not sidelined but fully reintegrated into core
+business functions. What sets SOAR apart is its structured onboarding, which helps
+ease the transition back to work, and its dedicated mentorship and leadership
+engagement, which provide guidance, visibility, and support throughout the journey.</p>
+                    </div>
+                </li>
+                <li data-aos="fade-up">
+                    <h2>Is there a support system during the transition?</h2>
+                    <div class="acco-content-div">
+                        <p>Yes, the SOAR program offers a strong support system to help women professionals
+transition smoothly back into the workforce. Through structured onboarding,
+dedicated mentorship, leadership engagement, and tailored skill refreshers,
+participants are guided every step of the way. This supportive environment ensures
+they feel confident, connected, and empowered to thrive in their roles.</p>
+                    </div>
+                </li>
+               
+            </ul>
+        </div>
+    </div>
+</section>
+<style>
+.faqs-section .heading {font-size: 2.25rem;}
+</style>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section grid-3-col-2-row mt-0 upcoming-events our-brands-soar">
+  <div class="container">
+    <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        Find Your Dream Job At Mahindra
+      </h2>
+    </div>
+
+    <div class="row flickity-slider-wrap three-column-slider arrow-position-bottom dark-arrow hide-arrow-in-mobile m-0 mb-5 p-0" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: false, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;, &quot;lazyLoad&quot;: 4, &quot;groupCells&quot;: true, &quot;contain&quot;: true, &quot;autoPlay&quot;: false
+ }">
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://jobs.mahindracareers.com/" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/mahindra-red-logo.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://www.techmahindra.com/careers/" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/TM_Logo_Color_Pos_RGB.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://www.mahindrafinance.com/careers" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/mahindra-finance-logo.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://mahindraaerospace.com/careers/" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/Mahindra_aerospace.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://www.clubmahindra.com/careers" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/Club_mahindra.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://www.mahindrasusten.com/career" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/susten_logo.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://www.mahindraaccelo.com/careers" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/mahindra-accelo.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://mahindralogistics.com/work-with-us/" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/mahindra_logistics_new.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://jobs.mahindracareers.com/" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/Car_and_Bike_new.webp" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="slide col p-0">
+        <div class="our-brand-slider-wrapper-inner-logo">
+          <a href="https://www.bristlecone.com/life-at-bristlecone/#careers" target="_blank" rel="noopener">
+            <img src="https://www.mahindra.com/sites/default/files/2026-10/Brisltecone_Logo_color_PNG.webp" alt="">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .our-brand-slider-main {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+  }
+  .our-brand-slider-main .container {
+    overflow-x: hidden;
+  }
+
+  .our-brand-slider-wrapper {
+    width: 100%;
+    position: relative;
+  }
+
+  .our-brand-slider-track {
+    display: flex;
+    will-change: transform;
+  }
+  .our-brand-slider-wrapper-inner-logo {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+  .our-brands-soar .slide {
+    /* border-right: 2px solid gray; */
+  }
+
+  .our-brands-soar .slide:last-child {
+    border-right: none;
+  }
+
+  .our-brand-slider-wrapper-inner-logo img {
+    height: 54px;
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    filter: grayscale(100%);
+    transition: filter 0.5s ease;
+  }
+
+  .our-brand-slider-wrapper-inner-logo img:hover {
+    filter: grayscale(0%);
+  }
+
+  @keyframes scrollLeft {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-170%);
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    .our-brand-slider-track {
+      animation: scrollLeft 8s linear infinite;
+    }
+    .our-brand-slider-main {
+      margin-top: 0 !important;
+    }
+    .our-brands-soar .slide {
+      border-right: none;
+    }
+  }
+  .our-brands-soar .three-column-slider .flickity-page-dots {
+    bottom: -59% !important;
+    left: 50%;
+  }
+  @media screen and (max-width: 992px) {
+    .our-brands-soar .three-column-slider .flickity-page-dots {
+      bottom: -59% !important;
+      left: 0%;
+    }
+  }
+</style>
+</div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/ad1482a0.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/ad1482a0.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/ad1482a0.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"career-soar","data-path":"/mahindra-future-shaper","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"mahindra-future-shaper","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mahindra Future Shapers | Mahindra"}],["$","meta","1",{"name":"description","content":"Mahindra's specialised division delivering jump-shift technology solutions across business"}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

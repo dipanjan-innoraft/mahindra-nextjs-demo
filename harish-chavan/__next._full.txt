@@ -1,0 +1,1827 @@
+1:"$Sreact.fragment"
+4:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+5:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+6:I[39756,["$4","$5"],"default"]
+7:I[37457,["$4","$5"],"default"]
+b:I[97367,["$4","$5"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$4","$5"],"$e"]
+11:"MetadataBoundary"
+12:I[97367,["$4","$5"],"$11"]
+14:I[68027,["$4","$5"],"default",1]
+:HL["/mahindra-nextjs/_next/static/chunks/1ka61tajhxdk0.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$La",[["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":false,"v":null}}]]
+3:[["children",{"s":{"n":"slug","t":"c","k":"harish-chavan","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","harish-chavan"],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mahindra-nextjs/_next/static/chunks/1ka61tajhxdk0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js","async":true,"nonce":"$undefined"}]],"$L2"]}],"p":false,"v":null},"c":"$Q3"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L13"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$14",[["$","link","0",{"rel":"stylesheet","href":"/mahindra-nextjs/_next/static/chunks/1ka61tajhxdk0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Wa_sGT5j9mMKtyIHh49yf"}
+8:C
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[52004,["$4","$5"],"default"]
+1c:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+1d:I[9283,["$4","$5","$1c"],"default"]
+21:I[27201,["$4","$5"],"IconMark"]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Medium.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/mahindra-nextjs/css/ad1482a0.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+16:Tab24,<header class="main-header position-fixed top-0 start-0 w-100">
+  <div class="container">
+    <div class="wrap">
+      <div class="logo">
+        <a href="/mahindra-nextjs/">
+          <img src="https://www.mahindra.com//sites/default/files/2025-07/mahindra-red-logo.webp" alt="Mahindra Brand Logo White" title="Mahindra Brand Logo White Image" class="hiddenlogo1" width="200" height="30" style="width: auto;" loading="lazy">
+        </a>
+      </div>
+      <div class="hamburger">
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      <nav class="main-nav">
+        <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement">
+          <li class="has-child hover-red" itemprop="name"><a itemprop="url" href="/mahindra-nextjs/about-us">Who We
+              Are</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                <g id="SVGRepo_iconCarrier">
+                  <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                    <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                  </g>
+                </g>
+              </svg></span>
+            <div class="mega-menu">
+              <div class="wrap container">
+                <div class="center-div">
+                  <div class="left-div">
+                    <h4 class="left-div-heading"><a>Our Purpose</a></h4>
+                    <p class="left-div-desc">Drive positive change in the lives of our communities. Only when we enable
+                      others to rise will we rise.</p>
+                    <p class="left-div-subdesc">#TogetherWeRise</p>
+                  </div>
+                  <div class="sub-nav-wrap about-us-sub-nav">
+                    <ul>
+                      <li><a href="/mahindra-nextjs/purpose-led">Purpose Led</a></li>
+                      <li><a href="/mahindra-nextjs/performance-driven">Performance Driven</a></li>
+                      <li><a href="/mahindra-nextjs/future-ready">Future Ready</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/mahindra-nextjs/leadership">Leadership</a></li>
+                      <li><a href="/mahindra-nextjs/about-us/our-story">Our History</a></li>
+                      <li><a href="/mahindra-nextjs/museum">Museum</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="has-child hover-red" itemprop="name"><a itemprop="url" href="/mahindra-nextjs/our-business">What we
+              do</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                <g id="SVGRepo_iconCarrier">
+                  <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                    <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                  </g>
+                </g>
+              </svg></span>
+            <div class="mega-menu">
+              <div class="wrap container">
+                <div class="center-div">
+                  <div class="left-div">
+                    <h4 class="left-div-heading"><a>Key Facts</a></h4>
+                    <ul>
+                      <li class="list-text-red">20+ <span>Industries</span>
+                      </li>
+                      <li class="list-text-red">100+ <span>Countries</span></li>
+                      <li class="list-text-red">327K+ <span>Employees</span></li>
+                    </ul>
+                  </div>
+                  <div class="sub-nav-wrap what-we-do">
+                    <ul>
+                      <li class="top-level-li"><a href="/mahindra-nextjs/our-business">Industries</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                                <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                              </g>
+                            </g>
+                          </svg></span>
+                        <div class="has-sub-child">
+                          <ul>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/automotive">Automotive</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                                  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                                  <g id="SVGRepo_iconCarrier">
+                                    <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                                      <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                                    </g>
+                                  </g>
+                                </svg></span>
+                              <div class="has-inner-sub-child">
+                                <ul>
+                                  <li><a href="https://auto.mahindra.com/" target="_blank" rel="noopener">SUVs</a></li>
+                                  <li><a href="https://auto.mahindra.com/" target="_blank" rel="noopener">LCVs</a></li>
+                                  <li><a href="https://mahindralastmilemobility.com/" target="_blank" rel="noopener">Last Mile
+                                      Mobility</a></li>
+                                  <li><a href="https://www.yezdi.com/" target="_blank" rel="noopener">Iconic Motorcycles</a></li>
+                                  <li><a href="https://www.mahindratruckandbus.com/" target="_blank" rel="noopener">Trucks And
+                                      Buses</a></li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/farm-equipment">Farm
+                                Equipment</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                                  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                                  <g id="SVGRepo_iconCarrier">
+                                    <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                                      <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                                    </g>
+                                  </g>
+                                </svg></span>
+                              <div class="has-inner-sub-child">
+                                <ul>
+                                  <li><a href="https://www.mahindratractor.com/" target="_blank" rel="noopener">Tractors</a></li>
+                                  <li><a href="https://www.mahindraagri.com/" target="_blank" rel="noopener">Agri Services</a></li>
+                                  <li><a href="https://mahindrafarmmachinery.com/" target="_blank" rel="noopener">Farm Machinery</a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/financial-services">Financial
+                                Services</a></li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/technology-services">Technology
+                                Services</a></li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/hospitality">Hospitality</a></li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/logistics">Logistics</a></li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/real-estate">Real Estate</a></li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/renewable-energy">Renewables</a>
+                            </li>
+                            <li class="first-level-li"><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Other Emerging
+                                Businesses</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                                  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                                  <g id="SVGRepo_iconCarrier">
+                                    <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                                      <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                                    </g>
+                                  </g>
+                                </svg></span>
+                              <div class="has-inner-sub-child">
+                                <ul>
+                                  <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Advanced Technologies</a></li>
+                                  <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Aerostructures</a>
+                                  </li>
+                                  <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Aftermarkets
+                                      (Pre-Owned Cars)</a></li>
+                                  <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Auto Components and
+                                      Recycling</a></li>
+                                  <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Power Generation</a>
+                                  </li>
+                                  <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Retail</a></li>
+                                </ul>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                      <li class="top-level-li"><a href="/mahindra-nextjs/our-brands">Our Brands</a></li>
+                      <li class="top-level-li"><a href="/mahindra-nextjs/our-business/global-presence">Global Presence</a></li>
+                      <li class="top-level-li"><a href="/mahindra-nextjs/cultural-outreach">Cultural Outreach</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="has-child hover-red" itemprop="name"><a itemprop="url" href="/mahindra-nextjs/investor-relations">Investor
+              Relations</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                <g id="SVGRepo_iconCarrier">
+                  <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                    <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                  </g>
+                </g>
+              </svg></span>
+            <div class="mega-menu">
+              <div class="wrap container">
+                <div class="center-div">
+                  <div class="left-div ir-left-div ">
+                    <h4 class="left-div-heading"><a>Investor Relations</a></h4>
+                    <p>Group Highlights Q2 FY27</p>
+                    <ul>
+                      <li class="list-text-red">21% <span>Consolidated ROE (Annualized)</span></li>
+                      <li class="list-text-red">Rs 57,553 CR<span>Consolidated Revenue</span></li>
+                      <li class="list-text-red">Rs 4,588 CR<span>Consolidated PAT</span></li>
+                      
+                    </ul>
+                  </div>
+                  <div class="sub-nav-wrap element-block">
+                    <ul class="sub-nav-wrap-one-link">
+                      <li><a href="https://www.mahindra.com/sites/default/files/2025-04/Disclosures-under-Reg-46-62-MM-URLs_PDF.pdf" target="_blank" rel="noopener">Disclosures Under Regulation 46 And 62 Of SEBI (LODR)</a></li>
+                    </ul>
+                    <div class="inner-sub-nav-wrap-list">
+                      <ul>
+                        <li><a href="/mahindra-nextjs/investor-relations/reports">Reports</a></li>
+                        <li><a href="/mahindra-nextjs/investor-relations/policies-and-documents">Policies</a></li>
+                      </ul>
+                      <ul>
+                        <li><a href="/mahindra-nextjs/investor-relations/regulatory-filings">Regulatory Filings</a></li>
+                        <li><a href="/mahindra-nextjs/investor-relations/sustainability">Sustainability Reports &amp; Policies</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="has-child hover-red" itemprop="name"><a itemprop="url" href="/mahindra-nextjs/newsroom">newsroom</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                <g id="SVGRepo_iconCarrier">
+                  <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                    <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                  </g>
+                </g>
+              </svg></span>
+            <div class="mega-menu">
+              <div class="wrap container">
+                <div class="center-div">
+                  <div class="left-div newsroom-left-div">
+                    <h4 class="left-div-heading"><a>Newsroom</a></h4>
+
+                    <div class="latest-two-press-release">
+                      
+
+
+
+
+
+
+
+
+
+
+    <div class="slides"><div class="wrap">
+                        
+                            <div class="content">
+                        
+                                <div class="desc">
+                                    <p><a href="/mahindra-nextjs/news-room/press-release/en/mahindra-world-city-jaipur-hands-over-10-patrolling-vehicles-to-jaipur-police-to-strengthen-public-safety" hreflang="en">Mahindra World City Jaipur Hands Over 10 Patrolling Vehicles to Jaipur Police to Strengthen Public Safety</a></p>
+                                    
+                                    <div class="date">
+                                        <em><time datetime="2026-11-27T12:00:00Z">27 November 2026</time>
+ </em><em>Real Estate</em>
+                                    </div>
+                             
+                                </div>
+                            </div> 
+                            
+                            </div></div>
+    <div class="slides"><div class="wrap">
+                        
+                            <div class="content">
+                        
+                                <div class="desc">
+                                    <p><a href="/mahindra-nextjs/news-room/press-release/en/tech-mahindra-marks-40-years-with-bell-ringing-ceremony-at-the-bombay-stock-exchange" hreflang="en">Tech Mahindra Marks 40 Years with Bell-Ringing Ceremony at the Bombay Stock Exchange</a></p>
+                                    
+                                    <div class="date">
+                                        <em><time datetime="2026-11-23T12:00:00Z">23 November 2026</time>
+ </em><em>Technology</em>
+                                    </div>
+                             
+                                </div>
+                            </div> 
+                            
+                            </div></div>
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                  </div>
+                  <div class="sub-nav-wrap">
+                    <ul>
+                      <li><a href="/mahindra-nextjs/newsroom/press-release">Press Releases</a></li>
+                      <li><a href="/mahindra-nextjs/newsroom/corporate-doc">Media Resources</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/mahindra-nextjs/newsroom#in-the-news">In The News</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li class="has-child hover-red" itemprop="name"><a itemprop="url" href="/mahindra-nextjs/career">careers</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                <g id="SVGRepo_iconCarrier">
+                  <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                    <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                  </g>
+                </g>
+              </svg></span>
+            <div class="mega-menu">
+              <div class="wrap container">
+                <div class="center-div">
+                  <div class="left-div career-left-div">
+                    <h4 class="left-div-heading"><a>careers</a></h4>
+                    <p class="left-div-desc">Committed to elevating the lives of communities, guided by our core
+                      behaviours and values.</p>
+                    <p class="left-div-subdesc">Bold. Agile. Collaborative.</p>
+                  </div>
+                  <div class="sub-nav-wrap careers-div">
+                    <ul>
+                      <li class="top-level-li"><a href="https://jobs.mahindracareers.com/" target="_blank" rel="noopener">Find A Job</a></li>
+                      <li class="top-level-li"><a href="/mahindra-nextjs/career/SOAR">SOAR - Seamless Opportunity For Amazing
+                          Returnship</a></li>
+                      <li class="top-level-li"><a>Leadership Programs</a>
+                        <span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                                <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                              </g>
+                            </g>
+                          </svg></span>
+                        <div class="has-sub-child">
+                          <ul>
+                            <li><a href="/mahindra-nextjs/mahindra-leaders-program">Mahindra Leaders Program</a>
+                            </li>
+                            <li><a href="/mahindra-nextjs/mahindra-accelerated-leadership-track">Mahindra Accelerated
+                                Leadership Track</a>
+                            </li>
+                            <li><a href="/mahindra-nextjs/mahindra-future-shaper">Mahindra Future Shapers</a></li>
+                            <li><a href="/mahindra-nextjs/mahindra-leadership-university">Mahindra Leadership University</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                      <li class="top-level-li"><a>Tech Opportunities</a>
+                        <span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)">
+                                <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path>
+                              </g>
+                            </g>
+                          </svg></span>
+                        <div class="has-sub-child">
+                          <ul>
+                            <li><a href="/mahindra-nextjs/mahindra-ai">Mahindra AI</a>
+                            </li>
+                            <li><a href="/mahindra-nextjs/mahindra-digital-engine">Mahindra Digital Engine</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+          </div></li>
+          <div class="icon-nav mobile-menus-icon">
+            <ul>
+              <li class="mail">
+                <a href="/mahindra-nextjs/contact-us">
+                  
+                  Contact Us
+                </a>
+              </li>
+              <li class="search">
+                <a href="#">
+                  <svg viewBox="0 0 21 21" fill="none" class="lens">
+                    <path d="M15.0934 2.73157L15.0934 2.73156C11.6883 -0.67354 6.14543 -0.67354 2.74033 2.73156C-0.666039 6.13793 -0.666063 11.6795 2.74035 15.0847C4.38993 16.7342 6.58308 17.6433 8.91623 17.6433C10.9916 17.6433 12.9533 16.9181 14.5221 15.5975L19.5217 20.5972C19.6721 20.7476 19.8687 20.8212 20.0632 20.8212C20.2588 20.8212 20.4554 20.7476 20.6059 20.5972C20.905 20.2981 20.905 19.8121 20.6059 19.513L15.6062 14.5132C18.4815 11.0845 18.3159 5.95535 15.0934 2.73157ZM14.0092 14.0004C12.6491 15.3606 10.8404 16.1098 8.91623 16.1098C6.99211 16.1098 5.18468 15.3606 3.82452 14.0004C1.01633 11.1923 1.01633 6.62394 3.82452 3.81575C5.22857 2.41171 7.07147 1.71024 8.91623 1.71024C10.7609 1.71024 12.6052 2.41296 14.0092 3.81575C16.8174 6.62394 16.8174 11.1923 14.0092 14.0004Z" stroke-width="0.25"></path>
+                  </svg>
+                  <svg viewBox="0 0 50 50" class="close">
+                    <path d="M 9.15625 6.3125 L 6.3125 9.15625 L 22.15625 25 L 6.21875 40.96875 L 9.03125 43.78125 L 25 27.84375 L 40.9375 43.78125 L 43.78125 40.9375 L 27.84375 25 L 43.6875 9.15625 L 40.84375 6.3125 L 25 22.15625 Z"></path>
+                  </svg>
+                  <span> Search</span>
+                </a>
+                <div class="search-screen-wrap">
+                  <div class="wrap">
+                    <form action="/mahindra-nextjs/search" method="get" id="search-block-form" accept-charset="UTF-8" data-drupal-form-fields="edit-keys">
+                      <div class="search-wrap">
+                        <div class="search-icon">
+                          <svg viewBox="0 0 21 21" fill="none">
+                            <path d="M15.0934 2.73157L15.0934 2.73156C11.6883 -0.67354 6.14543 -0.67354 2.74033 2.73156C-0.666039 6.13793 -0.666063 11.6795 2.74035 15.0847C4.38993 16.7342 6.58308 17.6433 8.91623 17.6433C10.9916 17.6433 12.9533 16.9181 14.5221 15.5975L19.5217 20.5972C19.6721 20.7476 19.8687 20.8212 20.0632 20.8212C20.2588 20.8212 20.4554 20.7476 20.6059 20.5972C20.905 20.2981 20.905 19.8121 20.6059 19.513L15.6062 14.5132C18.4815 11.0845 18.3159 5.95535 15.0934 2.73157ZM14.0092 14.0004C12.6491 15.3606 10.8404 16.1098 8.91623 16.1098C6.99211 16.1098 5.18468 15.3606 3.82452 14.0004C1.01633 11.1923 1.01633 6.62394 3.82452 3.81575C5.22857 2.41171 7.07147 1.71024 8.91623 1.71024C10.7609 1.71024 12.6052 2.41296 14.0092 3.81575C16.8174 6.62394 16.8174 11.1923 14.0092 14.0004Z" stroke-width="0.25"></path>
+                          </svg>
+                        </div>
+                        <input type="text" class="input-text searchtext" required="" name="key" id="searchInput" autocomplete="off">
+                        <button class="submit-button">
+                          <div class="label"> Submit </div>
+                          <svg width="12" height="8" viewBox="0 0 12 8" fill="none">
+                            <path d="M11.3536 4.35355C11.5488 4.15829 11.5488 3.84171 11.3536 3.64645L8.17157 0.464465C7.97631 0.269203 7.65973 0.269203 7.46447 0.464465C7.2692 0.659728 7.2692 0.97631 7.46447 1.17157L10.2929 4L7.46447 6.82843C7.2692 7.02369 7.2692 7.34027 7.46447 7.53553C7.65973 7.7308 7.97631 7.7308 8.17157 7.53553L11.3536 4.35355ZM4.37114e-08 4.5L11 4.5L11 3.5L-4.37114e-08 3.5L4.37114e-08 4.5Z" fill="black"></path>
+                          </svg>
+                        </button>
+                      </div>
+                      <div class="searchResultBox" style="display: none;">
+                        <div class="swiper scrollSwiper">
+                          <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-scrollbar"></div>
+                      </div>
+                    </form>
+                    <div class="search-suggestions-wrap">
+                      <div class="label">Popular Keywords:</div>
+                      <div class="tokens-wrap">
+                        <ul>
+                          <li>Business</li>
+                          <li>FY 26</li>
+                          <li>Brands</li>
+                          <li>XUV700</li>
+                          <li>Global</li>
+                          <li>Nanhi Kali</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="search-suggestions-wrap">
+                      <div class="label">Recommended for you:</div>
+                      <div class="tokens-wrap">
+                        <ul>
+                          <li>Annual Report 2025 - 2026</li>
+                          <li>Leadership Announcement</li>
+                          <li>Latest Press Release</li>
+                          <li>Brand Guidelines</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </ul>
+        <div class="icon-nav desktop-menus-icon">
+          <ul>
+            <li class="mail">
+              <a href="/mahindra-nextjs/contact-us">
+                <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 38.4" style="enable-background:new 0 0 48 38.4;" xml:space="preserve" width="21" height="21" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <path d="M3.6,38.4c-1,0-1.8-0.4-2.5-1.1S0,35.8,0,34.8V3.6c0-1,0.4-1.8,1.1-2.5S2.6,0,3.6,0h40.8c1,0,1.8,0.4,2.5,1.1
+                              C47.6,1.8,48,2.6,48,3.6v31.2c0,1-0.4,1.8-1.1,2.5c-0.7,0.7-1.6,1.1-2.5,1.1H3.6z M24,20.3L3.6,6.9v27.9h40.8V6.9L24,20.3z M24,16.7
+                              L44.2,3.6H3.9L24,16.7z M3.6,6.9V3.6v31.2V6.9z"></path>
+                </svg>
+              </a>
+            </li>
+            <li class="search">
+              <a href="#">
+                <svg viewBox="0 0 21 21" fill="none" class="lens">
+                  <path d="M15.0934 2.73157L15.0934 2.73156C11.6883 -0.67354 6.14543 -0.67354 2.74033 2.73156C-0.666039 6.13793 -0.666063 11.6795 2.74035 15.0847C4.38993 16.7342 6.58308 17.6433 8.91623 17.6433C10.9916 17.6433 12.9533 16.9181 14.5221 15.5975L19.5217 20.5972C19.6721 20.7476 19.8687 20.8212 20.0632 20.8212C20.2588 20.8212 20.4554 20.7476 20.6059 20.5972C20.905 20.2981 20.905 19.8121 20.6059 19.513L15.6062 14.5132C18.4815 11.0845 18.3159 5.95535 15.0934 2.73157ZM14.0092 14.0004C12.6491 15.3606 10.8404 16.1098 8.91623 16.1098C6.99211 16.1098 5.18468 15.3606 3.82452 14.0004C1.01633 11.1923 1.01633 6.62394 3.82452 3.81575C5.22857 2.41171 7.07147 1.71024 8.91623 1.71024C10.7609 1.71024 12.6052 2.41296 14.0092 3.81575C16.8174 6.62394 16.8174 11.1923 14.0092 14.0004Z" stroke-width="0.25"></path>
+                </svg>
+                <svg viewBox="0 0 50 50" class="close">
+                  <path d="M 9.15625 6.3125 L 6.3125 9.15625 L 22.15625 25 L 6.21875 40.96875 L 9.03125 43.78125 L 25 27.84375 L 40.9375 43.78125 L 43.78125 40.9375 L 27.84375 25 L 43.6875 9.15625 L 40.84375 6.3125 L 25 22.15625 Z"></path>
+                </svg>
+              </a>
+              <div class="search-screen-wrap">
+                <div class="wrap">
+                  <form action="/mahindra-nextjs/search" method="get" id="search-block-form" accept-charset="UTF-8" data-drupal-form-fields="edit-keys">
+                    <div class="search-wrap">
+                      <div class="search-icon">
+                        <svg viewBox="0 0 21 21" fill="none">
+                          <path d="M15.0934 2.73157L15.0934 2.73156C11.6883 -0.67354 6.14543 -0.67354 2.74033 2.73156C-0.666039 6.13793 -0.666063 11.6795 2.74035 15.0847C4.38993 16.7342 6.58308 17.6433 8.91623 17.6433C10.9916 17.6433 12.9533 16.9181 14.5221 15.5975L19.5217 20.5972C19.6721 20.7476 19.8687 20.8212 20.0632 20.8212C20.2588 20.8212 20.4554 20.7476 20.6059 20.5972C20.905 20.2981 20.905 19.8121 20.6059 19.513L15.6062 14.5132C18.4815 11.0845 18.3159 5.95535 15.0934 2.73157ZM14.0092 14.0004C12.6491 15.3606 10.8404 16.1098 8.91623 16.1098C6.99211 16.1098 5.18468 15.3606 3.82452 14.0004C1.01633 11.1923 1.01633 6.62394 3.82452 3.81575C5.22857 2.41171 7.07147 1.71024 8.91623 1.71024C10.7609 1.71024 12.6052 2.41296 14.0092 3.81575C16.8174 6.62394 16.8174 11.1923 14.0092 14.0004Z" stroke-width="0.25"></path>
+                        </svg>
+                      </div>
+                      <input type="text" class="input-text searchtext" required="" name="key" id="searchInput" autocomplete="off">
+                      <button class="submit-button">
+                        <div class="label"> Submit </div>
+                        <svg width="12" height="8" viewBox="0 0 12 8" fill="none">
+                          <path d="M11.3536 4.35355C11.5488 4.15829 11.5488 3.84171 11.3536 3.64645L8.17157 0.464465C7.97631 0.269203 7.65973 0.269203 7.46447 0.464465C7.2692 0.659728 7.2692 0.97631 7.46447 1.17157L10.2929 4L7.46447 6.82843C7.2692 7.02369 7.2692 7.34027 7.46447 7.53553C7.65973 7.7308 7.97631 7.7308 8.17157 7.53553L11.3536 4.35355ZM4.37114e-08 4.5L11 4.5L11 3.5L-4.37114e-08 3.5L4.37114e-08 4.5Z" fill="black"></path>
+                        </svg>
+                      </button>
+                    </div>
+                    <div class="searchResultBox" style="display: none;">
+                      <div class="swiper scrollSwiper">
+                        <div class="swiper-wrapper">
+                          <div class="swiper-slide">
+                          </div>
+                        </div>
+                      </div>
+                      <div class="swiper-scrollbar"></div>
+                    </div>
+                  </form>
+                  <div class="search-suggestions-wrap">
+                    <div class="label">Popular Keywords:</div>
+                    <div class="tokens-wrap">
+                      <ul>
+                        <li>Business</li>
+                        <li>FY 26</li>
+                        <li>Brands</li>
+                        <li>XUV700</li>
+                        <li>Global</li>
+                        <li>Nanhi Kali</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="search-suggestions-wrap">
+                    <div class="label">Recommended for you:</div>
+                    <div class="tokens-wrap">
+                      <ul>
+                        <li>Annual Report 2025 - 2026</li>
+                        <li>Leadership Announcement</li>
+                        <li>Latest Press Release</li>
+                        <li>Brand Guidelines</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      
+    </div>
+  </div>
+</header>
+<style>
+  .hiddenlogo1.years-80 {
+    width: 100%;
+    height: 100%;
+  }
+
+  .main-header .wrap .main-nav ul>li.has-child .mega-menu .wrap .center-div .left-div .left-div-heading a:hover {
+    border-bottom: 2px solid #00000026;
+    color: #1c1c1c;
+  }
+
+  .main-header .wrap .search-screen-wrap .wrap .searchResultBox {
+    background: #fff;
+  }
+
+  .main-header .wrap .search-screen-wrap .wrap .search-wrap .input-text {
+    color: #1c1c1c;
+  }
+
+  .main-header .wrap .search-screen-wrap .wrap .searchResultBox .scrollSwiper .swiper-wrapper .swiper-slide ul li a {
+    color: #1c1c1c;
+  }
+
+  @media screen and (max-width: 991px) {
+
+    .main-header .wrap .main-nav ul>li.has-child .mega-menu .wrap .sub-nav-wrap .has-sub-child.active,
+    .main-header .wrap .main-nav ul>li.has-child .mega-menu .wrap .sub-nav-wrap .has-sub-child .has-inner-sub-child.active-child {
+      max-height: 850px;
+      opacity: 1;
+    }
+  }
+
+  .main-header .wrap .main-nav ul>li {
+    margin-right: 1.5rem;
+  }
+
+  .main-header .wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .main-header .wrap .main-nav {
+    justify-content: center;
+    display: flex;
+    margin-left: unset;
+  }
+
+  @media screen and (max-width: 1200px) {
+    .main-header .wrap .main-nav ul>li {
+      margin-right: 1rem;
+    }
+  }
+
+  .main-header .wrap .logo .years-80 {
+    width: 74px;
+  }
+
+  .main-header .wrap .logo.year-80-logo {
+    width: 61px;
+    margin-left: 15px;
+  }
+
+  .main-header .wrap .logo {
+    width: 180px;
+    z-index: 1;
+  }
+
+  .main-header .wrap .logo img {
+    width: 100%;
+  }
+
+  @media screen and (max-width: 445px) {
+    .main-header .wrap .logo.year-80-logo {
+      width: 50px;
+      margin-left: 13px;
+    }
+
+    .main-header .wrap .logo {
+      width: 150px;
+    }
+
+    .main-header .wrap .logo img {
+      width: 150px;
+    }
+  }
+
+  .mobile-menus-icon {
+    display: none;
+  }
+
+  @media (max-width: 991px) {
+    .main-header .wrap .icon-nav {
+      margin-left: auto;
+      margin-right: 0rem;
+    }
+
+    .desktop-menus-icon {
+      display: none;
+    }
+
+    .mobile-menus-icon {
+      display: block;
+    }
+
+    .mobile-menus-icon {
+      display: block;
+      margin-left: unset;
+      width: 100%;
+    }
+
+    .mobile-menus-icon ul {
+      display: block !important;
+      width: 98% !important;
+    }
+
+    .mobile-menus-icon ul li.mail {
+      width: 100% !important;
+      padding: 15px 0px !important;
+      border-bottom: 1px solid #dad8d4;
+    }
+
+    .mobile-menus-icon ul li.search {
+      width: 100% !important;
+      padding: 15px 0px !important;
+    }
+
+    .main-header .wrap .logo .years-80 {
+      width: 45px;
+    }
+
+    .main-header .wrap .logo.year-80-logo {
+      width: 45px;
+      margin-right: 13px;
+      margin-left: auto;
+    }
+
+    .main-header .wrap .main-nav.active {
+      opacity: 1;
+      transform: translate(0, 0);
+      overflow-y: scroll;
+      padding-bottom: 3rem;
+    }
+
+    .main-header .wrap li.search:hover::before {
+      background-color: transparent !important;
+    }
+
+    .main-header .wrap .search-screen-wrap .wrap .search-suggestions-wrap .tokens-wrap ul {
+      flex-wrap: wrap;
+      display: flex !important;
+    }
+
+    .main-header .wrap .search-screen-wrap {
+      width: 100%;
+      height: 100vh;
+      top: 0;
+    }
+
+    .icon-nav.mobile-menus-icon ul li.active .search-screen-wrap {
+      opacity: 1;
+      visibility: visible;
+      display: block !important;
+      z-index: 1 !important;
+    }
+
+    .icon-nav.mobile-menus-icon ul li .search-screen-wrap {
+      display: none !important;
+
+    }
+
+    .search-screen-wrap {
+      pointer-events: all !important;
+    }
+
+    .main-header .wrap .search-screen-wrap .wrap .search-suggestions-wrap {
+      z-index: 1;
+      position: relative;
+    }
+
+    .main-header .wrap .search-screen-wrap .wrap .searchResultBox {
+      z-index: 2;
+    }
+
+    .main-header .wrap .main-nav ul {
+      display: flex;
+      position: relative;
+      flex-wrap: wrap;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .mobile-menus-icon ul {
+      display: block !important;
+      width: 96% !important;
+    }
+  }
+
+  .main-header .wrap .search-screen-wrap .wrap .search-suggestions-wrap {
+    z-index: 1;
+    position: relative;
+  }
+
+  .main-header .wrap .search-screen-wrap .wrap .searchResultBox {
+    z-index: 2;
+  }
+
+  .main-header .wrap .icon-nav ul li.active .close {
+    display: inline-block;
+  }
+
+  @media screen and (max-width: 1200px) {
+    .main-header .wrap .main-nav ul>li {
+      margin-right: 0.5rem;
+    }
+  }
+
+  @media screen and (max-width:992px) {
+    .main-header .wrap .main-nav ul>li {
+      margin-right: 0px;
+    }
+
+    .main-header .wrap .main-nav.active:has(ul li.search.active) {
+      overflow-y: visible;
+    }
+  }
+
+  @media (max-width: 991px) {
+    .main-header {
+      height: auto;
+    }
+
+    .main-header .wrap .main-nav {
+      top: 60px
+    }
+  }
+
+  /* .custom-marquee-container {
+    background-color: #dd052b;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .custom-marquee-text {
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll-left 30s linear infinite;
+    color: white;
+    font-family: 'georama', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(0%);
+    }
+
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+  .custom-marquee-container:has(.custom-marquee-link:hover) .custom-marquee-text {
+    animation-play-state: paused;
+  }
+
+  .custom-marquee-link {
+    color: #fff;
+  }
+
+  .custom-marquee-link:hover {
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .custom-marquee-text {
+      font-size: 1rem;
+    }
+  }
+
+  @media screen and (min-width: 992px) {
+    .main-header .wrap .main-nav ul>li.has-child .mega-menu {
+      top: 101px;
+    }
+  }
+
+  .custom-marquee-container {
+    padding: 4px;
+  }
+
+  @media screen and (min-width: 1400px) {
+    .custom-marquee-text {
+      font-size: 1rem !important;
+    }
+  }
+
+  @media screen and (max-width: 1400px) {
+    .custom-marquee-text {
+      font-size: 0.8rem;
+    }
+  } */
+
+  /* @media screen and (min-width: 992px) {
+    .main-header .wrap .search-screen-wrap {
+      top: 101px;
+    }
+  } */
+
+  .main-header .wrap .main-nav .left-div ul li.list-text-red span {
+    left: 140px;
+  }
+
+  @media screen and (max-width: 1300px) {
+    .main-header .wrap .main-nav .left-div ul li.list-text-red span {
+      left: 128px;
+    }
+  }
+
+  @media screen and (max-width: 1200px) {
+    .main-header .wrap .main-nav .left-div ul li.list-text-red span {
+      left: 120px;
+    }
+  }
+
+  @media screen and (min-width: 992px) {
+    .main-header .wrap .main-nav .left-div.ir-left-div {
+      width: 516px !important;
+    }
+
+    .main-header .wrap .main-nav .left-div.ir-left-div ul li.list-text-red span {
+      left: 216px !important;
+    }
+  }
+
+  .main-header .wrap .main-nav .left-div ul li {
+    font-weight: unset;
+  }
+
+  @media screen and (min-width:1200px) {
+     .cc-banner .cc-compliance {
+         justify-content: flex-start;     
+   }
+ }
+
+ @media screen and (max-width:1440px) {
+     .cc-revoke, .cc-window {
+            line-height: 1.4em !important; 
+     }
+
+   .cc-btn.cc-btn-format{
+       padding: 20px 20px 20px;
+    }
+     
+}
+ #sp-popup-modal.modal {
+  overflow-y: hidden !important;
+ }
+</style>2:["$","html",null,{"lang":"en","dir":"ltr","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/mahindra-nextjs/fonts/QuantumRise-Regular.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/mahindra-nextjs/fonts/QuantumRise-Medium.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.mahindra.com"}]]}],["$","body",null,{"children":[["$","$L15",null,{}],["$","div",null,{"className":"nav-progress","aria-hidden":"true"}],["$","a",null,{"href":"#main-content","className":"visually-hidden focusable","children":"Skip to main content"}],["$","div",null,{"className":"dialog-off-canvas-main-canvas","data-off-canvas-main-canvas":"","children":["$","main",null,{"role":"main","id":"app-main","tabIndex":-1,"children":[["$","div",null,{"id":"block-header","children":["$","div",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$16"}}]}],"$L17","$L18","$L19","$L1a"]}]}],"$L1b"]}]]}]
+1e:[[["$","source","https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Home_page_banner_mobile_wo_text.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Home_page_banner_mobile_wo_text.webp","type":"$undefined"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_Home%20page%20banner_desktop_wo%20text.webp","srcSet":"$undefined","sizes":"$undefined","alt":""}]]
+1f:T3f8b,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="7172">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><div id="fireworks" align="center"></div>
+
+<section class="section spotlight-home-wrap m-0 p-0">
+	<div class="beam-slider main-slider loading1">
+		<div class="swiper-wrapper">
+
+			<div class="swiper-slide nogradient">
+				<div class="slide-bgimg">
+					<picture>
+						<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Home_page_banner_mobile_wo_text.webp">
+						<img loading="lazy" src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_Home%20page%20banner_desktop_wo%20text.webp" alt="Purpose-Led Banner">
+					</picture>
+				</div>
+				<div class="mob-content-home-spotlight">
+					<div class="content text-center text-lg-start">
+
+						<h2 class="heading font-medium font-size-tb">Harish Chavan</h2>
+	
+					</div>
+				</div>
+			</div>
+
+			
+
+		
+
+		
+
+		<div class="swiper-pagination bullet-bottom"></div>
+	</div>
+
+	
+</div></section>
+
+<style>
+.banner-heading, .banner-small {
+color: black;
+}
+	.spotlight-home-wrap .main-slider .swiper-slide .slide-bgimg.full-height-banner {
+		height: calc(100svh - 110px);
+	}
+
+	.spotlight-home-wrap .main-slider .swiper-slide .slide-bgimg.full-height-banner video {
+		width: 100%;
+
+		height: 100%;
+
+		object-fit: cover;
+	}
+</style>
+</div>
+			
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			<h1 class="heading font-medium" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">THE FIRST PRINT AD OF 1945</h1>
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80" style="height: 100%;">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide dark-content first-print-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_Print_Ad_mobile_wo%20text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_Print%20Ad_desktop_wo%20text.webp" class="img-fluid" alt="First Ad" title="Mahindra Group - Pininfarina Battista" loading="lazy">
+					</picture>
+					<div class="content print-ad-content regular-content content-black active bottom-content">
+						<h2 class="heading font-medium">BUILT ON<br>VALUES</h2>
+<p class="text-bold">Not just on product and services</p>
+						<a href="/mahindra-nextjs/about-us/our-story" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+
+				
+
+
+		</div>
+	</div>
+</div></section>
+
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+.beam-slider .swiper-slide:after {
+			 background: none !important;
+}
+.content-black{
+color: black !important;
+}
+.swiper-slide.dark-content.first-print-img img{
+	object-fit: contain;
+	height: 100%;
+}
+.text-bold{
+font-weight: 500 !important;
+}
+@media screen and (max-width: 835px) {
+	.swiper-slide.dark-content.first-print-img img {
+object-fit: cover !important;
+height: calc(100dvh - 54px) !important;
+}
+}
+@media screen and (max-width: 576px) {
+.beam-slider .swiper-slide .content.print-ad-content {
+top: 20%;
+}
+.bottom-content {
+  top: 70% !important;
+}
+}
+section:first-child .beam-slider .swiper-slide .slide-bgimg img {
+    height: 100% !important;
+}
+
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Nanhi%20Kali-Mobile.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Nanhi%20Kali%20banner%2001.webp" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content text-content-center">
+						<h2 class="heading font-medium">1,94,392 GIRLS</h2>
+            <p>Supported in FY '26</p>
+						<a href="https://www.nanhikali.org/" class="btn btn-primary mt-1" target="_blank" rel="noopener">Know More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+  .content-black {
+    color: black !important;
+  }
+
+.beam-slider .swiper-slide .content.text-content-center {
+    width: 87%;
+    text-align: center;
+    top: 65%;
+}
+.beam-slider .swiper-slide .content.text-content-center p{
+    max-width: 100%;
+} 
+@media screen and (max-width: 834px) {
+.beam-slider .swiper-slide .content.text-content-center {
+left: 7%;
+}
+}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_kaabil_mobile_wo_text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_kaabil_desktop_REWQ.webp" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content text-content-center">
+						<h2 class="heading font-medium">4,62,704 WOMEN</h2>
+            <p>Empowered in FY '26</p>
+						<a href="https://kaabilprogram.org/" class="btn btn-primary mt-1" target="_blank" rel="noopener">Know More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+  .content-black {
+    color: black !important;
+  }
+
+.beam-slider .swiper-slide .content.text-content-center {
+    width: 87%;
+    text-align: center;
+    top: 65%;
+}
+.beam-slider .swiper-slide .content.text-content-center p{
+    max-width: 100%;
+} 
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="container">
+		<div class="section-header text-center pb-0">
+			<h2 class="heading font-medium" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">OUR KEY PLANET POSITIVE<br>INITIATIVES</h2>
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80" style="height: 100%;">
+			<div class="swiper-wrapper">
+
+				<div class="swiper-slide our-key-planet-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_greening_mobile_wo_text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_greening_desktop_wo%20text.webp" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content">
+						<h2 class="heading font-medium">GREENING <br>OURSELVES</h2>
+						<a href="/mahindra-nextjs/rise/sustainability" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+
+				<div class="swiper-slide our-key-planet-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com//sites/default/files/2026-11/Mahindra_Purpose_Led_rejuvenating_mobile_wo%20text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com//sites/default/files/2026-11/Mahindra%20Purpose%20Led_rejuvenating_desktop_wo%20text.webp" class="img-fluid" alt="Mahindra Purpose Led rejuvenating desktop" title="Planet Positive (Rejuvenating nature)" loading="lazy">
+					</picture>
+					<div class="content regular-conten t">
+						<h2 class="heading font-medium">REJUVENATING <br>NATURE</h2>
+						<a href="/mahindra-nextjs/rise/sustainability" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+
+				<div class="swiper-slide our-key-planet-img">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_Purpose_Led_decarbonising_mobile_wo_text_v2.webp" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_decarbonising_desktop_wo%20text.webp" class="img-fluid" alt="Planet Positive (Decarbonising industries)" title="Planet Positive (Decarbonising industries)" loading="lazy">
+					</picture>
+					<div class="content regular-content content-black">
+						<h2 class="heading font-medium">DECARBONISING <br>OUR INDUSTRIES</h2>
+						<a href="/mahindra-nextjs/rise/sustainability" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+	.heading.value {
+		text-transform: none !important;
+	}
+
+	.create-value-slider .slides {
+		width: 25%;
+	}
+
+	.create-value-slider .slides .wrap .section-header .heading {
+		font-size: 18px;
+	}
+
+	.create-value-slider .slides .wrap .section-header {
+		height: 130px;
+	}
+  .content-black {
+    color: black !important;
+  }
+  .swiper-slide.our-key-planet-img img {
+    object-fit: contain !important;
+    height: 100% !important;
+  }
+  @media screen and (max-width: 835px) {
+    .swiper-slide.our-key-planet-img img {
+   // object-fit: cover !important;
+  //  height: calc(100dvh - 54px) !important;
+  }
+  }
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-0">
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-94 mob-height-full-box">
+			<div class="swiper-wrapper">
+        <h2 class="heading font-medium culture-heading" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">CULTURAL OUTREACH</h2>
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_cultureoutreach_mobile_wo%20text.gif" loading="lazy">
+						<img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra%20Purpose%20Led_cultureoutreach_desktop_wo%20text.gif" class="img-fluid" alt="Positive greening" title="" loading="lazy">
+					</picture>
+					<div class="content regular-content text-content-center">
+						<h2 class="heading font-semibold">MAHINDRA SEASON<br>OF FESTIVALS</h2>
+            <p>Supporting diverse forms of art for over 20 years</p>
+						<a href="/mahindra-nextjs/about-us/cultural-outreach" class="btn btn-primary mt-1">Know More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="swiper-button-prev swiper-button-white"></div>
+			<div class="swiper-button-next swiper-button-white"></div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+</section>
+<style>
+  .culture-heading {
+    position: absolute !important;
+    z-index: 2;
+    color: #fff;
+    left: 50%;
+    top: 56px;
+    transform: translateX(-50%) !important;
+text-align: center;
+  }
+  .content-black {
+    color: black !important;
+  }
+
+.beam-slider .swiper-slide .content.text-content-center {
+    width: 87%;
+    text-align: center;
+    top: 63%;
+}
+.beam-slider .swiper-slide .content.text-content-center p{
+    max-width: 100%;
+} 
+
+@media screen and (max-width: 998px) {
+  .mob-height-full-box {
+    height: 100vh;
+  }
+}
+</style>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0">
+  <div class="container">
+		<div class="section-header text-center pb-0">
+			<h2 class="heading font-medium" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">THE MAHINDRA MUSEUM</h2>
+		</div>
+	</div>
+  <div class="container">
+    <div class="position-relative aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <div class="beam-slider main-slider height-60 the-mahindra-museum-section beam-slider-one swiper-container-horizontal">
+        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+          <div class="swiper-slide swiper-slide-active" style="width: 100%; border-radius: 16px;">
+            <picture class="slide-bgimg the-mahindra-museum" style="transform: translateX(0px);">
+              <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_PurposeLed_Museum%20page_mobile_wo%20text.webp" loading="lazy">
+              <img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_PurposeLed_Museum%20page_desktopwo%20text.webp" class="img-fluid mob-height-full-box" alt="Mahindra Museum" title="Mahindra Museum" loading="lazy">
+            </picture>
+            <div class="content active regular-content">
+              <h2 class="heading font-semibold">A MUSEUM OF<br>LIVING HISTORY</h2>
+              <p>Where purpose meets design</p>
+              <a href="/mahindra-nextjs/museum" class="btn btn-primary mt-1">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+  .beam-slider .swiper-slide .slide-bgimg.the-mahindra-museum img {
+    height: auto !important;
+    border-radius: 16px !important;
+  } 
+
+.beam-slider.main-slider.height-60.the-mahindra-museum-section {
+height: 500px !important;
+}
+ .beam-slider .swiper-slide .slide-bgimg.the-mahindra-museum img {
+      height: 100% !important;
+      border-radius: 16px !important;
+    } 
+@media screen and (max-width: 1200px) {
+.beam-slider.main-slider.height-60.the-mahindra-museum-section {
+        height: 330px !important;
+}
+  }
+@media screen and (max-width: 598px) {
+    .beam-slider .swiper-slide .slide-bgimg.the-mahindra-museum img {
+      height: 100% !important;
+      border-radius: 16px !important;
+    } 
+.beam-slider.main-slider.height-60.the-mahindra-museum-section {
+        height: 330px !important;
+}
+  }
+
+</style></div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[[["$","link","/mahindra-nextjs/css/ad1482a0.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/ad1482a0.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$L1d",null,{"hrefs":["/mahindra-nextjs/css/ad1482a0.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$1e"}],["$","div",null,{"data-page-root":"","data-archetype":"purpose-led","data-path":"/harish-chavan","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$1f"}}],"$L20"]
+d:null
+13:[["$","title","0",{"children":"Harish Chavan | Mahindra"}],["$","meta","1",{"name":"description","content":"At Mahindra Purpose-Led, experience art, heritage, and social change — through CSR activities, cultural events, and our museum that tells our story."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L21","3",{}]]
+22:I[25851,["$4","$5"],"default"]
+23:"/mahindra-nextjs/_next/static/chunks/3zt_16xndew4w.js"
+24:I[22016,["$4","$5","$23"],""]
+27:I[67426,["$4","$5"],"default"]
+28:I[31903,["$4","$5","$1c"],"default"]
+17:["$","a",null,{"id":"main-content","tabIndex":-1}]
+18:["$","$L22",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section text-center","style":{"paddingTop":160},"children":["$","div",null,{"className":"container","children":[["$","h1",null,{"className":"heading font-regular","children":"Page not found"}],["$","p",null,{"children":"The page you requested could not be found."}],["$","$L24",null,{"href":"/","className":"btn btn-primary","children":"Back to home"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]
+25:T60f8,<footer class="footer-main">
+  <div class="container">
+    <div class="row footer-header">
+      <div class="col-md-6 col-12 justify-content-between d-flex">
+        <div class="logo">
+          <a href="/mahindra-nextjs/">
+            <img src="https://www.mahindra.com//sites/default/files/2025-07/mahindra-red-logo.webp" alt="Mahindra Rise - Brand Logo" title="Mahindra Rise - Brand Logo" class="hiddenlogo1" width="200" height="30" style="width: auto;" loading="lazy">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-6 col-12 footer-social-wrap-center">
+        <ul class="social-wrap">
+          <li class="fb">
+            <a href="https://www.facebook.com/mahindrarise" target="_blank" title="Mahindra Rise - Facebook page" rel="noopener">
+              <svg width="30" height="30" viewBox="0 0 40 41" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAAAXNSR0IArs4c6QAAAZRJREFUWEftltFNwzAQhn2NHxMpj5HsSOkG3YCyQTcoTABMUJgANiArdILCBIxApNh5pQNEMXEFUqmcxNa1UZDsV1/uvvvPdzkgEz8wcT7iAbEVOruCcRzHYRiuAWChlMoMgO9CiEdb8LMBarAoijZKqfu+4ACQl2V5OypgkiRZEAS7NrhJsT8sowO6wGnS0QHTNM2VUmvrko1ZYq0epfTTFm50BRljNwDw2gO4b5tmf3K/lVL2NtKxPaqLOecvhJC7DsAnl3HSlSQKkDGWA4Dx/QkhUL5/gVFOPKAeSy4deGo7OQWzLIvruv7CJHXRQc0YWwDABwawrZpTdzuVmHO+JITsMIBKqQcppR5PVscJ0GIwDwZtmmZVVdV20PDHwAmQc673uI2t8w67ayHEm60PV8C+P4dVTErpvCiKwsrYdczoEs9ms6sj58uOrfmwVpkgXJbVw3Jhm4nJbnJzcPKD2gMa3pF/g5gm9F2MVc8r6BUcUuA//OqeCSErUyJSyvlQgjb3qEFtEwBr4wG9glgFsN9/A/ubqSotIjiQAAAAAElFTkSuQmCC" x="0" y="0" width="30" height="30"></image>
+              </svg>
+            </a>
+          </li>
+          <li class="tw">
+            <a href="https://twitter.com/mahindrarise" target="_blank" title="Mahindra Rise - Twitter page" rel="noopener">
+              <svg width="30" height="30" viewBox="0 0 40 41" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAAAXNSR0IArs4c6QAAA0NJREFUWEftmF9OIkEQxrtAn+CBR5NuyRxBbrDcYPcE6glWT6CeYPUE4gncPQHeQI9AnB7jI4nwJFA7NaEnTdM9XQNsYjbME2H6z4+vur6qBsQXf+CL84k94LYR2iu4cwWVUleIeMZY+C7LslvGuJUhUsoTIcSj/SUA/NFaX/jWWgtxkiSd+Xz+jIgJY/O+1vqJMa4YcnR0lDSbzSEA2Gu/TCaT/ng8HrMAzUIHBwfPQoiONcmA0HekgsiVHs3n8/77+/soBumDA4DR5+dn5fxgkhwfH39HxDIUi8Xix9vb228CUUoRfAEphHjSWverADudTqfVaj3bynHgaM3KLFZKXedCXS03H89msx6pRWocHh4OzTEAgNs0TS9DkM4PomHlWjHlozajlBrmKn0zIZ1Opz06L0op+o7eFU+j0Th7fX19cDeUUt7naq0kHSL2six7icFFFaQBbtLkYRqkaXpO76SUFwDwy1XYbEyOkH+mKJQPAJynaTrgwLEAlyAnAEBqFUmDiJfGYqSUAwA49Si8BpcfqRut9QpwDDQaYrOAlPIMAO6tBQuL8dgSJRJlvOuRteHYCloho01/GrWMxVDSeGyp/C2ISKbuNeKdKWhBlkkjhChN1qNwMQURH7Is41QmLys7xGZ2lcUopUqFl+Mrq0RMvdohts4jJQ2ZtVGpTBrblkhhrXWPAxIaU1tBC9K2GApl4W11TTwGvzEgLWyH1K7L1LGEFI4Bue+3AnRB7Lrsmjgi9rnVw4bcGNDXABSH2qrLIROvo+JGgATXbrfJbkxHs7Knqctk4rPZzB4X7Xx2EmJfAyCEuDMmTt2KCanHxK+11jdcFWsrWNUAhELq9pZCCHYnXgvQB2c3AJ66XIY01FvGlGQDxuDsSuPU5TKkrolX3UXMeizAbrd7ulgs3B4u2J2Ergue3rKyE2eVOo/XsRqAUEiX63l7S1+4KxUMtFHsBiB0XXBMvCyTtQBD18SPj4/iThI73PTeDSkivgCAmVvcc+ipur56Fdz0DuuDjjWz1hyvia8B+qoE9w4bUjXUzK5VDc/11QtIkPZkCik3rCHIJEk4f6WI0Wi08i8Fy2Y45+1fjdkDbqvsXsH/XsG/07ZKSIssn8EAAAAASUVORK5CYII=" x="0" y="0" width="30" height="30"></image>
+              </svg>
+            </a>
+          </li>
+          <li class="inst">
+            <a href="https://instagram.com/mahindrarise" target="_blank" title="Mahindra Rise - Instagram page" rel="noopener">
+              <svg width="30" height="30" viewBox="0 0 40 41" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAAAXNSR0IArs4c6QAAA5FJREFUWEftWG1O4zAQ9ZTyC9Bm/yE50YYb0BtsbwAnWDgBcALoCYATUE4AewK4AbkBRbER/8iq5Q+kmc2gJHK+nbogtNpIlarEY788v3kzDrAvfsEXx8f+HYCu67qvr6/bvV7vB2Psu8K8BQDfqnYCEf8wxgLl2XMURQ9RFHlPT08Tnd1rZNCyLGt9ff2AMbbDGNvWmVB3DCISwBMp5WVTTC3Azc1Nd2Vl5QYAXN1FFxlHQOfz+bCO0UqABK7f798xxqxFFl0gJkDEoZTSK8aWANK2rq2t3X00c0UgxOTLy8sgCAJVs+Ustm37mLSxAAvLCBkJIXJrlxjknN9/IHvXAHAZRRFl/mmFhAIhhOoQeQZt2/7JGLtZBhUlLQFMfN/fSu9zzvcA4KJiqweqFnMMcs4PkzfrjJE0BACkH/qRJRUT7LcQguzq/eKcbwMAJWLuQsR9KeU4vZkDaNs27T9pUPciMOf9fn88mUxyxpvY1AkA/EomC8IwHKR20qD1nA6LDI6VCdtAemEY7rZVBAK6urp6g4huwjJZCbFLcipdsf7Hvu/vVzLIOdcF6M1ms2HREureyHVdKwxD0nZrNTIGCACTt7e3nPMnyXWAiO8AAMBDxJEqdl3zNwYYr5/TSItvngghRimzOho3BhiG4ZYidB1bGgohbglkstXPTeI2BegJIQYKI6SrSrErIG6FEEMlhqylVoumAHNeZts2sdHWUOSqg+M4V4iY+WGRTSOAxeBYf9jmRfQ81mFmZx8KMG5cF9niTjFGDFIZm81mW6n/1dVTldXYnPfSrvkzkoTF54wjKeVZCqLJ3BHxXEp5qIytbBDUFzJlkACWGktistfrHVM5o8WS8waBy15EtxE2BphUily9TBkgEPS/qgQ6jnOKiBmbdcm1FIAJyLPpdDpqq8cJc6dxidzTyfhGgDqlqJAAjUdHqtGIeNGxQ29stxZtWKkv9KiRSDSYtlNtJl4itZiExYZVp7bq7JTJmKx2v0tJnSnxqXuN8mUCoCm2+dBEkV11uEyksU2NpZRZN11iUGmJPp3Fqka4EiDddBxnBxGvlslO21xRFO0+Pj5el7qbusAEJJ1bO2diG5jC8wAAjnzfz46audLXNFnF0bHj2o3D6YPR9Xw+HzWdDLW+sFI12NjYINOlwzZ9wLQQsROzikc+0KFqOp3etlWhWg0ukybTubQYNF3EJP4/QBP2KPYv1E4ISFh4AkYAAAAASUVORK5CYII=" x="0" y="0" width="30" height="30"></image>
+              </svg>
+            </a>
+          </li>
+          <li class="yt">
+            <a href="https://youtube.com/c/MahindraRise" target="_blank" title="Mahindra Rise - Youtube page" rel="noopener">
+              <svg width="30" height="30" viewBox="0 0 40 41" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAAAXNSR0IArs4c6QAAAm9JREFUWEftmNFt2zAQhnm0Hm1AfTNMGuAIyQbJBPEGTSZoOkGcCZpOYHeCthMkmaDuBgJMGn6rH/xmQVefIQmSLNmSqNh+EJ8ESMf7dHf8jySwCx9w4XysBbTNUBvBs0RQKaUix5vNxgUAtwjEcRwveud5XvxcFrwwxf1+XzmOc8cYu2GMKUQkkBisrIO87xDRA4AVY4yA//q+P10ul7nwuYBSyi+MsRcbiBq2Y631c9ZuD3AwGIw45z9rOGjC5FZr/ZacaA9QSvkaprUJh1XneNNa3xYCKqVc3/f/VZ21ye/X6/Wn1WpF9bkbqQhKKWlBUATPNhDx2hgzywUcDocjRDxX/e2YEPHBGDPNBRRCPALAt4rhe6d5m6pbRPxqjIkVJJvi8dbZUxXArTZO5/P5gxDinnP+hIi2WvmstSaO3BokctLA0iMCjAyklJV/MukMEb8bYx6LUjwFgM+l6WiVhRFM2lAX6nQ646pz7VZtZr5UioUQjQAmonkDAJMqaT8pYARapT7PAhjqK6nD1bHyOSmg67pur9d7QcTSdX0SQALrdrukBrQaC/eKedH8cEBKJyJO6u4dD8pMHQ2L/jjc4E4a6CjFQl2z1f1ijFFzj9X/2EI49P5gqyM5IN2ycWBrGwTBaLFY/C7qJFcA8MfWiaV9aled6iQXv2GlP5dSUgSPCqpllIrMZ1rr6+TLvTNJzYXSCO/2OHpvjPlxEDCMotWWqSZtSl5yF0ly4rDB34U7kQ9JOR3gOeczEufscfMoYDYKdN2RvOag644gCEq3MQDY3RxEVyFlr0Ha262a9RibtRFsI2gbAVv7i6/B/67JGjl3UeQYAAAAAElFTkSuQmCC" x="0" y="0" width="30" height="30"></image>
+              </svg>
+            </a>
+          </li>
+          <li class="in">
+            <a href="https://www.linkedin.com/company/mahindragroup/" target="_blank" title="Mahindra Rise - LinkedIn page" rel="noopener">
+              <svg width="30" height="30" viewBox="0 0 40 41" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAAAXNSR0IArs4c6QAAAg5JREFUWEftWFFOwkAQ3SH94qufJLsf9Qb2BnIS6wnAEygnEE8g3sAbiDeoJ6AJuwl/1qR8UTJ2DJBmuwvU2gqm+wmzMy9vZt7MFtiJHzhxfKwFWDVD58ugEGLAGAsQ0e10OtPVajVaLBZRVUbK3jcyKIS4yxzd550hYrRcLv04juOyQarYGwFyzmcA4OmOEfFWKTWuErDs3QLAXq/nOY4zMzlCxEel1LBskCr2thR/MMZcA4OBUuq5SsCyd20pHgLAg+YslFL6ZQNUtbfKjBDiCgCokxkividJMm66QSj2+epg1dTo913XdbvdLmXlu7YBIEqSJDyUFVuTvFoAvkkpd/pIZZBVAGlm4WwkKczZkG3hZHI22TcEbADR5mw+n99s/+OcBwDwZLJ1HOdivV4PEPEYWYoRsa+UCnVftQFExEmWxqBEqcRpmvr6OK0NYAlgedOplLKf/+HUADIqjSiKdktJEwCnjLGXrGk+GWPUxdf72NXnfd0AR/muJ2Cc80sAIJUojNKN/EzyjVgnQOtoFEKQVBnliWSnEYDZ/mhdLDzPc9M0pYXEqItNAfRNurZFlG3sxo2pMQb1btSpsi3FLcAtUy2Dx3TYoWUhPxHaGjSpfMug7U2SfVn4lYW1rcHC+q0N8j+rQc/zCt9lCCy9wPKvMHqp0TFJ0r70kv2xMdp38Q/fJrtrLYP/nsEv9hasOXFhAv8AAAAASUVORK5CYII=" x="0" y="0" width="30" height="30"></image>
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="row footer-menu-box">
+      <div class="col">
+        <div class="footer-menu">
+          <div class="link-blocks">
+            <div class="head">
+              <span>
+                <a href="/mahindra-nextjs/about-us">Who we are</a>
+                <small></small>
+              </span>
+              <ul class="footer-inner-list">
+                <li>
+                  <a href="/mahindra-nextjs/purpose-led">Purpose Led</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/performance-driven">Performance Driven</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/future-ready">Future Ready</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/leadership">Leadership</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/about-us/our-story">Our History</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/museum">Museum</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="link-blocks">
+            <div class="head what-we-do-footer-links">
+              <span>
+                <a href="/mahindra-nextjs/our-business">what we do</a>
+                <small></small>
+              </span>
+              <ul class="footer-inner-list">
+                <li>
+                  <a href="/mahindra-nextjs/our-businesses">Industries</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+
+                  <div class="has-footer-sub-child">
+                    <ul>
+                      <li><a href="/mahindra-nextjs/our-business/automotive">Automotive</a> <span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+                      <div class="has-footer-inner-sub-child">
+                        <ul>
+                          <li><a href="https://auto.mahindra.com/" target="_blank" rel="noopener">- SUVs</a></li>
+                          <li><a href="https://auto.mahindra.com/" target="_blank" rel="noopener">- LCVs</a></li>
+                          <li><a href="https://mahindralastmilemobility.com/" target="_blank" rel="noopener">- Last Mile Mobility</a></li>
+                          <li><a href="https://www.yezdi.com/" target="_blank" rel="noopener">- Iconic Motorcycles</a></li>
+                          <li><a href="https://www.mahindratruckandbus.com/" target="_blank" rel="noopener">- Trucks And Buses</a></li>
+                        </ul>
+                      </div>
+                      </li>
+                      <li><a href="/mahindra-nextjs/our-business/farm-equipment">Farm Equipment</a> <span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+                        <div class="has-footer-inner-sub-child">
+                          <ul>
+                            <li><a href="https://www.mahindratractor.com/" target="_blank" rel="noopener">- Tractors</a></li>
+                            <li><a href="https://www.mahindraagri.com/" target="_blank" rel="noopener">- Agri Services</a></li>
+                            <li><a href="https://mahindrafarmmachinery.com/" target="_blank" rel="noopener">- Farm Machinery</a></li>
+                          </ul>
+                        </div>
+                      </li>
+                      <li><a href="/mahindra-nextjs/our-business/financial-services">Financial Services</a></li>
+                      <li><a>Technology Services</a> <span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+                        <div class="has-footer-inner-sub-child">
+                          <ul>
+                            <li><a href="/mahindra-nextjs/our-business/technology-services/tech-mahindra">- Tech Mahindra</a></li>
+                            <li><a href="/mahindra-nextjs/our-business/technology-services/bristlecone">- Bristlecone</a></li>
+                          </ul>
+                        </div>
+                      </li>                      <li><a href="/mahindra-nextjs/our-business/hospitality">Hospitality</a></li>
+                      <li><a href="/mahindra-nextjs/our-business/logistics">Logistics</a></li>
+                      <li><a href="/mahindra-nextjs/our-business/real-estate">Real Estate</a></li>
+                      <li><a href="/mahindra-nextjs/our-business/renewable-energy">Renewables</a></li>
+                      <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">Other Emerging Businesses</a> <span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+                        <div class="has-footer-inner-sub-child">
+                          <ul>
+                            <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">- Advanced Technologies</a></li>
+                            <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">- Aerostructures</a></li>
+                            <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">- Aftermarkets (Pre-Owned Cars)</a></li>
+                            <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">- Auto Components and Recycling</a></li>
+                            <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">- Power Generation</a></li>
+                            <li><a href="/mahindra-nextjs/our-business/emerging-equity-investments">- Retail</a></li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/our-brands">Our Brands</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/our-business/global-presence">Global Presence</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/cultural-outreach">Cultural Outreach</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="link-blocks">
+            <div class="head">
+              <span>
+                <a href="/mahindra-nextjs/investor-relations">Investor Relations</a>
+                <small></small>
+              </span>
+              <ul class="footer-inner-list">
+                <li>
+                  <a href="https://www.mahindra.com/sites/default/files/2025-04/Disclosures-under-Reg-46-62-MM-URLs_PDF.pdf" target="_blank" rel="noopener">Disclosures Under Regulation 46 &amp; 62 Of SEBI (LODR)</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/investor-relations/reports">Reports</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/investor-relations/regulatory-filings">Regulatory Filings</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/investor-relations/policies-and-documents">Policies</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/investor-relations/sustainability">Sustainability Reports &amp; Policies</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="link-blocks">
+            <div class="head">
+              <span>
+                <a href="/mahindra-nextjs/newsroom">Newsroom</a>
+                <small></small>
+              </span>
+              <ul class="footer-inner-list">
+                <li>
+                  <a href="/mahindra-nextjs/newsroom/press-release" target="_self">Press Releases</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/newsroom#in-the-news">In The News</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/newsroom/corporate-doc">Media Resources</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/our-story">Our Story</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="link-blocks">
+            <div class="head careers-footer-links">
+              <span>
+                <a href="/mahindra-nextjs/career">Careers</a>
+                <small></small>
+              </span>
+              <ul class="footer-inner-list">
+                <li>
+                  <a href="https://jobs.mahindracareers.com/" target="_blank" rel="noopener">Find A Job</a>
+                </li>
+                <li>
+                  <a href="/mahindra-nextjs/career/SOAR">SOAR</a>
+                </li>
+                <li>
+                  <a>Leadership Programs</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+
+                  <div class="has-footer-sub-child">
+                    <ul>
+                      <li><a href="/mahindra-nextjs/mahindra-leaders-program">Mahindra Leaders Program</a>
+                      </li>
+                      <li><a href="/mahindra-nextjs/mahindra-accelerated-leadership-track">Mahindra Accelerated Leadership Track</a> 
+                      </li>
+                      <li><a href="/mahindra-nextjs/mahindra-future-shaper">Mahindra Future Shapers</a></li>
+                      <li><a href="/mahindra-nextjs/mahindra-leadership-university">Mahindra Leadership University</a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a>Tech Opportunities</a><span><svg viewBox="-23.5 -23.5 122.80 122.80" fill="#000000" stroke="#000000" stroke-width="4.851456000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.30321600000000004"></g><g id="SVGRepo_iconCarrier"> <g id="Group_65" data-name="Group 65" transform="translate(-831.568 -384.448)"> <path id="Path_57" data-name="Path 57" d="M833.068,460.252a1.5,1.5,0,0,1-1.061-2.561l33.557-33.56a2.53,2.53,0,0,0,0-3.564l-33.557-33.558a1.5,1.5,0,0,1,2.122-2.121l33.556,33.558a5.53,5.53,0,0,1,0,7.807l-33.557,33.56A1.5,1.5,0,0,1,833.068,460.252Z" fill="#030408"></path> </g> </g></svg></span>
+                  <div class="has-footer-sub-child">
+                    <ul>
+                      <li><a href="/mahindra-nextjs/mahindra-ai">Mahindra AI</a> 
+                      </li>
+                      <li><a href="/mahindra-nextjs/mahindra-digital-engine">Mahindra Digital Engine</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="row align-items-lg-end copyright-wrap">
+      <div class="col-12 col-lg-6">
+        <ul class="secondary-nav">
+          <li><a href="/mahindra-nextjs/terms-of-use">Terms of use</a></li>
+          <li><a href="/mahindra-nextjs/disclaimer">Disclaimer</a></li>
+          <li><a href="/mahindra-nextjs/privacy-notice">Privacy Notice</a></li>
+          <li><a href="/mahindra-nextjs/cookie-policy">Cookie Policy</a></li>
+          <li><a href="/mahindra-nextjs/sitemap">Sitemap</a></li>
+		  <li><a href="/mahindra-nextjs/contact-us">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="col-12 col-lg-6 copyright-text">
+        Copyright © 2026 Mahindra &amp; Mahindra Ltd. All Rights Reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+<style>
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:hover > a,
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:has(.has-footer-sub-child.active)>a,
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:has(.has-footer-inner-sub-child.active-inner-child)>a {
+  color: #dd052b;
+}
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:hover>span svg path,
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:has(.has-footer-sub-child.active)>span svg path,
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:has(.has-footer-inner-sub-child.active-inner-child)>span svg path {
+  stroke: #dd052b !important;
+  fill: #dd052b !important;
+}
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:hover>span,
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:has(.has-footer-sub-child.active)>span,
+.footer-main .footer-menu .link-blocks .head .footer-inner-list li:has(.has-footer-inner-sub-child.active-inner-child)>span {
+  cursor: pointer;
+}
+.footer-main .footer-menu .link-blocks .head a {
+  width: 75%;
+}
+@media screen and (min-width: 835px) {
+  .footer-main .footer-menu .link-blocks {
+    width: calc((50% / 3) - 17px);
+  }
+  .footer-main .footer-menu .link-blocks:nth-child(2), .footer-main .footer-menu .link-blocks:last-child {
+    width: calc((50% / 2) - 40px);
+  }
+}
+.footer-main .footer-menu .link-blocks ul li .has-footer-sub-child.active, .footer-main .footer-menu .link-blocks ul li .has-footer-sub-child.active .has-footer-inner-sub-child.active-inner-child {
+  max-height: 750px;
+  opacity: 1;
+}
+@media screen and (max-width:991px) {
+.footer-main .footer-menu .link-blocks ul li .has-footer-sub-child.active, .footer-main .footer-menu .link-blocks ul li .has-footer-sub-child.active .has-footer-inner-sub-child.active-inner-child {
+  max-height: 850px;
+  opacity: 1;
+}
+}
+.footer-main::before {
+  z-index: 1;
+}
+  .static-pages {
+    margin-top: unset;
+  }
+</style>
+19:["$","div",null,{"id":"block-footer","children":["$","div",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$25"}}]}]
+26:T1606,<div id="block-mahindra-searchassistancebot">
+  
+    
+      <div class="search-assistance-block">
+  <div class="search-bot__icon">
+    <span class="search-bot__icon--text">Search</span>
+    <svg class="search-bot__icon--icon" width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5638 7.73091C16.6616 14.6274 21.624 18.7864 25.233 18.3244V20.438C25.233 23.9036 22.9773 26.214 19.5939 26.214H14.406L9.33079 29.7608C8.20299 30.3383 7.63908 29.7608 7.63907 29.1832V26.214C4.25563 26.214 2 23.9036 2 20.438V13.5069C2.00015 10.0415 4.25574 7.73091 7.63907 7.73091H17.5638ZM7.18795 18.7864C6.68965 18.7864 6.2857 19.2002 6.2857 19.7106C6.2857 20.221 6.68965 20.6348 7.18795 20.6348H18.015C18.5133 20.6348 18.9172 20.221 18.9172 19.7106C18.9172 19.2002 18.5133 18.7864 18.015 18.7864H7.18795ZM7.18795 14.1657C6.68965 14.1657 6.2857 14.5794 6.2857 15.0898C6.2857 15.6002 6.68965 16.014 7.18795 16.014H13.5037L13.5962 16.0095C14.0511 15.962 14.406 15.5682 14.406 15.0898C14.406 14.6114 14.0511 14.2176 13.5962 14.1702L13.5037 14.1657H7.18795Z" fill="white"></path>
+      <path d="M29.7442 10.007C29.7442 7.71021 27.9265 5.84831 25.6841 5.84831C23.4418 5.84832 21.624 7.71023 21.624 10.007C21.624 12.3038 23.4418 14.1657 25.6841 14.1657C27.9264 14.1657 29.7442 12.3038 29.7442 10.007ZM31.5487 10.007C31.5487 13.3246 28.9231 16.014 25.6841 16.014C22.4452 16.014 19.8195 13.3246 19.8195 10.007C19.8195 6.68942 22.4452 4.00001 25.6841 4C28.9231 4 31.5487 6.68943 31.5487 10.007Z" fill="white"></path>
+      <path d="M28.3177 13.4139C28.6979 13.1358 29.2166 13.2029 29.5187 13.5547L29.5759 13.6287L31.8316 16.8632L31.8818 16.9427C32.1086 17.3494 32.002 17.8739 31.6219 18.152C31.2417 18.4301 30.723 18.363 30.4209 18.0112L30.3637 17.9372L28.108 14.7027L28.0578 14.6232C27.831 14.2165 27.9376 13.692 28.3177 13.4139Z" fill="white"></path>
+    </svg>
+  </div>
+
+  <div class="search-bot">
+    <div class="search-bot__box">
+      <div class="search-bot__box--heading">
+        <h3>Search Assistant</h3>
+        <svg class="search-bot__box--heading--close" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3.66602 18.3327L18.3327 3.66602" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path d="M18.3327 18.3327L3.66602 3.66602" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+
+      </div>
+      <div class="search-bot__box--inner-wrapper">
+        <div class="search-bot__box--header-text">
+          <h3>Hello!</h3>
+          <p>The Mahindra Search Assistant helps users quickly find information, products, or support</p>
+        </div>
+        <div class="search-bot__box--tags">
+          <p>Popular Searches</p>
+                      <ul class="search-tags">
+                              <li class="tag">
+                  <a href="/mahindra-nextjs/search?key=Press Releases">Press Releases</a>
+                </li>
+                              <li class="tag">
+                  <a href="/mahindra-nextjs/search?key=Investor Relations">Investor Relations</a>
+                </li>
+                              <li class="tag">
+                  <a href="/mahindra-nextjs/search?key=Our Brands">Our Brands</a>
+                </li>
+                              <li class="tag">
+                  <a href="/mahindra-nextjs/search?key=Careers">Careers</a>
+                </li>
+                              <li class="tag">
+                  <a href="/mahindra-nextjs/search?key=Our History">Our History</a>
+                </li>
+                              <li class="tag">
+                  <a href="/mahindra-nextjs/search?key=Leadership">Leadership</a>
+                </li>
+                          </ul>
+                  </div>
+      </div>
+      <div class="search-bot__box--search-form">
+        <form action="/mahindra-nextjs/search" method="get" id="search-block-form" accept-charset="UTF-8" data-drupal-form-fields="edit-keys">
+          <textarea type="text" class="input-text searchtext" required="" name="key" id="searchInput" autocomplete="off" rows="4" placeholder="Search what you need, Faster!"></textarea>
+          <button class="submit-button">
+            <div class="label">
+              <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_5378_7266)">
+                  <path d="M17.2354 0.104353C17.4441 0.256138 17.5295 0.458519 17.4916 0.711496L15.063 15.2829C15.0314 15.4663 14.9302 15.6086 14.7594 15.7098C14.6709 15.7604 14.5729 15.7857 14.4653 15.7857C14.3958 15.7857 14.3199 15.7699 14.2377 15.7383L9.94023 13.9833L7.64447 16.7818C7.53063 16.9273 7.37568 17 7.17963 17C7.09741 17 7.02784 16.9874 6.97092 16.9621C6.85076 16.9178 6.75431 16.8435 6.68158 16.7391C6.60885 16.6348 6.57248 16.5193 6.57248 16.3929V13.082L14.7689 3.03571L4.62773 11.8108L0.880518 10.274C0.646515 10.1855 0.520027 10.0115 0.501054 9.75223C0.488405 9.49926 0.589596 9.31269 0.804626 9.19252L16.5903 0.0853795C16.6852 0.0284598 16.7864 0 16.8939 0C17.0204 0 17.1342 0.0347842 17.2354 0.104353Z" fill="white"></path>
+                </g>
+                <defs>
+                  <clipPath id="clip0_5378_7266">
+                    <rect width="17" height="17" fill="white" transform="translate(0.5)"></rect>
+                  </clipPath>
+                </defs>
+              </svg>
+            </div>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>1a:["$","div",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$26"}}]
+1b:["$","$L27",null,{"routes":["/","/about-us","/purpose-led","/our-business","/our-business/automotive","/investor-relations","/investor-relations/reports","/newsroom","/newsroom/press-release","/career","/career/soar","/leadership","/about-us/our-story","/our-brands","/mahindra-leaders-program","/performance-driven","/future-ready","/museum","/our-business/farm-equipment","/our-business/financial-services","/our-business/technology-services","/our-business/hospitality","/our-business/logistics","/our-business/real-estate","/our-business/renewable-energy","/our-business/emerging-equity-investments","/our-business/global-presence","/cultural-outreach","/investor-relations/policies-and-documents","/investor-relations/regulatory-filings","/investor-relations/sustainability","/news-room/press-release/en/mahindra-world-city-jaipur-hands-over-10-patrolling-vehicles-to-jaipur-police-to-strengthen-public-safety","/news-room/press-release/en/tech-mahindra-marks-40-years-with-bell-ringing-ceremony-at-the-bombay-stock-exchange","/newsroom/corporate-doc","/mahindra-accelerated-leadership-track","/mahindra-future-shaper","/mahindra-leadership-university","/mahindra-ai","/mahindra-digital-engine","/news-room/press-release/en/mahindra-last-mile-mobility-wins-the-earthshot-prize-2026-for-transforming-last-mile-mobility-in-india","/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era","/mymahindrastory","/about-us/cultural-outreach","/blogs/soar-seamless-opportunity-for-amazing-returnships","/contact-us","/mr-anand-mahindra","/dr-anish-shah","/mr-rajesh-jejurikar","/shikha-sharma","/nisaba-godrej","/muthiah-murugappan","/padmasree-warrior","/ranjan-pant","/sat-pal-bhanoo","/mr-mp-vijay-kumar","/ms-samina-hamied","/abanti-sankaranarayanan","/amarjyoti-barua","/amit-kumar-sinha","/hemant-sikka","/lakshmanan-chidambaram","/manoj-bhat","/mohit-joshi","/mohit-kapoor","/naveen-raju","/puneet-renjhen","/r-velusamy","/raul-rebello","/veejay-ram-nakra","/vinod-sahay","/harish-chavan","/parag-rao","/rohit-thakur","/rajeev-goyal","/shveta-arya","/rise/sustainability","/news-room/press-release/en/m-and-m-results-q2-f27","/investor-report","/investor-report/investor-regulatory-filings","/investor-report/sustainability","/blogs/how-mahindra-and-mahindra-corporate-governance-excellence-earned-lts-6th-golden-peacock-global-award","/blogs/unlearntorise-sahil-chhetry","/blogs/unlearntorise-supriya-rehill","/blogs/unlearntorise-ankit-vasudeva","/our-story","/news-room/press-release/en/mahindra-racing-strengthens-gen4-technical-programme-with-valeo-as-official-performance-and-engineering-partner","/newsroom/news","/news-room/press-release/archive","/news-room/press-release/en/mahindra-xev-9s-becomes-indias-safest-7-seater-suv-first-7-seater-ev-to-achieve-a-5-star-bharat-ncap-rating","/news-room/press-release/en/sml-mahindra-to-raise-upto-rs-1450-crore-through-rights-issue","/news-room/press-release/en/mahindra-last-mile-mobility-and-uber-partner-to-accelerate-3w-ev-adoption-across-india","/news-room/press-release/en/mahindra-xuv-3xo-zng-secures-5-star-bharat-ncap-rating-indias-first-sub-compact-cng-suv-to-achieve-this-milestone","/blogs/enriching-motherhood-with-our-5-year-maternity-policy","/women-at-mahindra","/mr-keshub-mahindra","/careers-mde","/our-businesses","/our-business/technology-services/tech-mahindra","/our-business/technology-services/bristlecone","/terms-of-use","/disclaimer","/privacy-notice","/cookie-policy","/sitemap"]}]
+20:["$","$L28",null,{}]

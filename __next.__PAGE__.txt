@@ -1,0 +1,1124 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+6:I[9283,["$3","$4","$5"],"default"]
+e:"ViewportBoundary"
+f:I[97367,["$3","$4"],"$e"]
+10:"MetadataBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"$Sreact.suspense"
+13:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/e2443d11.css","style"]
+:HL["/mahindra-nextjs/css/98a26959.css","style"]
+7:[[["$","source","https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20360x411%20Mobile%20copy.jpg%20%281%29.webp",{"media":"(max-width: 576px)","srcSet":"https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20360x411%20Mobile%20copy.jpg%20%281%29.webp"}],["$","source","https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20Adapt%201903x841%20without%20copy.jpg.webp","alt":""}]]
+8:Tf989,<div id="block-homeslider">
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+  <div id="homeBannerCarousel" class="beam-slider main-slider loading1 carousel slide" data-bs-interval="false" data-bs-pause="false" data-bs-touch="true">
+    <div class="swiper-wrapper carousel-inner">
+      <div class="swiper-slide carousel-item active nogradient">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20360x411%20Mobile%20copy.jpg%20%281%29.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp">
+            <img loading="eager" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%20Home%20Page%20Hero%20Main%20Banner%20Adapt%201903x841%20without%20copy.jpg.webp" alt="Purpose Led, Performance Driven, Future Ready" width="1903" height="841" fetchpriority="high">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <h1 class="heading font-medium font-size-tb banner-text-dark">
+              Purpose Led,<br>Performance Driven,<br>Future Ready.
+            </h1>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide carousel-item nogradient dark-content">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/GPGA%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/GPGA%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <img loading="lazy" class="object-position-top-img" src="https://www.mahindra.com/sites/default/files/2026-11/GPGA%20Main%20Banner%20Adapt%201903x841%20copy.webp" alt="Golden Peacock Global Award For Excellence in Corporate Governance 2026" width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <h1 class="heading font-medium font-size-tb small-font">GOLDEN PEACOCK <br>GLOBAL AWARD</h1>
+            <p><strong>For Excellence in Corporate Governance 2026</strong></p>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide carousel-item nogradient">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/LMM%20Award%20Main%20Banner%20360x411%20Mobile%20copy%20%281%29.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/LMM%20Award%20Main%20Banner%20360x411%20Mobile%20copy%20%281%29.webp">
+            <img loading="lazy" class="object-position-top-img" src="https://www.mahindra.com/sites/default/files/2026-11/LMM%20Award%20Main%20Banner%20Adapt%201903x841%20copy.jpg%20%281%29.webp" alt="Mahindra Last Mile Mobility Wins The Earthshot Prize 2026 for Clean Our Air Category" width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="font-weight: bold;">Mahindra Last Mile Mobility wins</small>
+            <h1 class="heading font-medium font-size-tb small-font">THE EARTHSHOT <br> PRIZE 2026</h1>
+            <p><strong>For Clean our Air Category</strong></p>
+            <a href="/mahindra-nextjs/news-room/press-release/en/mahindra-last-mile-mobility-wins-the-earthshot-prize-2026-for-transforming-last-mile-mobility-in-india" target="_self" class="btn btn-primary">Know More</a>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide carousel-item nogradient">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/M13%20Electro%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/M13%20Electro%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <img loading="lazy" class="object-position-top-img" src="https://www.mahindra.com/sites/default/files/2026-11/M13%20Electro%20Main%20Banner%20Adapt%201903x841%20copy.webp" alt="Mahindra Racing Unveils New M13Electro as Formula E Enters the GEN4 Era" width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="font-weight: bold;">Mahindra Racing Unveils</small>
+            <h1 class="heading font-medium font-size-tb small-font">New M13Electro</h1>
+            <p><strong>as Formula E Enters the GEN4 Era</strong></p>
+            <a href="/mahindra-nextjs/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era" target="_self" class="btn btn-primary">Know More</a>
+          </div>
+        </div>
+      </div>
+      
+      
+
+      
+
+      
+      <div class="swiper-slide carousel-item dark-content nogradient">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-10/40Y%20of%20Progress%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-10/40Y%20of%20Progress%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <img loading="lazy" class="object-position-top-img" src="https://www.mahindra.com/sites/default/files/2026-10/40Y%20of%20Progress%20Main%20Banner%20Adapt%201903x841%20copy.webp" alt="40 Years of Tech Mahindra - Four Decades of Shaping What's Next" width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="font-weight: bold;">Four Decades of Shaping What's Next</small>
+            <h1 class="heading font-medium font-size-tb small-font">40 YEARS OF <br> TECH MAHINDRA</h1>
+            <p><strong>Continuing to transform, evolve and rise together</strong></p>
+            <a href="https://www.techmahindra.com/techm40/?utm_source=mahindra.com&amp;utm_medium=referral&amp;utm_campaign=tech%E2%80%A6" target="_blank" class="btn btn-primary" rel="noopener">Know More</a>
+          </div>
+        </div>
+      </div>
+
+      
+      
+      
+      
+
+            
+      <div class="swiper-slide carousel-item nogradient dark-content">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-10/Mahindra%20Story%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-10/Mahindra%20Story%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <img loading="lazy" class="img-position-top-center" src="https://www.mahindra.com/sites/default/files/2026-10/Mahindra%20Story%20Main%20Banner%20Adapt%201903x841%20copy.webp" alt="What's Your Mahindra Story - 81 Years. Countless Stories." width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="font-weight: bold;">81 Years. Countless Stories.</small>
+            <h1 class="heading font-medium font-size-tb small-font">WHAT'S YOUR <br> MAHINDRA STORY?</h1>
+            <p><strong>Help us preserve our shared history</strong></p>
+            <a href="/mahindra-nextjs/mymahindrastory" target="_blank" class="btn btn-primary">TELL US YOUR STORY</a>
+          </div>
+        </div>
+      </div>
+
+      
+            
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+
+      
+      
+
+      
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      
+      <div class="swiper-slide carousel-item nogradient">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-09/Season%20of%20Festival%2026-27%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-09/Season%20of%20Festival%2026-27%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp">
+            <img loading="eager" class="img-postion-top-0" src="https://www.mahindra.com/sites/default/files/2026-09/Season%20of%20Festivals%2026-27%20Main%20Banner%20Adapt%201903x841%20copy.jpg.webp" alt="Mahindra Season of Festivals 2026-27" width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="font-weight: bold;">Your Cultural Calendar Is Here</small>
+            <h1 class="heading font-medium font-size-tb small-font">MAHINDRA SEASON <br> OF FESTIVALS 2026-27</h1>
+            <p><strong>A year filled with music, theatre, art and culture</strong></p>
+            <a href="/mahindra-nextjs/about-us/cultural-outreach" target="_self" class="btn btn-primary">Know More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <button class="swiper-button-prev slide-home-btn swiper-button-white carousel-control-prev" type="button" data-bs-target="#homeBannerCarousel" data-bs-slide="prev" aria-label="Previous slide"></button>
+
+    <button class="swiper-button-next slide-home-btn swiper-button-white carousel-control-next" type="button" data-bs-target="#homeBannerCarousel" data-bs-slide="next" aria-label="Next slide"></button>
+  </div>
+
+  <div class="mt-0 pt-1 pb-1 m-none1 bottom-0 w-100 quick-links-parents-div position-relative">
+    <div class="container" data-aos="fade-up" data-aos-offset="-100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <ul class="quick-links-div">
+        <li>
+          <a href="https://auto.mahindra.com/" target="_blank" class="with-full-underline" rel="noopener">
+            Buy an SUV
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.mahindratractor.com/" target="_blank" class="with-full-underline" rel="noopener">
+            Explore our tractors
+          </a>
+        </li>
+        <li>
+          <a href="https://www.techmahindra.com/en-in/?f=3346131029" target="_blank" class="with-full-underline" rel="noopener">
+            Experience the latest AI
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.mahindrafinance.com/" target="_blank" class="with-full-underline" rel="noopener">
+            Get a loan
+          </a>
+        </li>
+        <li>
+          <a href="https://www.clubmahindra.com/" target="_blank" class="with-full-underline" rel="noopener">
+            Book a holiday
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.mahindralifespaces.com/" target="_blank" class="with-full-underline" rel="noopener">
+            Buy a home
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+<style>
+  .beam-slider .banner-popup.play-button {
+    position: static;
+    transform: translate(0%, 0%);
+    z-index: 9;
+    cursor: pointer;
+    width: unset;
+    text-align: start;
+  }
+
+  @media (max-width: 834px) {
+    .quick-links-parents-div .quick-links-div li {
+      order: inherit !important;
+    }
+  }
+
+  @media (max-width: 834px) {
+    .quick-links-parents-div .quick-links-div li:first-child {
+      border-right: unset;
+    }
+  }
+
+  @media (max-width: 834px) {
+    .quick-links-parents-div .quick-links-div li:first-child {
+      width: 100%;
+    }
+
+    .quick-links-parents-div .quick-links-div li:nth-child(3) {
+      order: 2;
+      border-right: 1px solid rgb(0, 0, 0);
+    }
+
+    .quick-links-parents-div .quick-links-div li:nth-child(4),
+    .quick-links-parents-div .quick-links-div li:nth-child(6) {
+      order: 4;
+      border-right: 0px;
+    }
+
+    .quick-links-parents-div .quick-links-div li:nth-child(5),
+    .quick-links-parents-div .quick-links-div li:nth-child(6) {
+      border-bottom: 1px solid #000;
+    }
+
+    .beam-slider .banner-popup.play-button {
+      text-align: center;
+    }
+  }
+
+  .video-slider .d-flex {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    background: none;
+  }
+
+  @media (max-width: 835px) {
+    .beam-slider .swiper-slide .slide-bgimg img.object-position-top-img {
+      object-position: top;
+    }
+
+    .beam-slider .swiper-slide .slide-bgimg img.object-position-top-img.kla-banner {
+      object-position: center 16px;
+    }
+
+    .spotlight-home-wrap .main-slider .swiper-slide .slide-bgimg.dark-bg-small-mob {
+      height: calc(100% - 260px);
+    }
+
+    .spotlight-home-wrap:has(.object-position-top-img) .main-slider .swiper-slide::before {
+      background: none;
+    }
+
+    .small-font {
+      font-size: 15px !important;
+    }
+
+    .spotlight-home-wrap .main-slider .swiper-slide .mob-content-home-spotlight.banner-button-cut {
+      min-height: unset;
+    }
+
+    .font-size-tb-smaller {
+      font-size: 19px !important;
+    }
+  }
+
+  @media screen and (min-width: 1378px) and (max-width: 1500px) {
+    .beam-slider .swiper-slide .slide-bgimg img {
+      height: auto !important;
+    }
+  }
+
+  @media screen and (min-width: 835px) {
+    .spotlight-home-wrap .main-slider .swiper-slide.nogradient .content h1.banner-text-dark {
+      color: #000 !important;
+    }
+  }
+
+  @media screen and (min-width: 835px) {
+    .desktop-obj-right {
+      object-position: right !important;
+    }
+  }
+
+  @media (max-width: 834px) {
+    .spotlight-home-wrap .main-slider .swiper-slide.dark-content .mob-content-home-spotlight.banner-mobile-no-grayscale {
+      background: transparent;
+      position: absolute;
+      z-index: 1;
+      bottom: 0;
+    }
+
+    .spotlight-home-wrap .main-slider .swiper-slide.dark-content .slide-bgimg.banner-no-grayscale-before {
+      height: 100%;
+    }
+
+    .spotlight-home-wrap .main-slider .swiper-slide.dark-content .slide-bgimg.banner-no-grayscale-before:before {
+      background: none;
+    }
+
+    .spotlight-home-wrap .main-slider .swiper-slide.dark-content .slide-bgimg.banner-no-grayscale-before:before {
+      background: none;
+    }
+  }
+
+  @media (max-width: 834px) {
+    .img-postion-top {
+      object-position: bottom center !important;
+    }
+
+    .img-position-top-center {
+      object-position: center top !important;
+    }
+
+    .image-position-top-mb {
+      object-position: center 10px !important;
+    }
+
+    .beam-slider .swiper-slide .slide-bgimg img.img-postion-top-0 {
+      object-position: center 0px;
+    }
+
+    .beam-slider .swiper-slide .slide-bgimg img.image-top-109 {
+      object-position: center -109px;
+    }
+  }
+
+  @media (max-width: 1199px) {
+
+    .beam-slider .swiper-slide .slide-bgimg img.img-bottom,
+    #block-homeslider .beam-slider .swiper-slide .slide-bgimg img.img-bottom {
+      object-position: center 8px;
+    }
+  }
+
+  @media (max-width: 835px) {
+    .beam-slider .swiper-slide .slide-bgimg img.image-center-bottom {
+      object-position: center bottom;
+    }
+  }
+
+  @media (max-width: 835px) {
+    .beam-slider .swiper-slide .slide-bgimg img.image-center-top {
+      object-position: center top;
+    }
+  }
+  @media (max-width: 834px) {
+  .spotlight-home-wrap .main-slider .swiper-slide .content .heading.small-heading-text {
+    font-size: 14px;
+  }
+  .slide-image-position-bottom {
+    object-position: bottom !important;
+  }
+}
+</style>
+</div>
+			
+  </div><div id="block-whatwedo">
+  
+    
+      
+						<div><section class="section what-we-do-wrap">
+  <div class="container">
+    <div class="section-header text-center">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">What we do</h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">We bring
+        together diverse, future-facing industries and communities to co-create a positive world, where one enables the
+        other to Rise.</p>
+    </div>
+  </div>
+  <div class="our-business-verticals">
+    <div class="container d-lg-block d-none">
+      <div class="row row-cols-lg-3 row-cols-1 g-3">
+        <div class="col" data-aos="fade-up" data-aos-delay="100">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Automotive_.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Automotive_.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Automotive_.webp" class="img-fluid" alt="Mahindra Group - Mahindra Thar SUV" title="Mahindra Group - New Mahindra Thar" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Automotive <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/automotive" class="stretched-link" aria-label="Learn more about Automotive"></a>
+          </div>
+        </div>
+        <div class="col" data-aos="fade-up" data-aos-delay="400">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Farming_%20%281%29.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Farming_.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Farming_%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Mahindra Farm Equipment" title="Mahindra Group - Farm Equipment" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Farm Equipment <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/farm-equipment" class="stretched-link" aria-label="Learn more about Farm Equipment"></a>
+          </div>
+        </div>
+        <div class="col" data-aos="fade-up" data-aos-delay="100">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Financial%20Services.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Financial%20Services.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Financial%20Services.webp" class="img-fluid" alt="Mahindra Group - Mahindra &amp; Mahindra Financial Services" title="Mahindra Group - Mahindra Financial Services" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Financial Services <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/financial-services" class="stretched-link" aria-label="Learn more about Financial Services"></a>
+          </div>
+        </div>
+
+        <div class="col" data-aos="fade-up" data-aos-delay="700">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Technology%20Services.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Technology%20Services.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Technology%20Services.webp" class="img-fluid" alt="Mahindra Group - Technology Solutions" title="Mahindra Group - Technology Services" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Technology Services <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/technology-services" class="stretched-link" aria-label="Technology Services"></a>
+          </div>
+        </div>
+        <div class="col" data-aos="fade-up" data-aos-delay="100">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do%203.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do%203.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do%203.webp" class="img-fluid" alt="Mahindra Group - Mahindra Hospitality" title="Mahindra Group - Mahindra Holidays &amp; Resorts" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Hospitality <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/hospitality" class="stretched-link" aria-label="Hospitality"></a>
+          </div>
+        </div>
+        <div class="col" data-aos="fade-up" data-aos-delay="700">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Logistics%20Services.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Logistics%20Services.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Logistics%20Services.webp" class="img-fluid" alt="Mahindra Group - Third Party Logistics Services" title="Mahindra Group - Logistics Company" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Logistics <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/logistics" class="stretched-link" aria-label="Logistics"></a>
+          </div>
+        </div>
+
+        <div class="col" data-aos="fade-up" data-aos-delay="400">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Real%20Estate%20Services.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Real%20Estate%20Services.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Real%20Estate%20Services.webp" class="img-fluid" alt="Mahindra Group - Mahindra Real Estate" title="Mahindra Group - Mahindra Lifespaces" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Real Estate <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/real-estate" class="stretched-link" aria-label="Learn more Real Estate"></a>
+          </div>
+        </div>
+        <div class="col" data-aos="fade-up" data-aos-delay="400">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Renewable%20Services.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Renewable%20Services.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Renewable%20Services.webp" class="img-fluid" alt="Mahindra Group - Mahindra Solar" title="Mahindra Group - Mahindra Susten" width="376" height="155">
+              </picture>
+            </div>
+            <div class="title">Renewable Energy <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/renewable-energy" class="stretched-link" aria-label="Learn more Renewable Energy"></a>
+          </div>
+        </div>
+        <div class="col" data-aos="fade-up" data-aos-delay="700">
+          <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Emerging%20Business%20and%20Equity%20Investments.webp">
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Emerging%20Business%20and%20Equity%20Investments.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Emerging%20Business%20and%20Equity%20Investments.webp" class="img-fluid" alt="Mahindra Group - Steel Rolls Image" title="Mahindra Group - Steel Roll Sheets" width="376" height="155">
+            </picture></div>
+            
+            <div class="title">Other Emerging Businesses <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+            <a href="/mahindra-nextjs/our-business/emerging-equity-investments" class="stretched-link" aria-label="Learn more about Other Emerging Businesses"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container d-lg-none d-block" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+      <div class="mobile-slider" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: false, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;, &quot;adaptiveHeight&quot;: true }">
+        <div class="slides" aria-hidden="false">
+          <div class="row row-cols-1 gy-3">
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Automotive_.webp">
+                    <source media="(min-width: 450px)" srcset="https://www.mahindra.com/sites/default/files/2025-05/Mahindra_What%20We%20Do-Automotive_.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_What%20We%20Do-Automotive_.webp" class="img-fluid" alt="Mahindra Group - Mahindra Thar SUV" title="Mahindra Group - New Mahindra Thar" width="376" height="155">
+                  </picture>
+                </div>
+                <div class="title">Automotive <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/automotive" class="stretched-link" aria-label="Learn more about Automotive"></a>
+              </div>
+            </div>
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Farming_%20%281%29%20%281%29.webp">
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Farming_%20%281%29%20%281%29.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Farming_%20%281%29%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Mahindra Farm Equipment" title="Mahindra Group - Farm Equipment" width="376" height="155">
+                  </picture>
+                </div>
+                <div class="title">Farm Equipment <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/farm-equipment" class="stretched-link" aria-label="Learn more about Farm Equipment"></a>
+              </div>
+            </div>
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Technology%20Services%20%281%29.webp">
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Technology%20Services%20%281%29.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Technology%20Services%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Technology Solutions" title="Mahindra Group - Technology Services" width="376" height="155">
+                  </picture>
+                </div>
+                <div class="title">Technology Services <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/technology-services" class="stretched-link" aria-label="Learn more about Technology Services"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="slides" aria-hidden="false">
+          <div class="row row-cols-1 gy-3">
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Financial%20Services%20%282%29.webp">
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Financial%20Services%20%282%29.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Financial%20Services%20%282%29.webp" class="img-fluid" alt="Mahindra Group - Mahindra &amp; Mahindra Financial Services" title="Mahindra Group - Mahindra Financial Services" width="376" height="155">
+                  </picture>
+                </div>
+                <div class="title">Financial Services <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/financial-services" class="stretched-link" aria-label="Learn more about Financial Services"></a>
+              </div>
+            </div>
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Renewable%20Services%20%281%29.webp">
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Renewable%20Services%20%281%29.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Renewable%20Services%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Mahindra Hospitality" title="Mahindra Group - Mahindra Holidays &amp; Resorts" width="376" height="155">
+                  </picture>
+                </div>
+                <div class="title">Renewable Energy <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/renewable-energy" class="stretched-link" aria-label="Learn more about Renewable Energy"></a>
+              </div>
+            </div>
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Logistics%20Services%20%281%29.webp">
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Logistics%20Services%20%281%29.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Logistics%20Services%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Third Party Logistics Services" title="Mahindra Group - Logistics Company" width="376" height="155">
+                  </picture>
+                </div>
+                <div class="title">Logistics <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/logistics" class="stretched-link" aria-label="Learn more about Logistics"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="slides" aria-hidden="false">
+          <div class="row row-cols-1 gy-3">
+            <div class="col">
+              <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do%203%20%281%29.webp">
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do%203%20%281%29.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do%203%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Mahindra Hospitality" title="Mahindra Group - Mahindra Holidays &amp; Resorts" width="376" height="155">
+              </picture>
+            </div>
+                <div class="title">Hospitality <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/hospitality" class="stretched-link" aria-label="Learn more about Hospitality"></a>
+              </div>
+            </div>
+            <div class="col">
+              <div class="wrap">
+            <div class="image">
+              <picture>
+                <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Real%20Estate%20Services%20%281%29.webp">
+                <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Real%20Estate%20Services%20%281%29.webp">
+                <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Real%20Estate%20Services%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Mahindra Real Estate" title="Mahindra Group - Mahindra Lifespaces" width="376" height="155">
+              </picture>
+            </div>
+                <div class="title">Real Estate <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/real-estate" class="stretched-link" aria-label="Learn more about Real Estate"></a>
+              </div>
+            </div>
+            <div class="col">
+              <div class="wrap">
+                <div class="image">
+                  <picture>
+                    <source media="(min-width: 450px)" srcset="https://mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Emerging%20Business%20and%20Equity%20Investments%20%281%29.webp">
+                    <source media="(min-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Emerging%20Business%20and%20Equity%20Investments%20%281%29.webp">
+                    <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra_What%20We%20Do-Emerging%20Business%20and%20Equity%20Investments%20%281%29.webp" class="img-fluid" alt="Mahindra Group - Steel Rolls Image" title="Mahindra Group - Steel Roll Sheets" width="376" height="155">
+                </picture></div>
+                <div class="title">Other Emerging Businesses <img loading="lazy" src="https://mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra Group - Emerging Businesses Steel Rolls Image" width="10" height="29"></div>
+                <a href="/mahindra-nextjs/our-business/emerging-equity-investments" class="stretched-link" aria-label="Learn more about Other Emerging Businesses"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+.stretched-link::after {
+  z-index: 2;
+}
+</style></div>
+			
+  </div><div id="block-riseforamoreequalworld">
+  
+    
+      
+						<div><section class="section grey-bg spirit-of-rise">
+  <div class="container">
+
+    
+    <div class="section-header text-center pb-3">
+      <h2 class="heading font-regular aos-init" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+        WHO WE ARE:<br>
+        PURPOSE LED
+      </h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out" class="aos-init aos-animate">Driving positive change for People and Planet</p>
+    </div>
+
+    
+    <div class="row g-4 purpose-led-grid pt-3">
+
+      <div class="col-md-6" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="700">
+        <a href="/mahindra-nextjs/purpose-led" target="_blank" class="card-wrap position-relative overflow-hidden d-block">
+          <div class="card-image">
+            <picture>
+              <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Nanhi%20kali_banner_mob.webp">
+              <img src="https://www.mahindra.com/sites/default/files/2026-03/Nanhikali_banner_0.webp" class="img-fluid object-fit-cover h-100" alt="Nanhi Kali Card image">
+            </picture>
+          </div>
+          <div class="card-text position-absolute">
+            <p class="desc text-uppercase">Educated <br> 940K+ girls <br> till date</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-6" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="700">
+        <a href="/mahindra-nextjs/purpose-led" target="_blank" class="card-wrap position-relative overflow-hidden d-block">
+          <div class="card-image">
+            <picture>
+              <source media="(max-width: 576px)" srcset="https://www.mahindra.com//sites/default/files/2026-03/Mahindra_%20Home%20Page_purpose_Kaabil%20_without%20text_v4_mob.webp">
+              <img src="https://www.mahindra.com//sites/default/files/2025-07/Mahindra_%20Home%20Page_purpose_Kaabil%20_without%20text_v4.webp" class="img-fluid object-fit-cover h-100" alt="Kaabil Card Image">
+            </picture>
+          </div>
+          <div class="card-text position-absolute">
+            <p class="desc text-uppercase">Empowered<br>1.4M+ women till<br> date</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-6" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="700">
+        <a href="/mahindra-nextjs/purpose-led" target="_blank" class="card-wrap position-relative overflow-hidden d-block">
+          <div class="card-image">
+            <picture>
+              <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_%20Purpose%20led_planet%20postive_without%20text_v2_mob.webp">
+              <img src="https://www.mahindra.com/sites/default/files/2025-07/Mahindra_%20Purpose%20led_planet%20postive_without%20text_v2.webp" class="img-fluid object-fit-cover h-100" alt="Mahindra sustainability initiatives">
+            </picture>
+          </div>
+          <div class="card-text position-absolute">
+            <p class="desc text-uppercase">Embracing<br>sustainability<br>since 2008</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-6" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="700">
+        <a href="/mahindra-nextjs/purpose-led" target="_blank" class="card-wrap position-relative overflow-hidden d-block">
+          <div class="card-image">
+            <picture>
+              <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mhaindra%20rise%20banner%20update%202%20Golden%20Peacock%20Award%20Desktop%20Jul26.jpg%20%281%29%20%281%29.webp">
+              <img src="https://www.mahindra.com/sites/default/files/2026-07/Mhaindra%20rise%20banner%20update%202%20Golden%20Peacock%20Award%20Desktop%20Jul26.jpg.webp" class="img-fluid object-fit-cover h-100" alt="Golden Peacock Award">
+            </picture>
+          </div>
+          <div class="card-text position-absolute">
+            <p class="desc text-uppercase">Ensuring Highest<br>Standards of<br>Governance</p>
+          </div>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+</div>
+			
+  </div><div id="block-companyrise">
+  
+    
+      
+						<div><section class="section spirit-of-rise">
+  <div class="section-header text-center pb-3">
+    <h2 class="heading font-regular" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+      Performance Driven
+    </h2>
+    <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Market leadership
+      in India</p>
+  </div>
+  <div class="mt-3 performance-driven performace-driven-home">
+    <div class="container">
+      <div class="d-flex justify-content-center performace-driven-cards">
+        <a class="performace-driven-cards-link" href="/mahindra-nextjs/performance-driven" target="_blank">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image overflow-hidden">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%204%20Automotive%20%26%20Farm%20equipments%20Jul26%20%281%29.webp">
+                <img src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%204%20Automotive%20%26%20Farm%20equipments%20Jul26.webp" alt="Mahindra's number one leadership represented by SUVs, tractors, LCVs, and generator sets." class="h-100">
+              </picture>
+            </div>
+            <div class="performace-driven-home-box-card position-absolute">
+              <p class="desc text-uppercase">
+                Automotive &amp;<br> Farm Equipment
+              </p>
+            </div>
+          </div>
+        </a>
+        <a class="performace-driven-cards-link" href="/mahindra-nextjs/performance-driven" target="_blank">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image overflow-hidden">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/It%20services_mob.webp">
+                <img src="https://www.mahindra.com/sites/default/files/2025-07/It%20services.webp" alt="Mahindra Finance and Technology" class="h-100">
+              </picture>
+            </div>
+            <div class="performace-driven-home-box-card position-absolute">
+              <p class="desc text-uppercase">
+                Finance and<br> Technology
+              </p>
+            </div>
+          </div>
+        </a>
+        <a class="performace-driven-cards-link" href="/mahindra-nextjs/performance-driven" target="_blank">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image overflow-hidden">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%203%20Growth%20Gems%20Jul26%20%281%29.webp">
+                <img src="https://www.mahindra.com/sites/default/files/2026-07/Mahindra%20rise%20banner%20update%203%20Growth%20Gems%20Jul26.webp" alt="Mahindra leadership across electric mobility, logistics, hospitality, and net zero residential projects." class="h-100">
+              </picture>
+            </div>
+            <div class="performace-driven-home-box-card position-absolute">
+              <p class="desc text-uppercase">
+                Growth<br> Gems
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+  .performace-driven-cards-link {
+    display: block;
+    width: 32%;
+  }
+
+  .performace-driven-card-wrapper {
+    position: relative;
+    width: 100%;
+  }
+
+  @media screen and (max-width: 834px) {
+    .performace-driven-cards-link {
+      display: block;
+      width: 100%;
+    }
+  }
+</style>
+
+<section class="section grey-bg spirit-of-rise">
+  <div class="section-header text-center pb-3">
+    <h2 class="heading font-regular" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+      Future ready
+    </h2>
+    <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Leveraging Talent
+      and Technology</p>
+  </div>
+  <div class="mt-3 performance-driven performace-driven-home">
+    <div class="container">
+      <div class="d-flex justify-content-center performace-driven-cards">
+        <a class="performace-driven-cards-link" href="/mahindra-nextjs/future-ready" target="_blank">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image overflow-hidden">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Best%20in%20Talent-5_mob.webp">
+                <img src="https://www.mahindra.com/sites/default/files/2025-07/Best%20in%20Talent-5.webp" alt="Best in talent at Mahindra" class="h-100">
+              </picture>
+            </div>
+            <div class="performace-driven-home-box-card position-absolute">
+              <p class="desc text-uppercase">
+                Best in<br> Talent
+              </p>
+            </div>
+          </div>
+        </a>
+        <a class="performace-driven-cards-link" href="/mahindra-nextjs/future-ready" target="_blank">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image overflow-hidden">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Leaders%20In%20Technology-5_mob.webp">
+                <img src="https://www.mahindra.com/sites/default/files/2025-07/Leaders%20In%20Technology-5.webp" alt="leaders in technology and innovation" class="h-100">
+              </picture>
+            </div>
+            <div class="performace-driven-home-box-card position-absolute">
+              <p class="desc text-uppercase">
+                Leaders in<br> Technology
+              </p>
+            </div>
+          </div>
+        </a>
+        <a class="performace-driven-cards-link" href="/mahindra-nextjs/future-ready" target="_blank">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image overflow-hidden">
+              <picture>
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Inclusive%20Growth-2_mob.webp">
+                <img src="https://www.mahindra.com/sites/default/files/2025-07/Inclusive%20Growth-2.webp" alt="Inclusive growth at Mahindra Group" class="h-100">
+              </picture>
+            </div>
+            <div class="performace-driven-home-box-card position-absolute">
+              <p class="desc text-uppercase">
+                inclusive<br>Growth
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section></div>
+			
+  </div><div id="block-lateststories">
+  
+    
+      
+						<div><section class="section grey-bg latest-stories home-stories">
+	<div class="section-header text-center">
+		<h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Latest News</h2>
+	</div>
+	<div class="container" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="flickity-slider-mobile-wrap grid-layout" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: false, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;, &quot;watchCSS&quot;: true, &quot;adaptiveHeight&quot;: true }">
+                         
+                         <div class="slides">
+                              
+                              <div class="eapps-twitter-feed-posts" data-demo-widget="Stand-in for the third-party X/Twitter feed widget (mock data)"><div class="eapps-twitter-feed-posts-container"><div class="eapps-twitter-feed-posts-inner"><div class="eapps-twitter-feed-posts-item"><div class="eapps-twitter-feed-posts-item-inner"><div class="eapps-twitter-feed-posts-item-user"><a href="https://x.com/MahindraRise" target="_blank" rel="noopener"><img src="https://pbs.twimg.com/profile_images/1576414381319294977/k-Bziw7p_normal.jpg" alt="Profile picture of MahindraRise" width="40" height="40"></a><div class="eapps-twitter-feed-posts-item-user-name"><a href="https://x.com/MahindraRise" target="_blank" rel="noopener"><strong>Mahindra Group</strong><svg viewBox="0 0 24 24" width="16" height="16" aria-label="Verified account"><path fill="#1d9bf0" d="M22.25 12l-2.2-2.5.3-3.3-3.2-.7-1.7-2.9L12.5 3.9 9.5 2.6 7.8 5.5l-3.2.7.3 3.3L2.7 12l2.2 2.5-.3 3.3 3.2.7 1.7 2.9 3-1.3 3 1.3 1.7-2.9 3.2-.7-.3-3.3z"></path><path fill="#fff" d="M10.6 15.8l-3-3 1.1-1.1 1.9 1.9 4.5-4.5 1.1 1.1z"></path></svg></a><div><a href="https://x.com/MahindraRise" target="_blank" rel="noopener">@MahindraRise</a> · <span>Nov 23</span></div></div></div><div class="eapps-twitter-feed-posts-item-text">Strong governance is not defined by a single recognition, but by the principles an organisation upholds every day. For the sixth time, Mahindra &amp; Mahindra Limited has received the Golden Peacock Global Award for Excellence in Corporate Governance 2026 in the Automobile Sector. <a href="https://t.co/07rQpUSzFr">https://t.co/07rQpUSzFr</a></div><div class="eapps-twitter-feed-posts-item-media"><img src="https://pbs.twimg.com/media/HX0hNMfboAA1Z6D.jpg" alt="" loading="lazy"></div></div></div><div class="eapps-twitter-feed-posts-item"><div class="eapps-twitter-feed-posts-item-inner"><div class="eapps-twitter-feed-posts-item-user"><a href="https://x.com/MahindraRise" target="_blank" rel="noopener"><img src="https://pbs.twimg.com/profile_images/1576414381319294977/k-Bziw7p_normal.jpg" alt="Profile picture of MahindraRise" width="40" height="40"></a><div class="eapps-twitter-feed-posts-item-user-name"><a href="https://x.com/MahindraRise" target="_blank" rel="noopener"><strong>Mahindra Group</strong><svg viewBox="0 0 24 24" width="16" height="16" aria-label="Verified account"><path fill="#1d9bf0" d="M22.25 12l-2.2-2.5.3-3.3-3.2-.7-1.7-2.9L12.5 3.9 9.5 2.6 7.8 5.5l-3.2.7.3 3.3L2.7 12l2.2 2.5-.3 3.3 3.2.7 1.7 2.9 3-1.3 3 1.3 1.7-2.9 3.2-.7-.3-3.3z"></path><path fill="#fff" d="M10.6 15.8l-3-3 1.1-1.1 1.9 1.9 4.5-4.5 1.1 1.1z"></path></svg></a><div><a href="https://x.com/MahindraRise" target="_blank" rel="noopener">@MahindraRise</a> · <span>Nov 20</span></div></div></div><div class="eapps-twitter-feed-posts-item-text">In November 1996, the foundation stone of the Mahindra United World College of India (MUWCI) was laid at Khubavali near Pune by Mark Hoffman, Chairman of United World Colleges, together with Harish Mahindra, Keshub Mahindra, and Capt. Raj Mohindra, marking the beginning of a bold <a href="https://t.co/1UPgRXZS6k">https://t.co/1UPgRXZS6k</a></div></div></div></div></div></div>
+			</div>
+			
+
+
+
+
+
+
+
+
+
+    <div class="slides"><div class="wrap">
+            <div class="image-wrap">
+             <img src="https://www.mahindra.com/sites/default/files/press-release/Real Estate/2-s-Real Estate.webp" alt="" data-img-horizontal="https://www.mahindra.com/sites/default/files/press-release/Real Estate/2-h-Real Estate.webp" data-img-vertical="https://www.mahindra.com/sites/default/files/press-release/Real Estate/2-v-Real Estate.webp" class="thumb-img img-fluid" loading="lazy">
+            </div>
+            <div class="content-wrap">
+              <div class="category">Real Estate</div>
+              <div class="text">Mahindra World City Jaipur Hands Over 10 Patrolling Vehicles…</div>
+             <a href="/mahindra-nextjs/news-room/press-release/en/mahindra-world-city-jaipur-hands-over-10-patrolling-vehicles-to-jaipur-police-to-strengthen-public-safety" class="btn btn-link">Read more</a>
+              <div class="date"><time datetime="2026-11-27T12:00:00Z">27 November 2026</time>
+</div>
+            </div>
+          </div></div>
+    <div class="slides"><div class="wrap">
+            <div class="image-wrap">
+             <img src="https://www.mahindra.com/sites/default/files/press-release/Technology/2-s-Technology.webp" alt="" data-img-horizontal="https://www.mahindra.com/sites/default/files/press-release/Technology/2-h-Technology.webp" data-img-vertical="https://www.mahindra.com/sites/default/files/press-release/Technology/2-v-Technology.webp" class="thumb-img img-fluid" loading="lazy">
+            </div>
+            <div class="content-wrap">
+              <div class="category">Technology</div>
+              <div class="text">Tech Mahindra Marks 40 Years with Bell-Ringing Ceremony at t…</div>
+             <a href="/mahindra-nextjs/news-room/press-release/en/tech-mahindra-marks-40-years-with-bell-ringing-ceremony-at-the-bombay-stock-exchange" class="btn btn-link">Read more</a>
+              <div class="date"><time datetime="2026-11-23T12:00:00Z">23 November 2026</time>
+</div>
+            </div>
+          </div></div>
+
+
+
+
+
+
+
+
+
+
+		</div>
+	</div>
+</section>
+
+<style>
+/* Hide scrollbar for Chrome, Safari, and Opera */
+.eapps-twitter-feed-posts-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge, and Firefox */
+.eapps-twitter-feed-posts-container {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+#eapps-twitter-feed-1 .eapps-twitter-feed-posts {
+    background-color: black;
+    border-radius: 10px 10px 10px 10px;
+}
+@media (max-width: 766px) {
+   .eapps-twitter-feed-posts-container {
+       max-height: 480px !important;
+    }
+   .latest-stories .flickity-enabled.is-draggable .flickity-viewport {
+      height: 500px !important;
+    }
+}
+
+
+</style></div>
+			
+  </div><div id="block-workwithus">
+  
+    
+      
+						<div><section class="section work-with-us pb-0">
+  <div class="section-header text-center">
+    <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Work with us</h2>
+  </div>
+  <div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+    <div class="container">
+      <div class="row g-4">
+        <div class="col-12">
+          <div class="d-flex wrap overflow-hidden">
+            <div class="image-wrap overflow-hidden h-100">
+              <picture>
+                
+                <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra_SOAR-Banner_mobile-adapt%20%281%29.webp">
+                <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-03/Mahindra_SOAR-Banner_mobile-adapt.webp">
+                
+                <img src="https://www.mahindra.com/sites/default/files/2025-04/Mahindra_SOAR%20Banner_758x410_Home%20page.webp" class="img-fluid object-fit-cover w-100" alt="Mahindra Group - Women at Mahindra" title="Mahindra Group - Women at Mahindra" loading="lazy">
+              </picture>
+            </div>
+            <div class="content-wrap align-self-center">
+              <h3 class="mb-3 heading font-regular">SOAR</h3>
+              <p class="text-size-body">Leading the way with a First-of-Its-Kind 'Returnship' program for women in
+                mainstream roles.</p>
+              <a href="/mahindra-nextjs/blogs/soar-seamless-opportunity-for-amazing-returnships" class="mt-4 btn btn-primary stretched-link">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <div class="wrap h-100 single-card-wrap align-content-center">
+            <h3 class="heading font-regular mb-3">Join our team</h3>
+            <p>See current job openings.</p>
+            <a href="/mahindra-nextjs/career" class="btn btn-primary stretched-link mt-4">Learn more</a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <div class="wrap h-100 single-card-wrap align-content-center">
+            <h3 class="heading font-regular mb-3">Mahindra AI</h3>
+            <p>A specialised AI division delivering digital transformation across businesses.</p>
+            <a href="/mahindra-nextjs/mahindra-ai" class="btn btn-primary stretched-link mt-4">Learn more</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+			
+  </div><div id="block-homepagefaq">
+  
+    
+      
+						<div><section class="section faqs-section">
+  <div class="container">
+    <div class="section-header text-center">
+      <h2 class="heading font-regular aos-init aos-animate" data-aos="fade-up">Faqs</h2>
+    </div>
+    <div class="acco-div">
+      <ul>
+        <li class="active mb-3" data-aos="fade-up">
+          <h2>How many companies are part of the Mahindra Group?</h2>
+          <div class="acco-content-div show">
+            <p>Mahindra &amp; Mahindra is the flagship company of the Mahindra Group which has 100+ subsidiaries. Of
+              these, 8 are publicly listed. The Group is present in 20+ industries across Auto, Farm and Services.
+              Our Auto sector includes SUVs, LCVs, electric 3-wheelers, trucks &amp; buses and motorcycles. We are the world's
+              largest tractor company by volume. In services we have Mahindra Finance and Tech Mahindra. We are also
+              present in hospitality, real estate, renewables, logistics, steel manufacturing, auto recycling, defence
+              and aerospace.</p>
+          </div>
+        </li>
+        <li class="mb-3" data-aos="fade-up">
+          <h2>Is Mahindra a public or private company?</h2>
+          <div class="acco-content-div">
+            <p>The Mahindra Group has 8 public companies and many private companies under its umbrella. The parent
+              company, Mahindra &amp; Mahindra Limited is publicly listed. Other listed companies are Tech Mahindra Limited,
+              Mahindra &amp; Mahindra Financial Services Limited, Mahindra Holidays and Resorts India Limited, Mahindra
+              Lifespace Developers Limited, Mahindra Logistics Limited, Mahindra EPC Irrigation Limited, and Swaraj
+              Engines Limited. The group has consistently created value for its shareholders since inception.</p>
+          </div>
+        </li>
+        <li class="mb-3" data-aos="fade-up">
+          <h2>What is the work culture like at Mahindra?</h2>
+          <div class="acco-content-div">
+            <p>At Mahindra, performance is deep rooted in purpose. Employees are committed to uplifting communities,
+              guided by the core values and behaviours of being ethical, collaborative, agile, and bold. Mahindra Group
+              fosters an inclusive work culture, free from biases, promoting diversity, inclusion, and equitable growth
+              opportunities across all levels. Our path-breaking five-year maternity policy provides support for mental
+              and physical wellbeing of new mothers. Check out our website to know more about various career growth
+              programs and DEI initiatives at Mahindra <a href="/mahindra-nextjs/career" target="_blank">https://www.mahindra.com/career</a></p>
+          </div>
+        </li>
+        <li class="mb-3" data-aos="fade-up">
+          <h2>Where is the headquarters of Mahindra located?</h2>
+          <div class="acco-content-div">
+            <p>Mahindra Group is a global organization, present in 100+ countries. The corporate head office of the
+              Mahindra Group is located in Mumbai at Mahindra Towers, Dr. G.M.Bhosale Marg, P.K.Kurne Chowk, Worli -
+              400018. Head office address of Mahindra &amp; Mahindra and other group companies can be found on our website.
+              You may also contact us via email mentioned here <a href="/mahindra-nextjs/contact-us" target="_blank">https://www.mahindra.com/contact-us</a>.</p>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</section>
+</div>
+			
+  </div>d:X
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/e2443d11.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/e2443d11.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/98a26959.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/98a26959.css","precedence":"route-css"}]],["$","$L6",null,{"hrefs":["/mahindra-nextjs/css/e2443d11.css","/mahindra-nextjs/css/98a26959.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$7"}],["$","div",null,{"data-page-root":"","data-archetype":"home","data-path":"/","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$8"}}],"$L9"],["$La"],"$Lb"]}],"p":"$@c","v":null,"s":"$d"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Mahindra Group Official Website | Together We Rise"}],["$","meta","1",{"name":"description","content":"A technology & innovation-led, global, federation of companies, that provides a wide range of products, services & possibilities, enabling people to Rise"}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L13","3",{}]]}]}],null]}],null]}],"p":"$@14","v":null,"s":"$d"}},"a":"$@15","u":"$@16","b":"Wa_sGT5j9mMKtyIHh49yf"}
+17:I[31903,["$3","$4","$5"],"default"]
+18:I[97367,["$3","$4"],"OutletBoundary"]
+9:["$","$L17",null,{}]
+a:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+b:["$","$L18",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+16:true
+19:null
+d:300
+d:C
+15:0
+14:"$undefined"
+c:"$undefined"

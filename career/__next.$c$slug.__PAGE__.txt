@@ -1,0 +1,721 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/fc62c543.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20360x411%20Mobile_0.webp",{"media":"(max-width: 576px)","srcSet":"https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20360x411%20Mobile_0.webp"}],["$","source","https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20360x411%20Mobile.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20360x411%20Mobile.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20Adapt%201903x841%20_%20without%20copy.webp","alt":""}]]
+e:T81b8,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="7691">
+
+  
+    
+  
+  <div>
+    <section class="section spotlight-home-wrap m-0 p-0">
+
+		
+				
+					
+						
+	
+		
+			<div class="beam-slider main-slider loading1"> <div class="swiper-wrapper">
+														
+					<div class="swiper-slide">
+						
+
+
+
+
+
+				<div class="paragraph paragraph--type--banner paragraph--view-mode--default dark_gradient">
+			<div class="slide-bgimg">
+								<picture>
+											<source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20360x411%20Mobile_0.webp">
+																<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20360x411%20Mobile.webp">
+										<img src="https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20Career%20Main%20Banner%20Adapt%201903x841%20_%20without%20copy.webp" alt="Mahindra Career" fetchpriority="high" loading="eager">
+				</picture>
+			</div>
+			<div class="mob-content-home-spotlight">
+				<div class="content text-lg-start">
+																<p><small class="light">LEARN. LEAD. RISE.</small></p><h1 class="light">CAREERS AT<br>MAHINDRA</h1><p class="light">A workplace built on integrity, collaboration, and bold ideas.</p>
+																	
+
+
+			<a href="https://jobs.mahindracareers.com/" target="_blank" class="btn btn-primary" rel="noopener">
+			Find Jobs
+		</a>
+	
+
+									</div>
+			</div>
+		</div>
+	
+					</div>
+							</div>
+			
+		</div>
+
+	
+</section>
+
+			<div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section class="section spirit-of-rise career-offer">
+  <div class="section-header text-center pb-3">
+    <h2 class="heading font-medium aos-init aos-animate" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+      What We offer
+    </h2>
+  </div>
+  <div class="performance-driven performace-driven-home">
+    <div class="container">
+      <div class="performace-driven-cards">
+         <a class="performace-driven-cards-link aos-init aos-animate" target="_blank" data-aos="fade-up" data-aos-delay="100">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image career-card-image">
+              <img src="https://www.mahindra.com/sites/default/files/2026-04/Opportunities%20at%20Scale%20%281%29%20%281%29.jpg" alt="" oncontextmenu="return false;">
+            </div>
+            <div class="performace-driven-home-box-card">
+              <p class="desc career-performance-desc">
+                Opportunities <br> at Scale
+              </p>
+            </div>
+
+            <p class="career-card-about">
+              With operations across industries and markets, a career at Mahindra can offer exposure across 20+ industries.            </p>
+          </div>
+        </a>
+        <a class="performace-driven-cards-link aos-init aos-animate" target="_blank" data-aos="fade-up" data-aos-delay="300">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image career-card-image">
+              <img src="https://www.mahindra.com/sites/default/files/2026-04/Across%20Groups.jpg" alt="" oncontextmenu="return false;">
+            </div>
+            <div class="performace-driven-home-box-card">
+              <p class="desc career-performance-desc">
+                Mobility Across <br> the Group
+              </p>
+            </div>
+
+            <p class="career-card-about">
+              Through structured Mahindra recruitment and internal mobility frameworks, you move across businesses,
+              functions and geographies, building both breadth and depth.
+            </p>
+          </div>
+        </a>
+
+        <a class="performace-driven-cards-link aos-init aos-animate" target="_blank" data-aos="fade-up" data-aos-delay="400">
+          <div class="performace-driven-card-wrapper">
+            <div class="card-image career-card-image">
+              <img src="https://www.mahindra.com/sites/default/files/2026-04/Responsibility%20From%20Day%20one.jpg" alt="" oncontextmenu="return false;">
+            </div>
+            <div class="performace-driven-home-box-card">
+              <p class="desc career-performance-desc">
+                Responsibility <br> from Day One
+              </p>
+            </div>
+
+            <p class="career-card-about">
+              At Mahindra, we empower individuals early on, set clear expectations, and reward performance based on merit.
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+.spotlight-home-wrap .beam-slider .swiper-slide.dark_gradient::before {
+    background: linear-gradient(165deg, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .4) 30%, rgba(0, 0, 0, 0) 48.26%);
+    z-index: 1;
+}
+@media (width >= 835px) {
+    .spotlight-home-wrap .beam-slider .swiper-slide::before {
+z-index:0;
+}
+
+</style>
+
+			</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section class="section group-businesses grey-bg">
+
+  <div class="section-header text-center">
+    <h2 class="heading font-medium aos-init aos-animate" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+      Find Your Next Opportunity
+    </h2>
+  </div>
+
+  <div class="nextjob-first-section">
+    <h2 class="next-job-heading">M&amp;M Limited</h2>
+    <div class="business-grid container">
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-01/mahindra-rise.png" alt="Mahindra Rise" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://jobs.mahindracareers.com/" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply Now</a>
+        </div>
+      </div>
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2026-04/Mahindra%20auto%20logo%20new.svg" alt="Mahindra Rise" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://auto.mahindra.com/careers.html" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply
+            Now</a>
+        </div>
+      </div>
+      
+
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-01/Agri.png" alt="Agri" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://jobs.mahindracareers.com/go/Agri/7139300/" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply Now</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nextjob-group-section">
+    <h2 class="next-job-heading">Group Businesses</h2>
+    <div class="business-grid container">
+      
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2026-04/techm.svg" alt="Tech Mahindra" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://www.techmahindra.com/careers/" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply
+            Now</a>
+        </div>
+      </div>
+
+      
+
+
+      
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-01/finance.png" alt="Mahindra Finance" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://www.mahindrafinance.com/careers" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply
+            Now</a>
+        </div>
+      </div>
+
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2026-04/clubm.svg" alt="Club Mahindra" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://www.clubmahindra.com/careers" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply Now</a>
+        </div>
+      </div>
+
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/mahindra_logistics_new.webp" alt="Mahindra Logistics" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://mahindralogistics.com/work-with-us/" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply
+            Now</a>
+        </div>
+      </div>
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com//sites/default/files/2025-01/lifespaces.png" alt="Mahindra lifespaces" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://www.mahindralifespaces.com/career/" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply
+            Now</a>
+        </div>
+      </div>
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/susten_logo.webp" alt="Susten" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://www.mahindrasusten.com/career" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply
+            Now</a>
+        </div>
+      </div>  
+
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/bristlecone-black-logo.webp" alt="Bristlecone" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://www.bristlecone.com/life-at-bristlecone/#careers" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply Now</a>
+        </div>
+      </div>
+      <div class="business-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+        <div class="card-inner-content">
+          <div class="business-card-image-wrapper">
+            <img src="https://www.mahindra.com/sites/default/files/2025-11/Car_and_Bike_new.webp" alt="Car_and_Bike" width="200" height="60" loading="lazy" oncontextmenu="return false;">
+          </div>
+          <a href="https://jobs.mahindracareers.com/" target="_blank" class="btn btn-primary apply-btn" rel="noopener">Apply Now</a>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</section>
+
+
+
+			</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section class="section marquee-career">
+
+  <div class="section-header text-center">
+    <h2 class="heading font-medium aos-init aos-animate" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+      Life at mahindra
+    </h2>
+  </div>
+
+  
+  <div class="marquee-career-gallery">
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/ACT-0060.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    <a href="https://www.youtube.com/watch?v=zzERgfuL_qk" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/image%20%2817%29.png" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=rXDURILm6TU" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-03/Womens%20Day%20OPT%202%20Main%20Banner%20Adapt%201903x841%20without%20copy%20-%20new%20_0.webp" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <a href="https://www.youtube.com/watch?v=PZac7K3kzyg&amp;list=PLVpSL6-dm3lIKihrm9d8q_PFZ4WU7TsVD" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/mahindra-rise-challenge-2025-v3.png" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Office-0178.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    <a href="https://www.youtube.com/watch?v=zqEo3E8JFJc" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/IWD-2023-v2.png" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/ACT-0023.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    <a href="https://www.youtube.com/watch?v=zzERgfuL_qk" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/image%20%2817%29.png" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <a href="https://www.youtube.com/watch?v=PZac7K3kzyg&amp;list=PLVpSL6-dm3lIKihrm9d8q_PFZ4WU7TsVD" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/mahindra-rise-challenge-2025-v3.png" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/ACT-0080.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    <a href="https://www.youtube.com/watch?v=zqEo3E8JFJc" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/IWD-2023-v2.png" alt="Video thumbnail" width="700" height="350" class="marquee-career-thumb" loading="lazy">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Office-0247.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+  </div>
+
+  
+  <div class="marquee-career-gallery">
+
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Office-0140.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    
+    <a href="https://www.youtube.com/watch?v=HR4TeMVcOIg" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/rethink-the-bias-v2.png" alt="Video thumbnail">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/ACT-0067.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    
+    <a href="https://www.youtube.com/watch?v=AS68nKf44Vg" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/image%20%2820%29.png" alt="Video thumbnail">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+
+    
+    
+    <a href="https://www.youtube.com/watch?v=1GEkKWxKqk0" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/1GEkKWxKqk0-HD.jpg" alt="Video thumbnail">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Office-0156.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    <a href="https://www.youtube.com/watch?v=HR4TeMVcOIg" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/rethink-the-bias-v2.png" alt="Video thumbnail">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/ACT-0065.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    
+    <a href="https://www.youtube.com/watch?v=AS68nKf44Vg" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/image%20%2820%29.png" alt="Video thumbnail">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+    <div class="marquee-career-photos">
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/ACT-0039.webp" alt="image" width="350" height="300" loading="lazy">
+    </div>
+    <a href="https://www.youtube.com/watch?v=1GEkKWxKqk0" data-lity="" class="marquee-career-photos marquee-career-vdo" aria-label="Play video" target="_blank" rel="noopener">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/1GEkKWxKqk0-HD.jpg" alt="Video thumbnail">
+
+      <img src="https://www.mahindra.com/sites/default/files/2026-04/Pasted image.webp" alt="Play video" aria-hidden="true" class="marquee-career-play-icon">
+    </a>
+  </div>
+
+</section>
+
+			</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section class="section work-with-us career-soar">
+  <div class="aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+    <div class="container">
+      <div class="row flex-column-reverse flex-lg-row">
+        <div class="col-12 col-lg-4 mt-3 mt-lg-0 p-lg-0">
+          <div class="content-wrap">
+            <h3 class="font-regular text-white">Your <br> comeback, <br> reimagined</h3>
+            <p class="career-soar-text text-white my-5">SOAR welcomes women professionals ready to relaunch their
+              careers through inclusive Mahindra recruitment.</p>
+
+            <a href="/mahindra-nextjs/career/SOAR" class="btn btn-primary">Know More</a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-8">
+          <div class="image-wrap">
+            <img src="https://www.mahindra.com/sites/default/files/2026-04/soar.webp" class="img-fluid" alt="Mahindra Group - Women at Mahindra" title="Mahindra Group - Women at Mahindra" loading="lazy" oncontextmenu="return false;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+@media (min-width: 1200px) {
+  .career-soar .content-wrap h3 {
+    /* font-size: 1.6rem; */
+    font-size: 28px;
+  }
+}
+</style>
+
+			</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section class="section search-component career-policies  grey-bg">
+  <div class="container">
+    <div class="section-header text-center">
+      <h2 class="heading text-center font-regular aos-init aos-animate justify-content-center" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+        policies
+      </h2>
+    </div>
+    <div class="search-filiter-result mt-3">
+      <div class="row">
+        <div class="col-12" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="100">
+          <ul class="search-list">
+            <li>
+              <div class="search-content">
+                <div class="image"><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg" oncontextmenu="return false;"></div>
+                <div class="description">
+                  <p>
+                    Enriching Motherhood With Our 5-Year Maternity Policy
+                  </p>
+                </div>
+              </div>
+              <div class="download-link">
+                <a href="/mahindra-nextjs/blogs/enriching-motherhood-with-our-5-year-maternity-policy">View Link
+                  </a>
+              </div>
+            </li>
+            <li>
+              <div class="search-content">
+                <div class="image"><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg" oncontextmenu="return false;"></div>
+                <div class="description">
+                  <p>Women At Mahindra</p>
+                </div>
+              </div>
+              <div class="download-link">
+                <a href="/mahindra-nextjs/women-at-mahindra">View Link
+                  </a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+			</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section class="section purposeDriven career-purpose">
+  <div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+    <div class="beam-slider main-slider loading height-70">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <picture class="slide-bgimg">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-04/creer-purpose.webp">
+            <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-04/creer-purpose.webp" class="img-fluid" alt="">
+          </picture>
+          <div class="content regular-content career-soar-content">
+            <h2 class="heading font-regular font-size-tb">a purpose <br> driven
+              <br>Organisation</h2>
+            <p class="career-soar-about"> We are guided by purpose and focused on building what lasts. Through careers at Mahindra, you contribute to work in communities, industries and the future.</p>
+            <div class="values-marquee-track font-regular">
+              <span>ETHICAL</span>
+              <span>COLLABORATIVE</span>
+              <span>AGILE</span>
+              <span>BOLD</span>
+
+              
+              <span>ETHICAL</span>
+              <span>COLLABORATIVE</span>
+              <span>AGILE</span>
+              <span>BOLD</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+@media (max-width: 835px) {
+.career-purpose .regular-content.career-soar-content {
+  width: 77% !important;
+}
+
+.swiper-slide .paragraph--type--banner {
+  height: 100%;
+}
+
+}
+@media (min-width: 576px) {
+.career-soar-about {
+  max-width: 74% !important;
+}
+}
+@media (width >= 835px) { 
+  .spotlight-home-wrap .beam-slider .swiper-slide:has(.dark_gradient)::before {
+    content: "";
+    width: 100%;
+    display: block;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    background: linear-gradient(165deg, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .4) 30%, rgba(0, 0, 0, 0) 48.26%);
+    z-index: 1;
+  }
+
+}
+</style>
+
+			</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--faq paragraph--view-mode--default">
+		<section class="section faqs-section">
+			<div class="container">
+				<div class="section-header text-center">
+					<h2 class="heading font-regular aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">FAQS</h2>
+				</div>
+				<div class="accordion" id="faqAccordion">
+											 
+		  	<div class="paragraph paragraph--type--faq-items paragraph--view-mode--default accordion-item aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<h2 class="accordion-header ">
+			<button class="accordion-button position-relative " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-732" aria-expanded="true" aria-controls="collapse-732">
+				How to find a job at Mahindra?
+			</button>
+		</h2>
+		<div id="collapse-732" class="accordion-collapse collapse  show" data-bs-parent="#faqAccordion">
+			<div class="accordion-body">
+				<p>Visit the official Careers at Mahindra portal to explore current Mahindra job vacancy listings. All applications are submitted online through the formal Mahindra recruitment process.</p>
+			</div>
+		</div>
+	</div>
+
+		  	<div class="paragraph paragraph--type--faq-items paragraph--view-mode--default accordion-item aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<h2 class="accordion-header ">
+			<button class="accordion-button position-relative  collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-733" aria-expanded="true" aria-controls="collapse-733">
+				How to apply for the SOAR program?
+			</button>
+		</h2>
+		<div id="collapse-733" class="accordion-collapse collapse " data-bs-parent="#faqAccordion">
+			<div class="accordion-body">
+				<p>All open positions across Mahindra Group companies are accessible to SOAR participants. You can explore and apply for these roles directly through the Mahindra Group Careers website or the individual company career pages listed on the SOAR portal.</p>
+
+			</div>
+		</div>
+	</div>
+
+		  	<div class="paragraph paragraph--type--faq-items paragraph--view-mode--default accordion-item aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<h2 class="accordion-header ">
+			<button class="accordion-button position-relative  collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-734" aria-expanded="true" aria-controls="collapse-734">
+				How to get into Mahindra University?
+			</button>
+		</h2>
+		<div id="collapse-734" class="accordion-collapse collapse " data-bs-parent="#faqAccordion">
+			<div class="accordion-body">
+				<p>Admissions are managed directly by Mahindra University. Visit the university’s official website, review the eligibility criteria for your chosen programme and submit the online application form with the required documents before the deadline. For entrance requirements and timelines, please refer to the university’s admissions section.</p>
+			</div>
+		</div>
+	</div>
+
+		  	<div class="paragraph paragraph--type--faq-items paragraph--view-mode--default accordion-item aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<h2 class="accordion-header ">
+			<button class="accordion-button position-relative  collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-735" aria-expanded="true" aria-controls="collapse-735">
+				What qualifications do I need to work at Mahindra?
+			</button>
+		</h2>
+		<div id="collapse-735" class="accordion-collapse collapse " data-bs-parent="#faqAccordion">
+			<div class="accordion-body">
+				<p>Qualifications vary depending on the role and business unit. Each Mahindra job vacancy clearly outlines the required educational background, experience and skill set. Opportunities are available across functions and sectors, including Tech Mahindra careers, Mahindra Logistics careers and Club Mahindra careers, ranging from early-career roles to specialised leadership positions.</p>
+
+			</div>
+		</div>
+	</div>
+
+		  	<div class="paragraph paragraph--type--faq-items paragraph--view-mode--default accordion-item aos-init aos-animate" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<h2 class="accordion-header ">
+			<button class="accordion-button position-relative  collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-736" aria-expanded="true" aria-controls="collapse-736">
+				Is Mahindra a good place to work?
+			</button>
+		</h2>
+		<div id="collapse-736" class="accordion-collapse collapse " data-bs-parent="#faqAccordion">
+			<div class="accordion-body">
+				<p>A job in Mahindra company offers structured growth, early responsibility and exposure to businesses that operate at scale. We place strong emphasis on ethical conduct, inclusive practices and long-term professional development, creating a workplace where performance and purpose go hand in hand.</p>
+
+			</div>
+		</div>
+	</div>
+
+
+									</div>
+			</div>
+		</section>
+	</div>
+</div>
+							<div>
+	<div class="paragraph paragraph--type--html-section paragraph--view-mode--default" id="">
+					
+	<section>
+  <div id="myModal" class="popup-modal">
+    <div class="popup-modal-content">
+      <h2>Beware of Fraudulent Recruiting</h2>
+      <div>
+        <p>It has been brought to our notice that certain people are misleading job applicants by soliciting allegedly
+          refundable security deposits monies towards registration / interview fees etc. for job opportunities at
+          Mahindra Group Companies. The said persons are also using our trademarks and other information relating to
+          our executives.
+        </p>
+        <p>
+          Please be informed that we have not published or issued any such communications, nor have we authorized
+          anyone else to do so. We do not and will not solicit monies from job applicants for any reason whatsoever.
+        </p>
+        <p>
+          We are not responsible for any claims or actions arising out of dealings, monetary or otherwise, with the
+          aforesaid persons. We, however, reserve our rights to initiate any proceedings or legal actions against such
+          persons, as we may deem fit.
+        </p>
+      </div>
+    </div>
+    <div class="popup-close-button">
+      <a id="closeModal">
+        X
+      </a>
+    </div>
+  </div>
+</section>
+
+			</div>
+</div>
+					</div>
+	
+  </div>
+
+  
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/fc62c543.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/fc62c543.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/fc62c543.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"career","data-path":"/career","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"career","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mahindra Careers | Mahindra Job Vacancy | Mahindra Group"}],["$","meta","1",{"name":"description","content":"At Mahindra, we offer inclusive work culture and learning opportunities tailored across levels. Visit our website to know more"}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

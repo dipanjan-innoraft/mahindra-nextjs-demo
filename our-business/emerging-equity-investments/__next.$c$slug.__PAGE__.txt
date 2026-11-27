@@ -1,0 +1,470 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/ad1482a0.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_mobile-REVISED.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_mobile-REVISED.webp"}],["$","source","https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_REVISED.webp",{"media":"(min-width: 800px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_REVISED.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_REVISED.webp","alt":""}]]
+e:T5b02,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="4718">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+    <div class="beam-slider main-slider">
+      <div class="swiper-wrapper">        
+        
+
+
+
+
+
+
+
+
+
+
+
+				
+				
+				
+	<div class="swiper-slide nogradient  ">
+		<div class="slide-bgimg">
+			<picture>
+				<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_mobile-REVISED.webp">
+				<source media="(min-width: 800px)" srcset="https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_REVISED.webp">
+				<img src="https://www.mahindra.com/sites/default/files/2025-01/Mahindra_BE-6%26-XEV-9-Banner-Global-Premiere-Banner_REVISED.webp" alt="Mahindra Automotive electric SUVs – XEV-9E and BE 6e" title="Mahindra Automotive electric SUVs – XEV-9E and BE 6e">
+			</picture>
+		</div>
+		<div class="mob-content-home-spotlight">
+			<div class="content text-center text-lg-start">
+																			<h1 class="heading font-medium font-size-tb">Other Emerging Businesses</h1>
+																		
+											</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      
+      
+      <div class="swiper-pagination"></div>
+    </div>  
+  </section>
+<style>
+@media screen and (max-width: 834px){
+.spotlight-home-wrap .main-slider .swiper-slide:before {
+  background: none;
+}}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section what-we-do-wrap">
+    <div class="our-business-verticals template-2">
+      <div class="container">
+      <div class="row row-cols-lg-3 row-cols-1 g-3 justify-content-center">
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="100">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-1.webp" class="img-fluid" alt="Mahindra Rise modern SUV parked in city landscape">
+          </picture>
+          </div>
+          <div class="title">SUV <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://auto.mahindra.com/suv" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="400">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/2024-12/XEV-9E-836X527.jpg" class="img-fluid" alt="Mahindra XEV-9E modern electric automotive vehicle">
+            </picture>
+          </div>
+          <div class="title">Electric SUV <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://www.mahindraelectricsuv.com/" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+        <div class="col">
+            <div class="wrap" data-aos="fade-up" data-aos-delay="1500">
+              <div class="image">
+                <picture>
+                  <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-6.webp" class="img-fluid" alt="High-performance electric hypercar concept – Mahindra Rise">
+                </picture>
+              </div>
+              <div class="title">Electric Hyper Car <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+              <a href="https://automobili-pininfarina.com/" class="stretched-link" target="_blank" rel="noopener"></a>
+            </div>
+        </div>
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="700">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-3.webp" class="img-fluid" alt="Compact mobility vehicle for urban transport – Mahindra Rise">
+            </picture>
+          </div>
+          <div class="title">Last Mile Mobility <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://www.mahindraelectric.com/vehicles/treo-electric-auto/" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="1000">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-4.webp" class="img-fluid" alt="Mahindra Rise pickup truck carrying goods on highway">
+            </picture>
+          </div>
+          <div class="title">Pick-Ups <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://auto.mahindra.com/pick-up-trucks/maxx-pik-up" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="1300">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-5.webp" class="img-fluid" alt="Mahindra Rise heavy commercial trucks for logistics">
+            </picture>
+          </div>
+          <div class="title">Large Commercial Vehicles<img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://www.mahindratruckandbus.com/" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="1500">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-7.webp" class="img-fluid" alt="Light commercial vehicle carrying goods – Mahindra Rise">
+            </picture>
+          </div>
+          <div class="title">Small Commercial Vehicles<img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://auto.mahindra.com/" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+        <div class="col">
+        <div class="wrap" data-aos="fade-up" data-aos-delay="1800">
+          <div class="image">
+            <picture>
+              <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-thumb-8.webp" class="img-fluid" alt="Mahindra Rise Roxor off-road vehicle in desert terrain">
+            </picture>
+          </div>
+          <div class="title">Roxor, North America <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link.svg"></div>
+          <a href="https://roxoroffroad.com/" class="stretched-link" target="_blank" rel="noopener"></a>
+        </div>
+        </div>
+      <div class="col">
+          <div class="wrap" data-aos="fade-up" data-aos-delay="2100">
+            <div class="image">
+              <picture>
+                <img src="https://www.mahindra.com/sites/default/files/img/our-business-emerging-thumb-10-cl.webp" class="img-fluid" alt="">
+              </picture>
+            </div>
+            <div class="title">2-Wheeler, Classic Legends<img src="https://www.mahindra.com/themes/custom/mahindra/img/tilt-white-arrow.svg" alt="Mahindra 2-wheelers and classic legends in the mountains"></div>
+            <a href="https://www.jawamotorcycles.com/" class="stretched-link" target="_blank" rel="noopener"></a>
+          </div>
+          </div>
+      </div>
+      </div>
+      
+      </div>
+    
+    </section></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section faqs-section">
+	<div class="container">
+		<div class="section-header text-center">
+			<h2 class="heading font-regular aos-init aos-animate" data-aos="fade-up">Faqs</h2>
+		</div>
+		<div class="acco-div">
+			<ul>
+				<li class="active" data-aos="fade-up">
+					<h2>When was Mahindra Automotive established?</h2>
+					<div class="acco-content-div show">
+						<p>Established in 1945 by JC and KC Mahindra and Ghulam Mohammed, Mahindra &amp; Mohammed began as a
+							steel trading firm and later ventured into manufacturing and selling larger MUVs. It was
+							renamed Mahindra &amp; Mahindra in 1947. Today, Mahindra
+								Automotive is one of India's leading manufacturers of passenger and commercial
+							vehicles.</p>
+					</div>
+				</li>
+				<li data-aos="fade-up">
+					<h2>In which countries does Mahindra Automotive have a presence?</h2>
+					<div class="acco-content-div">
+						<p>Mahindra and Mahindra, a prominent automotive company has a widespread
+							global presence in regions like APAC, Africa &amp; Middle East, and South Central America. Its
+							footprint spans across Australia, Bangladesh, Bhutan, Indonesia, New Zealand, Nepal, Sri
+							Lanka, UAE, Kenya, Mozambique, Morocco, South Africa, Tunisia, Chile, Guatemala, and Peru.
+						</p>
+					</div>
+				</li>
+				<li data-aos="fade-up">
+					<h2>What types of vehicles does Mahindra Automotive manufacture?</h2>
+					<div class="acco-content-div">
+						<p>Mahindra Automotive offers an extensive lineup of Mahindra vehicles which
+							include SUVs, electric SUVs, Pik-ups, Electric Vehicles, Trucks, Small Commercial Vehicles,
+							and buses. Its range includes various Mahindra cars, including new models,
+							catering to a broad spectrum of customers.</p>
+					</div>
+				</li>
+				<li data-aos="fade-up">
+					<h2>Does Mahindra Automotive have a line of electric vehicles in its production?</h2>
+					<div class="acco-content-div">
+						<p>Mahindra is India’s no. 1 electric 3 wheeler manufacturer company with the flagship Treo. The all – electric XUV 400, a fun-to-drive C – Segment Electric SUV is the
+							latest addition with its bold Born Electric Vision, Mahindra is set to reimagine the world of electric SUVs. Visit <a href="https://mahindraelectricautomobile.com/" target="_blank" rel="noopener">https://mahindraelectricautomobile.com/</a> to see the line of futuristic SUV concepts that
+							are set to release soon. 
+						</p>
+					</div>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+</section>
+<style>
+.faqs-section .heading {font-size: 2.25rem;}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section grey-bg discoverSection media-resources">
+    <div class="container">
+        <div class="section-header text-center pb-4">
+          <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">quick links</h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-12 mb-lg-0 mb-3 discover-block">
+            <div class="positin-relative" data-aos="fade-up" data-aos-delay="100">
+              <div class="discoverImg no-tint">
+                <picture>
+                  
+                  <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-quick-links-1.webp" width="auto" height="auto" alt="Modern farm equipment working on farmland – Mahindra Rise" loading="lazy">
+                </picture>
+              </div>
+              <div class="discoverLink text-lg-start text-center"><span>Farm Equipment <svg viewBox="0 0 12 12" fill="none">
+                  <path d="M4 0V1H10.295L0 11.295L0.705 12L11 1.705V8H12V0H4Z" fill="white"></path>
+                  </svg></span></div>
+              <a href="/mahindra-nextjs/our-business/farm-equipment" class="stretched-link"></a>
+            </div>
+          </div>
+  
+          <div class="col-lg-4 col-12 mb-lg-0 mb-3 discover-block">
+            <div class="positin-relative" data-aos="fade-up" data-aos-delay="400">
+              <div class="discoverImg no-tint">
+                <picture>
+                  
+                  <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-quick-links-2.webp" width="auto" height="auto" alt="Rural woman holding crops in farm setting – Mahindra Rise" loading="lazy">
+                </picture>
+              </div>
+              <div class="discoverLink text-lg-start text-center"><span>Financial services <svg viewBox="0 0 12 12" fill="none">
+                  <path d="M4 0V1H10.295L0 11.295L0.705 12L11 1.705V8H12V0H4Z" fill="white"></path>
+                  </svg></span></div>
+              <a href="/mahindra-nextjs/our-business/financial-services" class="stretched-link"></a>
+            </div>
+          </div>
+  
+          <div class="col-lg-4 col-12 discover-block">
+            <div class="positin-relative" data-aos="fade-up" data-aos-delay="700">
+              <div class="discoverImg no-tint">
+                <picture>
+                  
+                  <img src="https://www.mahindra.com/sites/default/files/img/our-business-automotive-quick-links-3.webp" width="auto" height="auto" alt="Advanced engineering equipment in manufacturing unit – Mahindra Rise" loading="lazy">
+                </picture>
+              </div>
+              <div class="discoverLink text-lg-start text-center"><span>Emerging Businesses &amp; Equity Investments <svg viewBox="0 0 12 12" fill="none">
+                  <path d="M4 0V1H10.295L0 11.295L0.705 12L11 1.705V8H12V0H4Z" fill="white"></path>
+                  </svg></span></div>
+              <a href="/mahindra-nextjs/our-business/emerging-equity-investments" class="stretched-link"></a>
+            </div>
+          </div>
+  
+        </div>
+      </div>
+  </section></div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+  
+
+</article>
+
+  </div><div id="block-mahindra-seocontent">
+  
+    
+      <div class="seo-content-block">
+  <div class="container">
+    <div class="accordion" id="prefooter-accordian">
+      <div class="card">
+        <div class="card-header px-0" id="prefooter-heading">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Click Here
+            </button>
+          </h2>
+        </div>
+        <div id="collapseOne" class="collapse" aria-labelledby="prefooter-heading" data-bs-parent="#prefooter-accordian">
+          <div class="card-body px-0">
+            <p></p><div class="seo-section">
+<h2>Leading the Way as a Trusted Automotive Manufacturer in India</h2>
+
+<p>As one of the most dynamic sectors in the country, the automotive landscape continues to evolve with advancements in design, engineering, and sustainable mobility. In this ever-changing space, Mahindra Automotive is bringing together innovation, reliability, and purpose.</p>
+
+<p>As a homegrown vehicle manufacturer in India, it continues to craft vehicles that meet the needs of modern consumers while supporting the nation’s progress towards a smarter and cleaner mobility future.</p>
+
+<h2>Mahindra’s Commitment to Automotive Excellence</h2>
+
+<p>With a legacy defined by innovation and trust, Mahindra Automotive continues to strengthen its position among leading automotive manufacturers in India.&nbsp;</p>
+
+<h3>Driving Leadership in India’s Automotive Sector</h3>
+
+<p>Guided by a vision of sustainable progress, Mahindra combines advanced engineering with a deep understanding of evolving customer needs, setting new standards for reliability and performance.</p>
+
+<p>Mahindra’s focus extends beyond being a car manufacturer. It is about creating meaningful mobility experiences and innovating for a future where technology, design, and sustainability come together seamlessly.</p>
+
+<h3>Focus Areas</h3>
+
+<ul>
+<li aria-level="1"><strong>Passenger Vehicles:</strong> Mahindra’s portfolio includes <a href="https://auto.mahindra.com/suv" rel="noopener" target="_blank">SUVs</a> and <a href="https://www.mahindraelectricsuv.com/" rel="noopener" target="_blank">electric vehicles</a> that blend performance, safety, and advanced technology.<br>
+&nbsp;</li>
+<li aria-level="1"><strong>Sustainability:</strong> Pioneering solutions for electric mobility, contributing to cleaner, more efficient transport across India.<br>
+&nbsp;</li>
+<li aria-level="1"><strong>Innovation:</strong> Integrating advanced engineering and design to enhance driving experience and operational efficiency.</li>
+</ul>
+
+<h2>Innovation in Passenger and Commercial Vehicles</h2>
+
+<p>India’s vehicle manufacturers are evolving, driven by urbanisation, economic growth, and a shift towards sustainable transportation. Both passenger and commercial vehicles play a critical role, from everyday commuting to industrial and logistical operations.</p>
+
+<h3>Passenger Vehicles: Meeting India’s Growing Mobility Needs</h3>
+
+<p>India’s urbanisation and rising middle class have increased demand for versatile, efficient, and sustainable passenger vehicles. In response, Mahindra Automotive Manufacturers has expanded its portfolio to include high-performance <a href="https://automobili-pininfarina.com/" rel="noopener" target="_blank">Electric Hyper Cars</a>, demonstrating the company’s capability to push boundaries in automotive engineering while exploring the future of electric mobility.</p>
+
+<h3>Commercial Vehicles: Supporting Businesses and Communities</h3>
+
+<p>The logistics and transportation sector relies heavily on dependable commercial vehicles in India. Mahindra provides solutions that cater to diverse operational requirements, from urban deliveries to industrial transport:</p>
+
+<ul>
+<li aria-level="1"><a href="https://auto.mahindra.com/pick-up-trucks/maxx-pik-up" rel="noopener" target="_blank">Pick-Ups</a> and <a href="https://auto.mahindra.com/" rel="noopener" target="_blank">Small Commercial Vehicles</a> are designed for agile, last-mile operations.<br>
+&nbsp;</li>
+<li aria-level="1"><a href="https://www.mahindratruckandbus.com/" rel="noopener" target="_blank">Large Commercial Vehicles</a> and Light Commercial Vehicles are optimised for efficiency and durability.</li>
+</ul>
+
+<h3>Specialised Mobility Solutions</h3>
+
+<p>Beyond conventional vehicles, Mahindra engages in niche mobility segments, such as <a href="https://www.jawamotorcycles.com/" rel="noopener" target="_blank">2-Wheelers (Classic Legends)</a>, providing tailored solutions for enthusiasts and specialised transport.</p>
+
+<p>This approach demonstrates Mahindra’s holistic view of mobility, balancing innovation, sustainability, and practicality across both passenger and commercial vehicles in India.</p>
+
+<h2>Advancing Electric Mobility in India</h2>
+
+<p>The shift towards electric mobility in India is driven by environmental concerns, government initiatives, and changing consumer expectations. As the country aims to reduce emissions and move towards cleaner energy solutions, electric vehicles have become a central focus for both passenger and commercial transport.</p>
+
+<h3>Leadership in Electric Vehicles</h3>
+
+<p>Mahindra is among the first few at the forefront of this transformation, recognised among leading electric vehicle manufacturers in India. The company’s portfolio includes a diverse range of <a href="https://www.mahindraelectricsuv.com/" rel="noopener" target="_blank">Electric SUVs</a> and <a href="https://automobili-pininfarina.com/" rel="noopener" target="_blank">Electric Hyper Cars</a>, demonstrating a commitment to combining performance, innovation, and sustainability.</p>
+
+<h3>Electric Cars in India</h3>
+
+<p>The adoption of electric cars in India is accelerating, and Mahindra’s designs are built to meet the unique demands of urban mobility. Through these offerings, the company supports India’s transition to low-emission vehicles, providing reliable options for consumers seeking environmentally conscious alternatives.</p>
+
+<h3>Sustainable Impact</h3>
+
+<p>Beyond passenger vehicles, Mahindra’s focus on electric mobility extends to commercial operations, integrating electric solutions in urban logistics and <a href="https://www.mahindraelectric.com/vehicles/treo-electric-auto/" rel="noopener" target="_blank">last-mile delivery</a>. By advancing electric vehicles in India, Mahindra contributes to national goals for cleaner transport, supporting a future where mobility is both technologically advanced and environmentally responsible.</p>
+
+<h2>Technology and Sustainability in Motion</h2>
+
+<p>Automotive manufacturers in India are rapidly adopting advanced technologies and innovative manufacturing practices. As a leading vehicle manufacturer in India, Mahindra integrates these advancements across its passenger, commercial, and specialised mobility solutions, ensuring high standards of quality, efficiency, and safety.</p>
+
+<h3>Smart Manufacturing for Advanced Mobility</h3>
+
+<p>Mahindra leads with intelligent production systems, automation, and data-driven quality controls to optimise manufacturing processes. This approach supports both conventional vehicles and emerging technologies, enhancing reliability while reducing operational inefficiencies.</p>
+
+<h3>Innovation Across Vehicle Segments</h3>
+
+<p>From <a href="https://auto.mahindra.com/suv" rel="noopener" target="_blank">SUVs</a> and <a href="https://www.mahindraelectricsuv.com/" rel="noopener" target="_blank">Electric SUVs</a> to <a href="https://auto.mahindra.com/pick-up-trucks/maxx-pik-up" rel="noopener" target="_blank">Pick-Ups</a> and <a href="https://www.mahindratruckandbus.com/" rel="noopener" target="_blank">Large Commercial Vehicles</a>, Mahindra applies cutting-edge engineering and design to meet evolving mobility needs. Advanced features, connected vehicle technologies, and performance optimisation are integrated throughout the portfolio, reinforcing the company’s position as a forward-looking automotive company in India.</p>
+
+<h3>Sustainable Practices in Operations</h3>
+
+<p>Beyond product innovation, Mahindra is committed to reducing environmental impact through smarter resource management, energy-efficient manufacturing, and eco-conscious logistics. Initiatives such as <a href="https://www.mahindraelectric.com/vehicles/treo-electric-auto/" rel="noopener" target="_blank">Last Mile Mobility</a> demonstrate how technology and sustainability converge to address urban transport challenges, supporting cleaner, safer, and more efficient mobility solutions.</p>
+
+<h2>The Road Ahead for Automotive in India</h2>
+
+<p>The future of mobility in India is defined by innovation, sustainability, and the evolving needs of consumers and businesses. Mahindra Automotive is committed to delivering resilient and forward-looking solutions across passenger, commercial, and specialised vehicles.</p>
+
+<p>With a focus on technological excellence and sustainable practices, Mahindra aims to remain a trusted automotive manufacturer in India, shaping the nation’s mobility landscape and contributing to a cleaner, smarter, and more efficient transport system.</p>
+</div>
+<p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/ad1482a0.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/ad1482a0.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/ad1482a0.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"our-business-automotive","data-path":"/our-business/emerging-equity-investments","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"our-business/emerging-equity-investments","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Other Emerging Businesses | Mahindra"}],["$","meta","1",{"name":"description","content":"Explore Mahindra Automotive's diverse range of SUVs, electric vehicles, and commercial vehicles, driving innovation and sustainability in India's automotive industry."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

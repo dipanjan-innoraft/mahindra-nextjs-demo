@@ -1,0 +1,1193 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/4939e175.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20360x411%20Mobile_0.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20360x411%20Mobile_0.webp"}],["$","source","https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20Adapt%201903x841%20copy.webp",{"media":"(min-width: 800px)","srcSet":"https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20Adapt%201903x841%20copy.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20Adapt%201903x841%20copy.webp","alt":""}]]
+e:Tf02d,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="4694">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+    <div class="beam-slider main-slider">
+      <div class="swiper-wrapper">        
+        
+
+
+
+
+
+
+
+
+
+
+
+				
+				
+				
+	<div class="swiper-slide nogradient  ">
+		<div class="slide-bgimg">
+			<picture>
+				<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20360x411%20Mobile_0.webp">
+				<source media="(min-width: 800px)" srcset="https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20Adapt%201903x841%20copy.webp">
+				<img src="https://www.mahindra.com/sites/default/files/2025-11/Mahindra%20Leading%20Innovations%20Main%20Banner%20Adapt%201903x841%20copy.webp" alt="Main banner showcasing Mahindra's leading innovations across its brand portfolio" title="Main banner showcasing Mahindra's leading innovations across its brand portfolio">
+			</picture>
+		</div>
+		<div class="mob-content-home-spotlight">
+			<div class="content text-center text-lg-start">
+									<small>OUR BRANDS</small>
+																			<h1 class="heading font-medium font-size-tb">Leading, Innovating<br>&amp; Transforming</h1>
+																				</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      <div class="swiper-button-prev swiper-button-white"></div>
+      <div class="swiper-button-next swiper-button-white"></div>
+      <div class="swiper-pagination"></div>
+    </div>  
+  </section>
+<style>
+@media screen and (max-width: 834px){
+.spotlight-home-wrap .main-slider .swiper-slide:before {
+  background: none;
+}}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section search-component press-release-search mt-0 mb-0">
+<div class="container mb-4">        
+        <div class="row">                
+            <div class="breadcumb" data-aos-easing="ease-in-out" data-aos="fade-up"><a href="/mahindra-nextjs/">Home</a><span>Our Brands</span>
+            </div>
+        </div>
+    </div>
+	<div class="container">
+		<div class="search-heading">
+			<div class="row">
+				<div class="col-lg-3 mb-3 mb-lg-0" data-aos-easing="ease-in-out" data-aos="fade-up">
+					<div class="heading our-brands-heading">
+						<h5>Filter By</h5>
+						<div class="btn-li"><span class="brand-reset reset-btn">Reset</span>
+						</div>
+						<div class="mob-heading-filter">
+							<span>Show Filter</span>
+						</div>
+					</div>
+					<div class="col-lg-9" data-aos-easing="ease-in-out" data-aos="fade-up">
+						<div class="search-sort">
+							
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="search-filiter-result">
+				<div class="row">
+					<div class="col-lg-3 position-relative mobile-filter" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+						
+						<div class="sidebar-filter position-single-box our-brands-sidebar top-14" data-multi="false" id="brands-fliter">
+							<ul>
+  
+								
+								<form name="brands_cat_filter_form" id="brands_cat_filter_form">
+									<li class="submenu">
+										<h6 class="active">AUTO</h6>
+  
+										<div class="content" style="display: block">
+											<label class="chklabel">SUV <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2691]" value="2691">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">SML <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[17021]" value="17021">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Electric SUV <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2692]" value="2692">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Electric Hyper Car <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3312]" value="3312">
+											<span class="checboxkmark"></span>
+										</label>
+											<label class="chklabel">Last Mile Mobility <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3309]" value="3309">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Pick-ups <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3310]" value="3310">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Large Commercial Vehicles <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3311]" value="3311">
+												<span class="checboxkmark"></span>
+											</label>                                            
+											
+											<label class="chklabel">Small Commercial Vehicles <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3313]" value="3313">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Auto, North America <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3305]" value="3305">
+												<span class="checboxkmark"></span>
+											</label>
+											
+											<label class="chklabel">2-Wheeler, Classic Legends <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3307]" value="3307">
+												<span class="checboxkmark"></span>
+											</label>
+											
+										</div>
+  
+									</li>
+									<li class="submenu">
+										<h6 class="">TRACTORS</h6>
+										<div class="content">
+											<label class="chklabel">Mahindra Tractors <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2713]" value="2713">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Swaraj <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2714]" value="2714">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Trakstar <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3293]" value="3293">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Erkunt <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3315]" value="3315">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">MAM <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3295]" value="3295">
+												<span class="checboxkmark"></span>
+											</label>
+											
+										</div>
+									</li>
+									
+									<li class="submenu">
+										<h6>Farm Machinery</h6>
+										<div class="content">
+											<label class="chklabel">Mahindra<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2718]" value="2718">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Swaraj <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2719]" value="2719">
+												<span class="checboxkmark"></span>
+											</label>
+											
+											<label class="chklabel">Hisarlar <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3296]" value="3296">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Sampo Rosenlew<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3297]" value="3297">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">MAM <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2721]" value="2721">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">MITRA<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3316]" value="3316">
+												<span class="checboxkmark"></span>
+											</label>
+										</div>
+									</li>
+									<li class="submenu">    
+										<h6>Finance</h6>
+										<div class="content">
+											<label class="chklabel">Mahindra Finance<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2722]" value="2722">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Mahindra Insurance <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2723]" value="2723">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Mahindra Mutual Funds<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2724]" value="2724">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Mahindra Rural Housing Finance <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[2725]" value="2725">
+												<span class="checboxkmark"></span>
+											</label>
+										</div>
+									</li>
+									
+									<li class="submenu">
+										<h6>Real Estate</h6>
+										<div class="content">
+											<label class="chklabel">Residential <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3231]" value="3231">
+												<span class="checboxkmark"></span>
+											</label>
+											
+											<label class="chklabel">Industrial Cluster <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3233]" value="3233">
+												<span class="checboxkmark"></span>
+											</label>
+											
+											<label class="chklabel">Integrated Cities <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3235]" value="3235">
+												<span class="checboxkmark"></span>
+											</label>
+  
+										</div>
+									</li>
+  
+									<li class="submenu">
+										<h6>Agri</h6>
+										<div class="content">
+											<label class="chklabel">Crop Care<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3221]" value="3221">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Saboro<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3236]" value="3236">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Samriddhi Seeds<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3237]" value="3237">
+												<span class="checboxkmark"></span>
+											</label>
+											
+											<label class="chklabel">Mahindra EPC Irrigation Ltd<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3609]" value="3609">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Summit<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3239]" value="3239">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Mahindra HZPC<input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3240]" value="3240">
+												<span class="checboxkmark"></span>
+											</label>
+  
+										</div>
+									</li>
+									<li class="submenu">
+										<h6>Hospitality</h6>
+										<div class="content">
+											<label class="chklabel">Club Mahindra <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3222]" value="3222">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Holiday Club Resorts Oy <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3223]" value="3223">
+												<span class="checboxkmark"></span>
+											</label>
+  
+										</div>
+									</li>
+									<li class="submenu">
+										<h6>Digital</h6>
+										<div class="content">
+											<label class="chklabel">Car &amp; Bike <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3224]" value="3224">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Porter <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3225]" value="3225">
+												<span class="checboxkmark"></span>
+											</label>
+  
+										</div>
+									</li>
+									<li class="submenu">
+										<h6>Renewables</h6>
+										<div class="content">
+											<label class="chklabel">Susten by Mahindra <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3226]" value="3226">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Solarize <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3227]" value="3227">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Teqo <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3228]" value="3228">
+												<span class="checboxkmark"></span>
+											</label>
+										</div>
+									</li>
+									<li class="submenu">
+										<h6>Steel</h6>
+										<div class="content">
+											<label class="chklabel">Accelo <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3229]" value="3229">
+												<span class="checboxkmark"></span>
+											</label>
+											<label class="chklabel">Cero <input type="checkbox" class="brands-filter" name="field_brand_category_target_id[3230]" value="3230">
+												<span class="checboxkmark"></span>
+											</label>
+  
+										</div>
+									</li>
+								</form>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-9 our-brands-filter-results" data-aos-easing="ease-in-out" data-aos="fade-up" data-aos-delay="200">
+						<div class="discoverSection with-img-grd in-the-new"> 
+
+<div class="row js-view-dom-id-7ab7e561d7f8c2398fa7111c4783fe889aa2ffd7c7cd4331a33550c80f5eae35">
+	
+	
+	
+
+	
+	
+
+	    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/XEV%209E-%20467X350.jpg.webp?itok=bThg9Vgo" width="467" height="350" alt="Mahindra XEV 9e electric SUV in orange and black dual-tone finish with futuristic coupe-style design." title="Mahindra XEV 9e electric SUV in orange and black dual-tone finish with futuristic coupe-style design.">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>XEV 9E</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://www.mahindraelectricsuv.com/esuv/xev-9e/MXV9.html" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/BE%206E-%20467X350.jpg.webp?itok=r54RU535" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>BE 6</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://www.mahindraelectricsuv.com/esuv/be-6e/MBE6.html" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/Tipper%205.jpg.webp?itok=45YZoIz3" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>Tipper 5</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://smlmahindra.com/IN/product/special-cv/tipper-5" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/Tipper%204.jpg.webp?itok=O_mZmfUW" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>Tipper 4</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://smlmahindra.com/IN/product/special-cv/tipper-4" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/Tipper%202.jpg.webp?itok=5hnlxSxi" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>Tipper 2</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://smlmahindra.com/IN/product/special-cv/tipper-2" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/Tipper.jpg.webp?itok=NTcVwWhF" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>Tipper</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://smlmahindra.com/IN/product/special-cv/tipper" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/Vajra%20Van.jpg.webp?itok=Kmj_6rle" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>Vajra Van</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://smlmahindra.com/IN/product/special-cv/vajra-van" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+    <div class="col-lg-6 col-12 mb-3 discover-block"><div class="positin-relative">
+                                <div class="discoverImg no-overlay">                                  
+                                      <img loading="lazy" src="https://www.mahindra.com/sites/default/files/styles/convert_webp/public/brands/Dog%20Van.jpg.webp?itok=ZwuyNemd" width="467" height="350" alt="">
+
+
+
+                                </div>
+                                <div class="discoverLink">
+                                    <h3>Dog Van</h3>
+                                    <p><span>Learn  More</span></p>
+                                </div>
+                                <a href="https://smlmahindra.com/IN/product/special-cv/dog-van" target="_blank" class="stretched-link" rel="noopener"></a>
+                            </div></div>
+
+			<nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+		<h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+		<ul class="pager__items js-pager__items pagination">
+												
+										<li class="pager__item is-active">
+																					<a href="/mahindra-nextjs/?page=0" title="Current page" aria-current="page">
+						<span class="visually-hidden">
+							Current page
+						</span>1</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=1" title="Go to page 2">
+						<span class="visually-hidden">
+							Page
+						</span>2</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=2" title="Go to page 3">
+						<span class="visually-hidden">
+							Page
+						</span>3</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=3" title="Go to page 4">
+						<span class="visually-hidden">
+							Page
+						</span>4</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=4" title="Go to page 5">
+						<span class="visually-hidden">
+							Page
+						</span>5</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=5" title="Go to page 6">
+						<span class="visually-hidden">
+							Page
+						</span>6</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=6" title="Go to page 7">
+						<span class="visually-hidden">
+							Page
+						</span>7</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=7" title="Go to page 8">
+						<span class="visually-hidden">
+							Page
+						</span>8</a>
+				</li>
+							<li class="pager__item">
+																					<a href="/mahindra-nextjs/?page=8" title="Go to page 9">
+						<span class="visually-hidden">
+							Page
+						</span>9</a>
+				</li>
+			
+										<li class="pager__item pager__item--next">
+					<a href="/mahindra-nextjs/?page=1" title="Go to next page" rel="next">
+						<span class="visually-hidden">Next page</span>
+						<span aria-hidden="true">›</span>
+					</a>
+				</li>
+													<li class="pager__item pager__item--last">
+					<a href="/mahindra-nextjs/?page=32" title="Go to last page">
+						<span class="visually-hidden">Last page</span>
+						<span aria-hidden="true">»</span>
+					</a>
+				</li>
+					</ul>
+	</nav>
+
+	<form class="views-exposed-form bef-exposed-form antibot" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-bef-auto-submit-minimum-length="3" data-bef-auto-submit-full-form="" data-drupal-selector="views-exposed-form-our-brands-block-1" data-action="/mahindra-nextjs/our-brands" action="/mahindra-nextjs/antibot" method="get" id="views-exposed-form-our-brands-block-1" accept-charset="UTF-8">
+  
+<fieldset data-drupal-selector="edit-field-brand-category-target-id" id="edit-field-brand-category-target-id--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend"></span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-field-brand-category-target-id" class="form-checkboxes"><div class="form-checkboxes bef-checkboxes bef-nested bef-select-all-none-nested">
+                          <ul>
+
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3232 js-form-item-field-brand-category-target-id-3232">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3232" type="checkbox" id="edit-field-brand-category-target-id-3232" name="field_brand_category_target_id[3232]" value="3232" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3232" class="option">Happinest</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3609 js-form-item-field-brand-category-target-id-3609">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3609" type="checkbox" id="edit-field-brand-category-target-id-3609" name="field_brand_category_target_id[3609]" value="3609" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3609" class="option">Mahindra EPC Irrigation Ltd.</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3316 js-form-item-field-brand-category-target-id-3316">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3316" type="checkbox" id="edit-field-brand-category-target-id-3316" name="field_brand_category_target_id[3316]" value="3316" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3316" class="option">MITRA</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3240 js-form-item-field-brand-category-target-id-3240">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3240" type="checkbox" id="edit-field-brand-category-target-id-3240" name="field_brand_category_target_id[3240]" value="3240" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3240" class="option">Mahindra HZPC</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3235 js-form-item-field-brand-category-target-id-3235">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3235" type="checkbox" id="edit-field-brand-category-target-id-3235" name="field_brand_category_target_id[3235]" value="3235" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3235" class="option">World Cities</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3226 js-form-item-field-brand-category-target-id-3226">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3226" type="checkbox" id="edit-field-brand-category-target-id-3226" name="field_brand_category_target_id[3226]" value="3226" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3226" class="option">Susten by Mahindra</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3239 js-form-item-field-brand-category-target-id-3239">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3239" type="checkbox" id="edit-field-brand-category-target-id-3239" name="field_brand_category_target_id[3239]" value="3239" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3239" class="option">Summit</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3237 js-form-item-field-brand-category-target-id-3237">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3237" type="checkbox" id="edit-field-brand-category-target-id-3237" name="field_brand_category_target_id[3237]" value="3237" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3237" class="option">Samriddhi Seeds</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3236 js-form-item-field-brand-category-target-id-3236">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3236" type="checkbox" id="edit-field-brand-category-target-id-3236" name="field_brand_category_target_id[3236]" value="3236" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3236" class="option">Saboro</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3234 js-form-item-field-brand-category-target-id-3234">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3234" type="checkbox" id="edit-field-brand-category-target-id-3234" name="field_brand_category_target_id[3234]" value="3234" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3234" class="option">Premium Housing</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3233 js-form-item-field-brand-category-target-id-3233">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3233" type="checkbox" id="edit-field-brand-category-target-id-3233" name="field_brand_category_target_id[3233]" value="3233" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3233" class="option">Origins</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3231 js-form-item-field-brand-category-target-id-3231">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3231" type="checkbox" id="edit-field-brand-category-target-id-3231" name="field_brand_category_target_id[3231]" value="3231" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3231" class="option">Mahindra Lifespaces</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3227 js-form-item-field-brand-category-target-id-3227">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3227" type="checkbox" id="edit-field-brand-category-target-id-3227" name="field_brand_category_target_id[3227]" value="3227" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3227" class="option">Solarize</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3228 js-form-item-field-brand-category-target-id-3228">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3228" type="checkbox" id="edit-field-brand-category-target-id-3228" name="field_brand_category_target_id[3228]" value="3228" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3228" class="option">Teqo</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2715 js-form-item-field-brand-category-target-id-2715">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2715" type="checkbox" id="edit-field-brand-category-target-id-2715" name="field_brand_category_target_id[2715]" value="2715" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2715" class="option">Jawa</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2716 js-form-item-field-brand-category-target-id-2716">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2716" type="checkbox" id="edit-field-brand-category-target-id-2716" name="field_brand_category_target_id[2716]" value="2716" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2716" class="option">Yezdi</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2717 js-form-item-field-brand-category-target-id-2717">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2717" type="checkbox" id="edit-field-brand-category-target-id-2717" name="field_brand_category_target_id[2717]" value="2717" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2717" class="option">Peugeot</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2679 js-form-item-field-brand-category-target-id-2679">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2679" type="checkbox" id="edit-field-brand-category-target-id-2679" name="field_brand_category_target_id[2679]" value="2679" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2679" class="option">Auto</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2691 js-form-item-field-brand-category-target-id-2691">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2691" type="checkbox" id="edit-field-brand-category-target-id-2691" name="field_brand_category_target_id[2691]" value="2691" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2691" class="option">SUV</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-17021 js-form-item-field-brand-category-target-id-17021">
+        <input data-drupal-selector="edit-field-brand-category-target-id-17021" type="checkbox" id="edit-field-brand-category-target-id-17021" name="field_brand_category_target_id[17021]" value="17021" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-17021" class="option">SML</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2692 js-form-item-field-brand-category-target-id-2692">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2692" type="checkbox" id="edit-field-brand-category-target-id-2692" name="field_brand_category_target_id[2692]" value="2692" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2692" class="option">Electric SUV</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3309 js-form-item-field-brand-category-target-id-3309">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3309" type="checkbox" id="edit-field-brand-category-target-id-3309" name="field_brand_category_target_id[3309]" value="3309" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3309" class="option">Last Mile Mobility</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3310 js-form-item-field-brand-category-target-id-3310">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3310" type="checkbox" id="edit-field-brand-category-target-id-3310" name="field_brand_category_target_id[3310]" value="3310" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3310" class="option">Pick-Ups</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3311 js-form-item-field-brand-category-target-id-3311">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3311" type="checkbox" id="edit-field-brand-category-target-id-3311" name="field_brand_category_target_id[3311]" value="3311" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3311" class="option">Trucks &amp; Buses</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3312 js-form-item-field-brand-category-target-id-3312">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3312" type="checkbox" id="edit-field-brand-category-target-id-3312" name="field_brand_category_target_id[3312]" value="3312" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3312" class="option">Electric Hyper Car</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3313 js-form-item-field-brand-category-target-id-3313">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3313" type="checkbox" id="edit-field-brand-category-target-id-3313" name="field_brand_category_target_id[3313]" value="3313" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3313" class="option">Small Commercial Vehicles</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3305 js-form-item-field-brand-category-target-id-3305">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3305" type="checkbox" id="edit-field-brand-category-target-id-3305" name="field_brand_category_target_id[3305]" value="3305" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3305" class="option">Auto, North America</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3306 js-form-item-field-brand-category-target-id-3306">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3306" type="checkbox" id="edit-field-brand-category-target-id-3306" name="field_brand_category_target_id[3306]" value="3306" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3306" class="option">Construction Equipment</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3307 js-form-item-field-brand-category-target-id-3307">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3307" type="checkbox" id="edit-field-brand-category-target-id-3307" name="field_brand_category_target_id[3307]" value="3307" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3307" class="option">2-Wheeler, Classic Legends</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3308 js-form-item-field-brand-category-target-id-3308">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3308" type="checkbox" id="edit-field-brand-category-target-id-3308" name="field_brand_category_target_id[3308]" value="3308" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3308" class="option">2-Wheeler, BSA</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2680 js-form-item-field-brand-category-target-id-2680">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2680" type="checkbox" id="edit-field-brand-category-target-id-2680" name="field_brand_category_target_id[2680]" value="2680" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2680" class="option">Tractors</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2713 js-form-item-field-brand-category-target-id-2713">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2713" type="checkbox" id="edit-field-brand-category-target-id-2713" name="field_brand_category_target_id[2713]" value="2713" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2713" class="option">Mahindra</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2714 js-form-item-field-brand-category-target-id-2714">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2714" type="checkbox" id="edit-field-brand-category-target-id-2714" name="field_brand_category_target_id[2714]" value="2714" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2714" class="option">Swaraj</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3293 js-form-item-field-brand-category-target-id-3293">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3293" type="checkbox" id="edit-field-brand-category-target-id-3293" name="field_brand_category_target_id[3293]" value="3293" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3293" class="option">Trakstar</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3315 js-form-item-field-brand-category-target-id-3315">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3315" type="checkbox" id="edit-field-brand-category-target-id-3315" name="field_brand_category_target_id[3315]" value="3315" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3315" class="option">Erkunt</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3295 js-form-item-field-brand-category-target-id-3295">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3295" type="checkbox" id="edit-field-brand-category-target-id-3295" name="field_brand_category_target_id[3295]" value="3295" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3295" class="option">MAM</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2682 js-form-item-field-brand-category-target-id-2682">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2682" type="checkbox" id="edit-field-brand-category-target-id-2682" name="field_brand_category_target_id[2682]" value="2682" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2682" class="option">Farm Machinery</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2718 js-form-item-field-brand-category-target-id-2718">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2718" type="checkbox" id="edit-field-brand-category-target-id-2718" name="field_brand_category_target_id[2718]" value="2718" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2718" class="option">Mahindra</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2719 js-form-item-field-brand-category-target-id-2719">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2719" type="checkbox" id="edit-field-brand-category-target-id-2719" name="field_brand_category_target_id[2719]" value="2719" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2719" class="option">Swaraj</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2720 js-form-item-field-brand-category-target-id-2720">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2720" type="checkbox" id="edit-field-brand-category-target-id-2720" name="field_brand_category_target_id[2720]" value="2720" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2720" class="option">Sampo Rosenlow</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2721 js-form-item-field-brand-category-target-id-2721">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2721" type="checkbox" id="edit-field-brand-category-target-id-2721" name="field_brand_category_target_id[2721]" value="2721" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2721" class="option">MAM</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3296 js-form-item-field-brand-category-target-id-3296">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3296" type="checkbox" id="edit-field-brand-category-target-id-3296" name="field_brand_category_target_id[3296]" value="3296" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3296" class="option">Hisarlar</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3297 js-form-item-field-brand-category-target-id-3297">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3297" type="checkbox" id="edit-field-brand-category-target-id-3297" name="field_brand_category_target_id[3297]" value="3297" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3297" class="option">Sampo Rosenlew</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3219 js-form-item-field-brand-category-target-id-3219">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3219" type="checkbox" id="edit-field-brand-category-target-id-3219" name="field_brand_category_target_id[3219]" value="3219" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3219" class="option">Earthmaster</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3220 js-form-item-field-brand-category-target-id-3220">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3220" type="checkbox" id="edit-field-brand-category-target-id-3220" name="field_brand_category_target_id[3220]" value="3220" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3220" class="option">Roadmaster</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2684 js-form-item-field-brand-category-target-id-2684">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2684" type="checkbox" id="edit-field-brand-category-target-id-2684" name="field_brand_category_target_id[2684]" value="2684" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2684" class="option">Hospitality</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3222 js-form-item-field-brand-category-target-id-3222">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3222" type="checkbox" id="edit-field-brand-category-target-id-3222" name="field_brand_category_target_id[3222]" value="3222" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3222" class="option">Club Mahindra</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3223 js-form-item-field-brand-category-target-id-3223">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3223" type="checkbox" id="edit-field-brand-category-target-id-3223" name="field_brand_category_target_id[3223]" value="3223" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3223" class="option">Holiday Club Resorts Oy</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2685 js-form-item-field-brand-category-target-id-2685">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2685" type="checkbox" id="edit-field-brand-category-target-id-2685" name="field_brand_category_target_id[2685]" value="2685" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2685" class="option">Finance</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2722 js-form-item-field-brand-category-target-id-2722">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2722" type="checkbox" id="edit-field-brand-category-target-id-2722" name="field_brand_category_target_id[2722]" value="2722" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2722" class="option">Mahindra Finance</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2723 js-form-item-field-brand-category-target-id-2723">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2723" type="checkbox" id="edit-field-brand-category-target-id-2723" name="field_brand_category_target_id[2723]" value="2723" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2723" class="option">Mahindra Insurance</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2724 js-form-item-field-brand-category-target-id-2724">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2724" type="checkbox" id="edit-field-brand-category-target-id-2724" name="field_brand_category_target_id[2724]" value="2724" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2724" class="option">Mahindra Mutual Funds</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2725 js-form-item-field-brand-category-target-id-2725">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2725" type="checkbox" id="edit-field-brand-category-target-id-2725" name="field_brand_category_target_id[2725]" value="2725" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2725" class="option">Mahindra Rural Housing Finance</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2686 js-form-item-field-brand-category-target-id-2686">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2686" type="checkbox" id="edit-field-brand-category-target-id-2686" name="field_brand_category_target_id[2686]" value="2686" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2686" class="option">Agri</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3221 js-form-item-field-brand-category-target-id-3221">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3221" type="checkbox" id="edit-field-brand-category-target-id-3221" name="field_brand_category_target_id[3221]" value="3221" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3221" class="option">Crop Care</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2687 js-form-item-field-brand-category-target-id-2687">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2687" type="checkbox" id="edit-field-brand-category-target-id-2687" name="field_brand_category_target_id[2687]" value="2687" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2687" class="option">Real Estate</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2688 js-form-item-field-brand-category-target-id-2688">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2688" type="checkbox" id="edit-field-brand-category-target-id-2688" name="field_brand_category_target_id[2688]" value="2688" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2688" class="option">Digital</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3224 js-form-item-field-brand-category-target-id-3224">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3224" type="checkbox" id="edit-field-brand-category-target-id-3224" name="field_brand_category_target_id[3224]" value="3224" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3224" class="option">Car &amp; Bike</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3225 js-form-item-field-brand-category-target-id-3225">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3225" type="checkbox" id="edit-field-brand-category-target-id-3225" name="field_brand_category_target_id[3225]" value="3225" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3225" class="option">Porter</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3291 js-form-item-field-brand-category-target-id-3291">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3291" type="checkbox" id="edit-field-brand-category-target-id-3291" name="field_brand_category_target_id[3291]" value="3291" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3291" class="option">First Cry</label>
+      </div>
+
+
+                                                    </li></ul>
+            
+</li><li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2689 js-form-item-field-brand-category-target-id-2689">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2689" type="checkbox" id="edit-field-brand-category-target-id-2689" name="field_brand_category_target_id[2689]" value="2689" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2689" class="option">Clean Energy</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-2690 js-form-item-field-brand-category-target-id-2690">
+        <input data-drupal-selector="edit-field-brand-category-target-id-2690" type="checkbox" id="edit-field-brand-category-target-id-2690" name="field_brand_category_target_id[2690]" value="2690" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-2690" class="option">Steel</label>
+      </div>
+
+
+                                                    <ul>
+            
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3229 js-form-item-field-brand-category-target-id-3229">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3229" type="checkbox" id="edit-field-brand-category-target-id-3229" name="field_brand_category_target_id[3229]" value="3229" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3229" class="option">Accelo</label>
+      </div>
+
+
+                                      </li>
+  
+<li><div class="js-form-item form-item js-form-type-checkbox form-item-field-brand-category-target-id-3230 js-form-item-field-brand-category-target-id-3230">
+        <input data-drupal-selector="edit-field-brand-category-target-id-3230" type="checkbox" id="edit-field-brand-category-target-id-3230" name="field_brand_category_target_id[3230]" value="3230" class="form-checkbox">
+
+        <label for="edit-field-brand-category-target-id-3230" class="option">Cero</label>
+      </div>
+
+
+  </li>
+            </ul></li>
+        </ul>
+            </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-form-item form-item js-form-type-select form-item-field-brand-category-target-id-1 js-form-item-field-brand-category-target-id-1">
+      
+        <select data-drupal-selector="edit-field-brand-category-target-id-1" id="edit-field-brand-category-target-id-1" name="field_brand_category_target_id_1" class="form-select"><option value="All" selected="selected">- Any -</option><option value="1">All</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-textfield form-item-combine js-form-item-combine">
+      
+        <input data-drupal-selector="edit-combine" data-msg-maxlength="This field has a maximum length of 128." type="text" id="edit-combine" name="combine" value="" size="30" maxlength="128" class="form-text">
+
+        </div>
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="">
+
+<input data-bef-auto-submit-click="" class="js-hide button js-form-submit form-submit" data-drupal-selector="edit-submit-our-brands" type="submit" id="edit-submit-our-brands" value="Apply">
+
+
+
+</form>
+
+	
+	
+
+	
+	
+</div>
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="view-also-mob"></div>
+		</div>
+  </div></section>
+<style>
+@media (min-width: 768px) {
+  .spotlight-home-wrap .main-slider .swiper-slide.nogradient .content h1 {
+    color: #dd052b;
+  }
+
+  .beam-slider .swiper-slide .content small {
+    color: black;
+    font-weight: bold;
+  }
+}
+</style>
+</div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/4939e175.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/4939e175.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/4939e175.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"our-brands","data-path":"/our-brands","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"our-brands","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mahindra Brands – Explore Our Extensive Product and Service Portfolio"}],["$","meta","1",{"name":"description","content":"Explore Mahindra's extensive portfolio of brands, including SUVs, tractors, financial services, and technology solutions, catering to various industries worldwide."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"

@@ -1,0 +1,6 @@
+:HL["/mahindra-nextjs/_next/static/chunks/1ka61tajhxdk0.css","style"]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/mahindra-nextjs/fonts/QuantumRise-Medium.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"Wa_sGT5j9mMKtyIHh49yf","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

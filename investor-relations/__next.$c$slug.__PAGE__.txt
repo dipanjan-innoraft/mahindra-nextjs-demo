@@ -1,0 +1,972 @@
+2:"$Sreact.fragment"
+3:"/mahindra-nextjs/_next/static/chunks/1bnlvs_0-3_hp.js"
+4:"/mahindra-nextjs/_next/static/chunks/3kh82x0z_nlfp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js"
+c:I[9283,["$3","$4","$b"],"default"]
+13:"ViewportBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$3","$4"],"IconMark"]
+:HL["/mahindra-nextjs/css/f7def6ba.css","style"]
+:HL["/mahindra-nextjs/css/910d0589.css","style"]
+8:X
+8:C
+9:X
+d:[[["$","source","https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp",{"media":"(max-width: 576px)","srcSet":"https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp"}],["$","source","https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20Adapt%201903x841%20copy.jpg.webp",{"media":"(max-width: 799px)","srcSet":"https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20Adapt%201903x841%20copy.jpg.webp"}]],["$","img",null,{"src":"https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20Adapt%201903x841%20copy.jpg.webp","alt":""}]]
+e:Tb83c,<div id="block-mahindra-content">
+  
+    
+      <article data-history-node-id="4577">
+
+  
+    
+
+  
+  <div>
+      <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div>
+  
+    
+      
+						<div><section class="section spotlight-home-wrap m-0 p-0">
+  <div class="beam-slider main-slider">
+    <div class="swiper-wrapper">
+      
+      
+     
+      
+      
+
+      <div class="swiper-slide nogradient  ">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 576px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20360x411%20Mobile%20copy.jpg.webp">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20Adapt%201903x841%20copy.jpg.webp">
+            <img loading="lazy" src="https://www.mahindra.com/sites/default/files/2026-11/FY-Q2%2026%20Main%20Banner%20Adapt%201903x841%20copy.jpg.webp" alt="Mahindra Last Mile Mobility Recognized as Earthshot Prize 2026 Finalist" width="1903" height="841">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-lg-start">
+            <small style="font-weight: bold;">Resilience That Drives Progress</small>
+            <h1 class="heading font-medium font-size-tb small-font">MAHINDRA’S STRONG <br> Q2FY27 RESULTS</h1>
+            <p><strong>Sustained performance across key businesses.</strong></p>
+            <a href="/mahindra-nextjs/news-room/press-release/en/m-and-m-results-q2-F27" target="_self" class="btn btn-primary">Know More</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="swiper-slide nogradient">
+        <div class="slide-bgimg">
+          <picture>
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-03/Mahindra%20Ranks%205th%20Main%20Banner%20360x411%20Mobile%20copy.webp">
+            <img loading="eager" class="height-84" src="https://www.mahindra.com/sites/default/files/2026-03/Mahindra%20Ranks%205th%20Main%20Banner%20Adapt%201903x841%20without%20copy.webp" alt="M&amp;M Q3 F26 Analyst Meet" width="1903" height="841" oncontextmenu="return false;">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-md-start">
+            <small style="font-weight: bold;">A PROUD GLOBAL RECOGNITION</small>
+            <h2 class="heading font-medium font-size-tb">
+              MAHINDRA GROUP <br>
+              RANKS 5<sup>TH</sup>
+            </h2>
+            <p><strong>On TIME's Best Companies Asia-Pacific 2026 list</strong></p>
+            
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="swiper-slide">
+        <div class="slide-bgimg">
+          <picture>
+            
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-01/Investor%20Relations%20_%20Mobile.webp">
+            
+            <img src="https://www.mahindra.com/sites/default/files/2026-03/Investor%20Relations_%20desktop%20_%20without%20copy%20%281%29.webp" alt="" oncontextmenu="return false;">
+          </picture>
+        </div>
+        <div class="mob-content-home-spotlight">
+          <div class="content text-center text-md-start">
+            
+            <h2 class="heading font-medium font-size-tb">
+              Rise to create value
+            </h2>
+            <p>Purpose drives growth across our businesses.</p>
+            
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div class="swiper-button-prev swiper-button-white"></div>
+    <div class="swiper-button-next swiper-button-white"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+</section>
+<style>
+  .work-with-us .grid-layout .slides:hover .wrap .btn-primary.button-white {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .work-with-us .grid-layout .slides:hover .wrap .btn-primary.button-white:before {
+    background: #fff !important;
+    border: #dd052b solid 1px !important;
+  }
+
+  @media (max-width: 834px) {
+    .img-postion-top {
+      object-position: center -1px !important;
+    }
+  }
+
+  @media screen and (min-width: 1378px) and (max-width: 1500px) {
+    .beam-slider .swiper-slide .slide-bgimg img {
+      height: auto !important;
+    }
+  }
+
+  .beam-slider .swiper-slide .slide-bgimg img.image-top-109 {
+    object-position: center -65px;
+  }
+</style>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section">
+  <div class="section-header text-center">
+    <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">rise to create value</h2>
+    <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Group Highlights Q2 FY27
+    </p>
+  </div>
+  <div class="container only-value-content only-value-content-counter">
+    <div class="row">
+      <div class="col-12 col-sm-6" data-aos="fade-up" data-aos-offset="100" data-aos-delay="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        <div class="value-div">
+          <h6>
+            <span>21%</span>%
+          </h6>
+          <p>
+            Consolidated ROE (ANNUALIZED)
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6" data-aos="fade-up" data-aos-offset="100" data-aos-delay="200" data-aos-duration="650" data-aos-easing="ease-in-out">
+        <div class="value-div">
+          <h6>
+            ₹ <span>57553</span> CR
+          </h6>
+          <p>
+            Revenue
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6" data-aos="fade-up" data-aos-offset="100" data-aos-delay="300" data-aos-duration="650" data-aos-easing="ease-in-out">
+        <div class="value-div">
+          <h6>
+            ₹ <span>4588</span> CR
+          </h6>
+          <p>
+            PAT
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6" data-aos="fade-up" data-aos-offset="100" data-aos-delay="400" data-aos-duration="650" data-aos-easing="ease-in-out">
+        <div class="value-div">
+          <h6>
+            ₹ <span>3.84</span> TRILLION
+          </h6>
+          <p>
+            Market cap
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section">
+  <div class="section-header text-center">
+    <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">M&amp;M Highlights</h2>
+    <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Performance over the years. </p>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-3 M-view">
+        <select class="form-select form-select-lg mb-3 mob-select-grp" aria-label=".form-select-lg example">
+          <option selected="" value="#category_tab1">REVENUE</option>
+          <option value="#category_tab2">EBITDA</option>
+          <option value="#category_tab3">PAT</option>
+          <option value="#category_tab4">EBITDA MARGIN</option>
+          <option value="#category_tab5">DIVIDEND PAYOUT</option>
+        </select>
+      </div>
+      <div class="col-12">
+        <div class="row">
+          <div class="radio-container" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+            <div class="radio">
+              <input id="radio-1" name="radio" type="radio" checked="">
+              <label for="radio-1" class="radio-label">In Rupees</label>
+            </div>
+            <div class="radio">
+              <input id="radio-2" name="radio" type="radio">
+              <label for="radio-2" class="radio-label">In Dollars</label>
+            </div>
+          </div>
+        </div>
+        <div class="row m-m-highlights">
+          <div class="col-12 col-lg-3 D-view" data-aos="fade-up" data-aos-delay="100">
+            <div id="myTab" class="tab-head flex-column">
+              <a href="#category_tab1" data-bs-toggle="pill" class="active nav-link">Revenue</a>
+              <a href="#category_tab2" data-bs-toggle="pill" class="nav-link">EBITDA</a>
+              <a href="#category_tab3" data-bs-toggle="pill" class="nav-link">PAT</a>
+              <a href="#category_tab4" data-bs-toggle="pill" class="nav-link">EBITDA Margin</a>
+              <a href="#category_tab5" data-bs-toggle="pill" class="nav-link">Dividend Payout</a>
+            </div>
+          </div>
+          <div class="col-12 col-lg-9 tab-content" data-aos="fade-up" data-aos-delay="400" style="overflow-x: auto;">
+            <article class="tab-pane fade show active" id="category_tab1">
+              <ul>
+                <li data-width="40" data-rs="44,629.87 Cr" data-amt="44629.87" data-max="120000" data-doller="$5.45 Billion" data-doller-max="1000" data-year="2021">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+                <li data-width="30" data-rs="57,445.97 Cr" data-amt="57445.97" data-max="120000" data-doller="$7.02 Billion" data-doller-max="1000" data-year="2022"><span class="year"></span><span class="amount"></span></li>
+                <li data-width="60" data-rs="84,960 Cr" data-amt="84960" data-max="120000" data-doller="$10.59 Billion" data-doller-max="1000" data-year="2023">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+                <li data-width="60" data-rs="1,01,219 Cr" data-amt="101219" data-max="120000" data-doller="$12.14 Billion" data-doller-max="1000" data-year="2024">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="1,18,625 Cr" data-amt="118625" data-max="120000" data-doller="$13.87 Billion" data-doller-max="1000" data-year="2025">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+                <li data-width="60" data-rs="1,47,765 Cr" data-amt="147765" data-max="120000" data-doller="$16.73 Billion" data-doller-max="1000" data-year="2026">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+              </ul>
+            </article>
+            <article class="tab-pane fade" id="category_tab2">
+              <ul>
+                
+                <li data-width="40" data-rs="6,957.48 Cr" data-amt="6957.48" data-max="20000" data-doller="$851 Million" data-doller-max="1000" data-year="2021">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="30" data-rs="7,042.29 Cr" data-amt="7042.29" data-max="20000" data-doller="$861.4 Million" data-doller-max="1000" data-year="2022">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="10,442 Cr" data-amt="10442" data-max="20000" data-doller="$1,301.89 Million" data-doller-max="2000" data-year="2023">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="15,122 Cr" data-amt="15122" data-max="20000" data-doller="$1.81 Billion" data-doller-max="2000" data-year="2024">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="18,416 Cr" data-amt="18416" data-max="20000" data-doller="$2.15 Billion" data-doller-max="2000" data-year="2025">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+                <li data-width="60" data-rs="22,490 Cr" data-amt="22490" data-max="20000" data-doller="$2.55 Billion" data-doller-max="2000" data-year="2026">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+              </ul>
+            </article>
+            <article class="tab-pane fade" id="category_tab3">
+              <ul>
+
+                
+
+                <li data-width="40" data-rs="984.16 Cr" data-amt="984.16" data-max="15000" data-doller="$120.4 Million" data-doller-max="1000" data-year="2021">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="30" data-rs="4,935.22 Cr" data-amt="4935.22" data-max="15000" data-doller="$603.6 Million" data-doller-max="1000" data-year="2022">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="6,549 Cr" data-amt="6549" data-max="15000" data-doller="$816.52 Million" data-doller-max="1000" data-year="2023">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="10,718 Cr" data-amt="10718" data-max="15000" data-doller="$1.29 Billion" data-doller-max="1000" data-year="2024">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="11,855 Cr" data-amt="11855" data-max="15000" data-doller="$1.39 Billion" data-doller-max="1000" data-year="2025">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+                <li data-width="60" data-rs="15,639 Cr" data-amt="15639" data-max="15000" data-doller="$1.77 Billion" data-doller-max="1000" data-year="2026">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+              </ul>
+            </article>
+            <article class="tab-pane fade" id="category_tab4">
+              <ul>
+                
+
+                <li data-width="40" data-rs="15.60%" data-amt="15.60" data-max="100" data-doller="15.60%" data-year="2021">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="30" data-rs="12.3%" data-amt="12.3" data-max="100" data-doller="12.3%" data-year="2022">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="12.30%" data-amt="12.30" data-max="100" data-doller="12.30%" data-year="2023">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="14.94%" data-amt="14.94" data-max="100" data-doller="14.94%" data-year="2024">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="15.5%" data-amt="15.5" data-max="100" data-doller="15.5%" data-year="2025">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+                <li data-width="60" data-rs="15.2%" data-amt="15.2" data-max="100" data-doller="15.2%" data-year="2026">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+              </ul>
+            </article>
+            <article class="tab-pane fade" id="category_tab5">
+              <ul>
+                
+                <li data-width="40" data-rs="1,088.00 Cr" data-amt="1088.00" data-max="10000" data-doller="$13.31 Million" data-year="2021">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="30" data-rs="1,436.00 Cr" data-amt="1436.00" data-max="10000" data-doller="$17.56 Million" data-year="2022">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="2,021.00 Cr" data-amt="2021.00" data-max="10000" data-doller="$251.97 Million" data-year="2023">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="2,624.00 Cr" data-amt="2624.00" data-max="10000" data-doller="$314.72 Million" data-year="2024">
+                  <span class="year"></span><span class="amount"></span>
+                </li>
+
+                <li data-width="60" data-rs="3,146 Cr" data-amt="3146" data-max="10000" data-doller="$367.86 Million" data-year="2025"><span class="year"></span><span class="amount"></span></li>
+                <li data-width="60" data-rs="4,104 Cr" data-amt="4104" data-max="10000" data-doller="$464.59 Million" data-year="2026"><span class="year"></span><span class="amount"></span></li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="latest-announcement">
+    <div class="container">
+    <div class="row">
+    <div class="col-12">
+    <div class="section-header text-center">
+    <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">latest announcements</h2>
+    </div>
+    
+    <div class="tab-nav">
+    <ul class="nav" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        <li class="nav-item"><a class="nav-link active" href="#invester-relation">Investor Relations</a></li>
+        <li class="nav-item" role="presentation"><a aria-controls="cybersecurity" aria-selected="false" class="nav-link" data-toggle="pill" href="#regaulatory-filling" id="cybersecurity-tab" role="tab">Regulatory Filings</a></li>
+    </ul>
+    </div>
+    
+    <div class="tab-content" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+    <div class="tab-pane fade show active" id="invester-relation">
+    <div class="report-table two-column">
+<div class="js-view-dom-id-52339de94b765b22e889eda1e98ce46e02ca7ea5c906b5ef4801cd1c8a375191">
+	
+	
+	
+
+	
+	
+	
+
+	<div>
+  
+  <ul class="search-list">
+
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>M&amp;M Q2F27 Analyst Meet - Transcript</strong> <small><time datetime="2026-11-11T12:00:00Z">11 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    <div class="icons">
+                      <a href="https://www.mahindra.com/sites/default/files/2026-11/M%26M%20Q2F27%20Analyst%20Meet%20-Transcript.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                    </div></li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Press Releases - Sales Performance of Auto &amp; Farm Sectors during October 2026</strong> <small><time datetime="2026-11-05T12:00:00Z">5 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    <div class="icons">
+                      <a href="https://www.mahindra.com/sites/default/files/2026-11/Press%20Releases%20Auto%20%26%20Farm%20October%202026.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                    </div></li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>M&amp;M Q2F27 Analyst Meet – Presentations deck – 5th November 2026</strong> <small><time datetime="2026-11-05T12:00:00Z">5 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    <div class="icons">
+                      <a href="https://www.mahindra.com/sites/default/files/2026-11/M%26M%20Q2F27%20Analyst%20Meet%20%E2%80%93%20Presentations%20deck%20%E2%80%93%205th%20November%202026%20.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                    </div></li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Press Release Q2 F27</strong> <small><time datetime="2026-11-05T12:00:00Z">5 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    <div class="icons">
+                      <a href="https://www.mahindra.com/sites/default/files/2026-11/5.%20Press%20Release%20Q2%20F27.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                    </div></li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Quarterly Result for Q2F27</strong> <small><time datetime="2026-11-05T12:00:00Z">5 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    <div class="icons">
+                      <a href="https://www.mahindra.com/sites/default/files/2026-11/Quarterly%20Results%20for%20Q2F27.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                    </div></li>
+    
+  </ul>
+
+</div>
+
+		
+
+	
+	
+
+	
+	
+</div>
+
+
+    <div class="view-all"><a href="/mahindra-nextjs/investor-report">View All</a></div>
+    </div>
+    </div>
+    
+    <div class="tab-pane fade" id="regaulatory-filling">
+    <div class="report-table two-column">
+<div class="js-view-dom-id-4151ff19fcdf1a152bc2787fe98abd6027be6c1db80a9b83508cd5c7d6f0b483">
+	
+	
+	
+
+	
+	
+	
+
+	<div>
+  
+  <ul class="search-list">
+
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Newspaper publication in respect of information Regarding Notice Of Loss Of Share Certificate(s) </strong> <small><time datetime="2026-11-20T12:00:00Z">20 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    							<div class="download-link">
+                                <a href="https://www.mahindra.com/sites/default/files/2026-11/SE_INTIMATION_LOST%20OF%20SHARE%20CERTIFICATE_2026%20-%20NOVEMBER.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                            </div>
+							</li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Production, Sales and Export figures of the Company for the Month of October 2026</strong> <small><time datetime="2026-11-12T12:00:00Z">12 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    							<div class="download-link">
+                                <a href="https://www.mahindra.com/sites/default/files/2026-11/MonthlyReportOct2026.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                            </div>
+							</li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Approval for investment in proposed Rights Issue of SML Mahindra Limited, a listed subsidiary of the Company</strong> <small><time datetime="2026-11-06T12:00:00Z">6 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    							<div class="download-link">
+                                <a href="https://www.mahindra.com/sites/default/files/2026-11/SEIntimationSMLRightsIssue.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                            </div>
+							</li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Newspaper Publication of Unaudited Financial Results – Regulation 47 of the SEBI Listing Regulations</strong> <small><time datetime="2026-11-06T12:00:00Z">6 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    							<div class="download-link">
+                                <a href="https://www.mahindra.com/sites/default/files/2026-11/IntimationofNewspaperPublication06112026.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                            </div>
+							</li>
+          <li><div class="title">
+                      <span><img src="https://www.mahindra.com/themes/custom/mahindra/img/file.svg"></span>
+                      <p><strong>Related Party Disclosure for H1 FY 27</strong> <small><time datetime="2026-11-05T12:00:00Z">5 November 2026</time>
+</small></p>
+                      
+                    </div>
+                    							<div class="download-link">
+                                <a href="https://www.mahindra.com/sites/default/files/2026-11/SEIntimationRPT_H1F27_05112026.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg"></a>
+                            </div>
+							</li>
+    
+  </ul>
+
+</div>
+
+		
+
+	
+	
+
+	
+	
+</div>
+
+
+    <div class="view-all"><a href="/mahindra-nextjs/investor-report/investor-regulatory-filings">View All</a></div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section mt-0 pb-lg-0">
+	<div class="container">
+		<div class="section-header text-center">
+			<h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">esg impact</h2>
+			<p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Good for
+				Business.</p>
+		</div>
+	</div>
+	<div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="beam-slider main-slider loading height-80 pt-0">
+			<div class="swiper-wrapper">
+				
+				<div class="swiper-slide">
+					<picture class="slide-bgimg">
+						
+						<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/img/esg-banner2-mob.webp">
+						
+						<img src="https://www.mahindra.com/sites/default/files/img/esg-banner2.webp" class="img-fluid" alt="600 Mn$ - Green Revenue">
+					</picture>
+					<div class="content regular-content">
+						<h2 class="heading font-semibold">600 Mn$ - Green Revenue</h2>
+						<p>We create sustainable value through our environmental focus.
+							We’re also committed to being carbon neutral by 2040, ten years
+							ahead of The Paris Agreement. </p>
+						
+					</div>
+				</div>
+				
+			</div>
+			
+			
+		</div>
+	</div>
+	<div class="container mt-3">
+		<div class="extButton" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out"><a href="https://esg.churchgatepartners.com/login/companyprofile?id=330037003300240024004100530048004F004B0041004E0041004E00590041004100560041004E004900410053004800570049004E00490024002400" target="_blank" rel="noopener">View ESG Profile <img src="https://www.mahindra.com/themes/custom/mahindra/img/external-link-arrow.svg"></a></div>
+	</div>
+</section>
+<section class="section board-of-directors investor-board-directors text-center mt-1">
+	<div class="section-header text-center">
+		<h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">governance</h2>
+		<p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">The highest
+			ethical standards across levels.</p>
+	</div>
+	<h3 class="font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">board of directors
+	</h3>
+	<picture data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		
+		<source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-10/Invest_Mahindra_Leaders%20Collage-Homepage-Mobile.webp">
+		
+		<img src="https://www.mahindra.com//sites/default/files/2025-10/Mahindra_Leaders%20Collage-Homepage%20Banner%20V2.webp" class="img-fluid" alt="Mahindra board of directors">
+		
+	</picture>
+	<p class="mt-3" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		Independent and diversified to ensure gold standards in governance.<br></p>
+	<div class="extButton text-center" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out"><a href="/mahindra-nextjs/leadership">Learn More</a></div>
+</section>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section committSection text-center">
+  <h3 class="font-regular mb-2" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">committees</h3>
+<div class="icons mb-4" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+<a href="https://www.mahindra.com/sites/default/files/2023-02/COMMITTEES%20OF%20THE%20BOARD.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+</div>
+  <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-delay="50" data-aos-easing="ease-in-out">Our strategic, regulatory lighthouse. </p>
+  <div class="container">
+      <div class="row flickity-slider-mobile-wrap" data-flickity="{ &quot;wrapAround&quot;: false, &quot;lazyLoad&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: false, &quot;imagesLoaded&quot;: true, &quot;cellAlign&quot;: &quot;left&quot;, &quot;watchCSS&quot;: true, &quot;adaptiveHeight&quot;: true }">
+          <div class="col-lg-4 col mb-5" data-aos="fade-up" data-aos-delay="100">
+              <div class="iconImg  m-auto"><img src="https://www.mahindra.com/themes/custom/mahindra/img/commit-img1.svg" width="auto" height="auto" alt="" loading="lazy"></div>
+              <p><strong>Audit Committee</strong></p>
+              
+              <div class="icons">
+                  <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/audit%20committee.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+              </div>
+          </div>
+          <div class="col-lg-4 col mb-5" data-aos="fade-up" data-aos-delay="400">
+              <div class="iconImg  m-auto"><img src="https://www.mahindra.com/themes/custom/mahindra/img/commit-img2.svg" width="auto" height="auto" alt="" loading="lazy"></div>
+              <p><strong>Governance, Nomination <br> and Remuneration Committee</strong></p>
+              
+              <div class="icons">
+                  <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/Governance%20Committee.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+              </div>
+          </div>
+          <div class="col-lg-4 col mb-5" data-aos="fade-up" data-aos-delay="700">
+              <div class="iconImg  m-auto"><img src="https://www.mahindra.com/themes/custom/mahindra/img/commit-img3.svg" width="auto" height="auto" alt="" loading="lazy"></div>
+              <p><strong>Stakeholder Relationship  <br> Committee</strong></p>
+              
+              <div class="icons">
+                  <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/Stakeholders%20Relationship%20Committee.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+              </div>
+          </div>
+          <div class="col-lg-4 col mb-5" data-aos="fade-up" data-aos-delay="100">
+              <div class="iconImg  m-auto"><img src="https://www.mahindra.com/themes/custom/mahindra/img/commit-img4.svg" width="auto" height="auto" alt="" loading="lazy"></div>
+              <p><strong>Corporate Social Responsibility <br> Committee</strong></p>
+              
+              <div class="icons">
+                  <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/CSR%20Committee.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+              </div>
+          </div>
+          <div class="col-lg-4 col mb-5" data-aos="fade-up" data-aos-delay="400">
+              <div class="iconImg  m-auto"><img src="https://www.mahindra.com/themes/custom/mahindra/img/commit-img5.svg" width="auto" height="auto" alt="" loading="lazy"></div>
+              <p><strong>Risk Management Committee</strong></p>
+              
+              <div class="icons">
+                  <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/Risk%20Management%20Committee.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+              </div>
+          </div>
+          <div class="col-lg-4 col mb-5" data-aos="fade-up" data-aos-delay="700">
+              <div class="iconImg  m-auto"><img src="https://www.mahindra.com/themes/custom/mahindra/img/commit-img6.svg" width="auto" height="auto" alt="" loading="lazy"></div>
+              <p><strong>Strategic Investment Committee</strong></p>
+              
+              <div class="icons">
+                  <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/Strategic%20Investment%20Committee.pdf" download="" target="_blank" rel="noopener">Download <img src="https://www.mahindra.com/themes/custom/mahindra/img/download.svg" width="auto" height="auto" alt="" loading="lazy"></a>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+<style>
+.committSection .icons a {
+    font-size: 1rem;
+    line-height: 1.18;
+    color: #DD052B;
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+    position: relative;
+}
+</style></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section my-0 py-0">
+    <div class="our-policy" data-aos="fade-up">
+        <picture>
+            
+            <img src="https://www.mahindra.com/sites/default/files/img/our-polices-banner.webp" width="auto" height="auto" alt="Mahindra Policies &amp; Documents" loading="lazy">
+        </picture>
+        <div class="section-header text-center">
+            <div class="container">
+                <h2 class="heading font-regular">Policies &amp; Documents </h2>
+                <p>A
+                    zero-tolerance code of conduct. </p>
+                <div class="linksBox">
+                    <a href="https://www.mahindra.com/themes/custom/mahindra/pdf/Anti%20bribery-Policy.pdf" download="" target="_blank" rel="noopener">Anti Bribery</a>
+                    <a href="https://www.mahindra.com/sites/default/files/2023-02/Policy%20on%20Prevention%20of%20Sexual%20Harassment_0.pdf" download="" target="_blank" rel="noopener">POSH</a>
+                    <a href="https://www.mahindra.com/sites/default/files/2025-08/Whistle-blower%20Policy.pdf" target="_blank" rel="noopener">Whistle
+                        Blower</a>
+                    <a href="https://www.mahindra.com/sites/default/files/2024-06/M-and-M-MoA-and-AoA-2024.pdf" download="" target="_blank" rel="noopener">Memorandum and Articles of Association</a>
+                    
+                </div>
+                <p>We ensure a strict code of
+                    conduct with anti-bribery and data privacy laws. </p>
+                <div class="row mt-5">
+                    <div class="col text-center">
+                        <a href="/mahindra-nextjs/investor-relations/policies-and-documents" class="btn btn-primary">All
+                            Policies</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section></div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section awardSection pb-0">
+  <div class="container">
+    <div class="section-header text-lg-center text-start">
+      <h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        awards &amp; recognitions
+      </h2>
+      <p data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+        Rewards are our prestige, trust is our pride.
+      </p>
+    </div>
+  </div>
+
+  <div class="position-relative" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+    <div class="beam-slider main-slider loading height-80 pt-0">
+      <div class="swiper-wrapper">
+
+        <div class="swiper-slide">
+          <picture class="slide-bgimg">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-11/Golden%20Peacock%20Global%20Award%202026%20awards%20section%20mobile%20version%20360%20x%20520%20copy.webp">
+            <img src="https://www.mahindra.com/sites/default/files/2026-11/GPGA%20Main%20Banner%20Adapt%201903x841%20copy.webp" class="img-fluid" alt="" loading="lazy">
+          </picture>
+          <div class="content medium-text no-line1">
+            <h2 class="heading font-semibold">
+              GOLDEN PEACOCK <br>GLOBAL AWARD FOR <br>EXCELLENCE IN CORPORATE <br>GOVERNANCE 2026
+            </h2>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <picture class="slide-bgimg">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-10/Mahindra%20TIME%20Awards%20Mobile%20Banner%20360%20x%20520.jpg.webp">
+            <img src="https://www.mahindra.com/sites/default/files/2026-10/Mahindra%20TIME%20Awards.webp" class="img-fluid" alt="" loading="lazy">
+          </picture>
+          
+        </div>
+        <div class="swiper-slide">
+          <picture class="slide-bgimg">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2026-10/Worlds%20Most%20Trustworthy%20Companies%202026%20Mobile%20Banner%20360%20x%20520.jpg.webp">
+            <img src="https://www.mahindra.com/sites/default/files/2026-10/Worlds%20Most%20Trustworthy%20Companies%202026.webp" class="img-fluid" alt="" loading="lazy">
+          </picture>
+          
+        </div>
+        <div class="swiper-slide">
+          <picture class="slide-bgimg">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-12/India%27s%20Top%20Value%20Creator%202025%20360%20x%20520.webp">
+            <img src="https://www.mahindra.com/sites/default/files/2025-12/India%27s%20Top%20Value%20Creator%202025%201440%20x%20600%20px%20copy.webp" class="img-fluid" alt="" loading="lazy">
+          </picture>
+          <div class="content medium-text no-line1">
+            <h2 class="heading font-semibold">
+              MAHINDRA AWARDED <br>
+              INDIA'S TOP VALUE <br>
+              CREATOR 2025
+            </h2>
+          </div>
+        </div>
+
+        
+
+        <div class="swiper-slide">
+          <picture class="slide-bgimg">
+            <source media="(max-width: 799px)" srcset="https://www.mahindra.com/sites/default/files/2025-05/RISE%20Page_ET%20Now%20Award_mobile-without%20text.webp">
+            <img src="https://www.mahindra.com/sites/default/files/2025-05/RISE%20Page_ET%20Now%20Award_desktop-without%20text.webp" class="img-fluid" alt="" loading="lazy">
+          </picture>
+          <div class="content medium-text no-line1">
+            <h2 class="heading font-semibold">
+              MAHINDRA RISE AWARDED<br>ICONIC BRANDS OF INDIA 2024<br>BY ET
+              NOW
+            </h2>
+          </div>
+        </div>
+        
+      </div>
+      <div class="swiper-button-prev swiper-button-white"></div>
+      <div class="swiper-button-next swiper-button-white"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+  
+</section>
+<style>
+  @media screen and (max-width: 576px) {
+    .awardSection .swiper-slide img {
+      height: 100% !important;
+    }
+  }
+</style>
+</div>
+			
+  </div>
+<div>
+  
+    
+      
+						<div><section class="section contact-us">
+	<div class="container-1280">
+	  <div class="row">
+		<div class="col-12">
+		  <div class="section-header text-center">
+			<h2 class="heading font-regular" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">Get in touch</h2>
+		  </div>
+		</div>
+	  </div>
+	  <div class="row" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="col-md-7 col-12 pe-lg-0">
+		  <div class="image" data-scroll="">
+			<picture>
+			  
+			  <source media="(max-width: 992px)" srcset="https://www.mahindra.com/sites/default/files/img/TechM-Pune-Office-1-mob.webp">
+			  
+			  <img src="https://www.mahindra.com/sites/default/files/img/TechM-Pune-Office-1.webp" alt="">
+			</picture>
+		  </div>
+		</div>
+		<div class="col-md-5 col-12 ps-lg-0">
+		  <div class="inquiry-text">
+			<h4>FOR INQUIRY</h4>
+			<div class="btn-grp">
+			  <a href="/mahindra-nextjs/contact-us" class="btn inquire-now">Contact Us</a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	  <div class="row mt-2" data-aos="fade-up" data-aos-offset="100" data-aos-duration="650" data-aos-easing="ease-in-out">
+		<div class="col-lg-5 col-12 pe-lg-0">
+		  <div class="info-box col-12">
+			<h4>for institutional investor query</h4>
+			<p>
+			  <a href="/mahindra-nextjs/cdn-cgi/l/email-protection#eda4a3beb9a4b9b8b9a4a2a3aca1a4a3bba8beb9a2bfbead808c858483899f8cc38e8280" class="" style="word-wrap: break-word;"><span class="__cf_email__" data-cfemail="f7beb9a4a3bea3a2a3beb8b9b6bbbeb9a1b2a4a3b8a5a4b79a969f9e99938596d994989a">[email&nbsp;protected]</span></a>
+			</p>
+		  </div>
+		  <div class="info-box col-12 mt-2">
+			<h4>for retailer investor query</h4>
+			<p>
+			  <a href="/mahindra-nextjs/cdn-cgi/l/email-protection#d8b1b6aebdabacb7aaab98b5b9b0b1b6bcaab9f6bbb7b5" class=""><span class="__cf_email__" data-cfemail="553c3b233026213a27261538343d3c3b3127347b363a38">[email&nbsp;protected]</span></a>
+			</p>
+		  </div>
+		</div>
+		<div class="col-lg-7 col-12 ps-lg-2 sm-mt-2">
+		  <div class="newsletter-wrap">
+			<div class="newsletter col-md-9">
+			  <h4>subscribe to investor newsletter</h4>
+			  <p>
+				Subscribe to receive all the latest investor news and updates from Mahindra.
+			  </p>
+			  <div id="webform-submission-investor-newsletter-node-4577-form-ajax-content" tabindex="-1"><div id="webform-submission-investor-newsletter-node-4577-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-investor-newsletter-form webform-submission-investor-newsletter-add-form webform-submission-investor-newsletter-node-4577-form webform-submission-investor-newsletter-node-4577-add-form webform-submission-newsletter-form js-webform-submit-once js-webform-details-toggle webform-details-toggle antibot" data-drupal-selector="webform-submission-investor-newsletter-node-4577-add-form" data-action="/mahindra-nextjs/investor-relations" action="/mahindra-nextjs/antibot" method="post" id="webform-submission-investor-newsletter-node-4577-add-form" accept-charset="UTF-8">
+  
+  
+<div class="forrm-group js-webform-type-email webform-type-email js-form-item form-item js-form-type-email form-item-email js-form-item-email form-no-label">
+        <input class="form-control form-email required" autocomplete="off" data-webform-required-error="email is required" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" data-drupal-selector="edit-email" data-msg-email="Email does not contain a valid email." data-msg-required="email is required" data-msg-maxlength="Email field has a maximum length of 254." data-msg-pattern="Email does not meet the requirements." type="email" id="edit-email" name="email" value="" size="60" maxlength="254" placeholder="Enter your Mail ID to subscribe" required="required" aria-required="true">
+
+        </div>
+
+
+  <div class="custom-recaptcha-wrapper">
+    <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="7056176">
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="bwRwh0DQWeWgcX5oAHyaM-d-iifKC9pUHKx5HLr8lno">
+<input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="mahindra_forms" data-recaptcha-v3-site-key="6LcGBFosAAAAAGc-vvmwshwPtPQkygZAs_R5wrkr" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="">
+<input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1">
+
+  </div>
+
+<input class="webform-button--submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-actions-submit" data-disable-refocus="true" type="submit" id="edit-actions-submit" name="op" value="Submit">
+
+
+<input autocomplete="off" data-drupal-selector="form-pz6h3jfyabdtnfr812gemaypgeo0-geena30pqgzr3e" type="hidden" name="form_build_id" value="form-PZ6h3jFyABDTNfr812GEmayPGeo0-GEEnA30pqgZr3E">
+<input data-drupal-selector="edit-webform-submission-investor-newsletter-node-4577-add-form" type="hidden" name="form_id" value="webform_submission_investor_newsletter_node_4577_add_form">
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="">
+
+
+  
+</form>
+</div></div>
+			</div>
+			<div class="image col-md-3">
+			  <picture>
+				
+				<img src="https://www.mahindra.com/sites/default/files/img/michal-biernat-h0xEUQXzU38-unsplash-1.webp" alt="A woman with curly hair smiles as she writes in a notebook.">
+			  </picture>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </section></div>
+			
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+  
+
+</article>
+
+  </div>a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[[["$","link","/mahindra-nextjs/css/f7def6ba.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/f7def6ba.css","precedence":"route-css"}],["$","link","/mahindra-nextjs/css/910d0589.css",{"rel":"stylesheet","href":"/mahindra-nextjs/css/910d0589.css","precedence":"route-css"}]],["$","$Lc",null,{"hrefs":["/mahindra-nextjs/css/f7def6ba.css","/mahindra-nextjs/css/910d0589.css"]}],[],["$","picture",null,{"className":"route-hero-preload","aria-hidden":"true","children":"$d"}],["$","div",null,{"data-page-root":"","data-archetype":"investor-relations","data-path":"/investor-relations","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"investor-relations","s":[]},"h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mahindra Investor Relations - Quarterly Results, ESG, PAT, and Latest Announcements | Mahindra Investment and Finance Investor Relations"}],["$","meta","1",{"name":"description","content":"Explore Mahindra's Investor Relations hub for comprehensive financial statements, regulatory filings, and insights into our sustainable growth initiatives."}],["$","link","2",{"rel":"icon","href":"https://www.mahindra.com/themes/custom/mahindra/favicon.ico"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"Wa_sGT5j9mMKtyIHh49yf"}
+1c:I[31903,["$3","$4","$b"],"default"]
+1d:I[97367,["$3","$4"],"OutletBoundary"]
+f:["$","$L1c",null,{}]
+10:["$","script","script-0",{"src":"/mahindra-nextjs/_next/static/chunks/400i7tswi9h3h.js","async":true}]
+11:["$","$L1d",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1b:true
+9:300
+1e:null
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"
